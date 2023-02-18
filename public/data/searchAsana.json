@@ -1,0 +1,592 @@
+{
+    "data": [
+        {
+            "label": "Pawanmuktasana Series 1",
+            "routing": "/pose/1"
+        },
+        {
+            "label": "Pawanmuktasana Series 2",
+            "routing": "/pose/2"
+        },
+        {
+            "label": "Pawanmuktasana Series 3",
+            "routing": "/pose/3"
+        },
+        {
+            "label": "Series for Eyes",
+            "routing": "/pose/4"
+        },
+        {
+            "label": "Shavasana (Corpse Pose)",
+            "routing": "/pose/5"
+        },
+        {
+            "label": "Advasana (Reversed Corpse Pose) ",
+            "routing": "/pose/6"
+        },
+        {
+            "label": "Jyestikasana (Superior Pose)",
+            "routing": "/pose/7"
+        },
+        {
+            "label": "Makarasana (Crocodile Pose)",
+            "routing": "/pose/8"
+        },
+        {
+            "label": "Matsya Kridasana (Flapping Fish Pose)",
+            "routing": "/pose/9"
+        },
+        {
+            "label": "Sukhasana (Easy Pose)",
+            "routing": "/pose/10"
+        },
+        {
+            "label": "Ardha Padmasana (Half Lotus Pose)",
+            "routing": "/pose/11"
+        },
+        {
+            "label": "Padmasana (Lotus Pose)",
+            "routing": "/pose/12"
+        },
+        {
+            "label": "Siddhasana (Accomplished Pose for Men)",
+            "routing": "/pose/13"
+        },
+        {
+            "label": "Siddha Yoni Asana (Accomplished Pose for Women)",
+            "routing": "/pose/14"
+        },
+        {
+            "label": "Swastikasana (Auspicious Pose)",
+            "routing": "/pose/15"
+        },
+        {
+            "label": "Dhyana Veerasana (Hero's Meditation Pose)",
+            "routing": "/pose/16"
+        },
+        {
+            "label": "Vajrasana (Thunderbolt Pose)",
+            "routing": "/pose/17"
+        },
+        {
+            "label": "Ananda Madirasana (Intoxicating Bliss Pose)",
+            "routing": "/pose/18"
+        },
+        {
+            "label": "Padadhirasana (Breath Balancing Pose)",
+            "routing": "/pose/19"
+        },
+        {
+            "label": "Bhadrasana (Gracious Pose)",
+            "routing": "/pose/20"
+        },
+        {
+            "label": "Simhasana (Lion Pose)",
+            "routing": "/pose/21"
+        },
+        {
+            "label": "Simhagarjanasana (Roaring Lion Pose)",
+            "routing": "/pose/22"
+        },
+        {
+            "label": "Veerasana (Hero's Pose)",
+            "routing": "/pose/23"
+        },
+        {
+            "label": "Marjari-asana (Cat Stretch Pose)",
+            "routing": "/pose/24"
+        },
+        {
+            "label": "Vyaghrasana (Tiger Pose)",
+            "routing": "/pose/25"
+        },
+        {
+            "label": "Shashank Bhujangasana (Striking Cobra Pose) ",
+            "routing": "/pose/26"
+        },
+        {
+            "label": "Naman Pranamasana (Prostration Pose)",
+            "routing": "/pose/27"
+        },
+        {
+            "label": "Ashwa Sanchalanasana (Equestrian Pose)",
+            "routing": "/pose/28"
+        },
+        {
+            "label": "Ardha Ushtrasana (Half Camel Pose)",
+            "routing": "/pose/29"
+        },
+        {
+            "label": "Ushtrasana (Camel Pose)",
+            "routing": "/pose/30"
+        },
+        {
+            "label": "Supta Vajrasana (Sleeping Thunderbolt Pose)",
+            "routing": "/pose/31"
+        },
+        {
+            "label": "Bandha Hasta Utthanasana (Locked Hand Raising Pose)",
+            "routing": "/pose/32"
+        },
+        {
+            "label": "Akama Dhanurasana (Bow and Arrow Pose) ",
+            "routing": "/pose/33"
+        },
+        {
+            "label": "Tadasana (Palm Tree Pose)",
+            "routing": "/pose/34"
+        },
+        {
+            "label": "Tiryaka Tadasana (Swaying Palm Tree Pose)",
+            "routing": "/pose/35"
+        },
+        {
+            "label": "Kati Chakrasana (Waist Rotating Pose)",
+            "routing": "/pose/36"
+        },
+        {
+            "label": "Tiryaka Kati Chakrasana (Swaying Waist Rotating Pose)",
+            "routing": "/pose/37"
+        },
+        {
+            "label": "Meru Prishthasana (Spine and Back Pose)",
+            "routing": "/pose/38"
+        },
+        {
+            "label": "Utthanasana (Squat and Rise Pose)",
+            "routing": "/pose/39"
+        },
+        {
+            "label": "Druta Utkatasana (Dynamic Energy Pose)",
+            "routing": "/pose/40"
+        },
+        {
+            "label": "Samakonasana (Right Angle Pose)",
+            "routing": "/pose/41"
+        },
+        {
+            "label": "Dwikonasana (Double Angle Pose) ",
+            "routing": "/pose/42"
+        },
+        {
+            "label": "Trikonasana (Triangle Pose)",
+            "routing": "/pose/43"
+        },
+        {
+            "label": "Utthita Lolasana (Swinging While Standing Pose)",
+            "routing": "/pose/44"
+        },
+        {
+            "label": "Dolasana (Pendulum Pose)",
+            "routing": "/pose/45"
+        },
+        {
+            "label": "Surya Namaskara (Salutations to the Sun)",
+            "routing": "/pose/46"
+        },
+        {
+            "label": "Chandra Namaskara (Salutations to the Moon)",
+            "routing": "/pose/47"
+        },
+        {
+            "label": "Yogamudrasana (Psychic Union Pose)",
+            "routing": "/pose/48"
+        },
+        {
+            "label": "Matsyasana (Fish Pose)",
+            "routing": "/pose/49"
+        },
+        {
+            "label": "Gupta Padmasana (Hidden Lotus Pose)",
+            "routing": "/pose/50"
+        },
+        {
+            "label": "Baddha Padmasana (Locked Lotus Pose)",
+            "routing": "/pose/51"
+        },
+        {
+            "label": "Lolasana (Swinging Pose)",
+            "routing": "/pose/52"
+        },
+        {
+            "label": "Kukkutasana (Cockerel Pose)",
+            "routing": "/pose/53"
+        },
+        {
+            "label": "Garbhasana (Womb Pose)",
+            "routing": "/pose/54"
+        },
+        {
+            "label": "Tolangulasana (Weighing Scale Pose)",
+            "routing": "/pose/55"
+        },
+        {
+            "label": "Saral Bhujangasana (Easy Cobra Pose)",
+            "routing": "/pose/56"
+        },
+        {
+            "label": "Bhujangasana (Cobra Pose)",
+            "routing": "/pose/57"
+        },
+        {
+            "label": "Tiryaka Bhujangasana (Twisting Cobra Pose)",
+            "routing": "/pose/58"
+        },
+        {
+            "label": "Sarpasana (Snake Pose)",
+            "routing": "/pose/59"
+        },
+        {
+            "label": "Ardha Shalabhasana (Half Locust Pose)",
+            "routing": "/pose/60"
+        },
+        {
+            "label": "Shalabhasana (Locust Pose)",
+            "routing": "/pose/61"
+        },
+        {
+            "label": "Saral Dhanurasana (Easy Bow Pose)",
+            "routing": "/pose/62"
+        },
+        {
+            "label": "Dhanurasana (Bow Pose)",
+            "routing": "/pose/63"
+        },
+        {
+            "label": "Kandharasana (Shoulder Pose)",
+            "routing": "/pose/64"
+        },
+        {
+            "label": "Ardha Chandrasana (Half Moon Pose)",
+            "routing": "/pose/65"
+        },
+        {
+            "label": "Utthan Pristhasana (Lizard Pose)",
+            "routing": "/pose/66"
+        },
+        {
+            "label": "Setu Asana (Bridge Pose)",
+            "routing": "/pose/67"
+        },
+        {
+            "label": "Gomukhasana (Cow's Face Pose)",
+            "routing": "/pose/68"
+        },
+        {
+            "label": "Saithalyasana (Animal Relaxation Pose)",
+            "routing": "/pose/69"
+        },
+        {
+            "label": "Paschimottanasana (Back Stretching Pose)",
+            "routing": "/pose/70"
+        },
+        {
+            "label": "Gatyatmak Paschimottanasana (Dynamic Back Stretch Pose)",
+            "routing": "/pose/71"
+        },
+        {
+            "label": "Pada Prasar Paschimottanasana (Legs Spread Back Stretch Pose)",
+            "routing": "/pose/72"
+        },
+        {
+            "label": "Janu Sirshasana (Head to Knee Pose)",
+            "routing": "/pose/73"
+        },
+        {
+            "label": "Ardha Padma Paschimottanasana (Half Lotus Back Stretching Pose)",
+            "routing": "/pose/74"
+        },
+        {
+            "label": "Hasta Pada Angushthasana (Finger to Toe Stretch)",
+            "routing": "/pose/75"
+        },
+        {
+            "label": "Meru Akarshanasana (Spinal Bending Pose)",
+            "routing": "/pose/76"
+        },
+        {
+            "label": "Padahastasana (Hand to Foot Pose)",
+            "routing": "/pose/77"
+        },
+        {
+            "label": "Sirsha Angustha Yogasana (Head to Toe Pose)",
+            "routing": "/pose/78"
+        },
+        {
+            "label": "Utthita Janu Sirshasana (Standing Head Between Knees Pose)",
+            "routing": "/pose/79"
+        },
+        {
+            "label": "Eka Padottanasana (One Leg Raised to Head Pose)",
+            "routing": "/pose/80"
+        },
+        {
+            "label": "Meru Wakrasana (Spinal Twist)",
+            "routing": "/pose/81"
+        },
+        {
+            "label": "Bhu Namanasana (Spinal Twist Prostration Pose)",
+            "routing": "/pose/82"
+        },
+        {
+            "label": "Ardha Matsyendrasana (Half Spinal Twist)",
+            "routing": "/pose/83"
+        },
+        {
+            "label": "Parivritti Janu Sirshasana (Spiralled Head to Knee Pose)",
+            "routing": "/pose/84"
+        },
+        {
+            "label": "Bhumi Pada Mastakasana (Half Headstand)",
+            "routing": "/pose/85"
+        },
+        {
+            "label": "Vipareeta Karani Asana (Inverted Pose)",
+            "routing": "/pose/86"
+        },
+        {
+            "label": "Sarvangasana (Shoulder Stand Pose)",
+            "routing": "/pose/87"
+        },
+        {
+            "label": "Moordhasana (Crown-Based Pose)",
+            "routing": "/pose/88"
+        },
+        {
+            "label": "Padma Sarvangasana (Shoulder Stand Lotus Pose)",
+            "routing": "/pose/89"
+        },
+        {
+            "label": "Poorwa Halasana (Preliminary Plough Pose)",
+            "routing": "/pose/90"
+        },
+        {
+            "label": "Halasana (Plough Pose)",
+            "routing": "/pose/91"
+        },
+        {
+            "label": "Druta Halasana (Dynamic Plough Pose)",
+            "routing": "/pose/92"
+        },
+        {
+            "label": "Ardha Padma Halasana (Half Lotus Plough Pose)",
+            "routing": "/pose/93"
+        },
+        {
+            "label": "Stambhan Asana (Posture of Retention)",
+            "routing": "/pose/94"
+        },
+        {
+            "label": "Sirshasana (Headstand Pose)",
+            "routing": "/pose/95"
+        },
+        {
+            "label": "Salamba Sirshasana (Supported Headstand Pose)",
+            "routing": "/pose/96"
+        },
+        {
+            "label": "Niralamba Sirshasana (Unsupported Headstand Pose)",
+            "routing": "/pose/97"
+        },
+        {
+            "label": "Oordhwa Padmasana (Headstand Lotus Pose)",
+            "routing": "/pose/98"
+        },
+        {
+            "label": "Kapali Asana (Forehead Supported Pose)",
+            "routing": "/pose/99"
+        },
+        {
+            "label": "Eka Pada Pranamasana (One-Legged Prayer Pose)",
+            "routing": "/pose/100"
+        },
+        {
+            "label": "Natavarasana (Lord Krishna's Pose)",
+            "routing": "/pose/101"
+        },
+        {
+            "label": "Garudasana (Eagle Pose)",
+            "routing": "/pose/102"
+        },
+        {
+            "label": "Tandavasana (Lord Shiva's Dance)",
+            "routing": "/pose/103"
+        },
+        {
+            "label": "Saral Natarajasana (Preparatory Lord Shiva's Pose)",
+            "routing": "/pose/104"
+        },
+        {
+            "label": "Natarajasana (Lord Shiva's Pose)",
+            "routing": "/pose/105"
+        },
+        {
+            "label": "Eka Padasana (One Foot Pose)",
+            "routing": "/pose/106"
+        },
+        {
+            "label": "Bakasana (Crane Pose)",
+            "routing": "/pose/107"
+        },
+        {
+            "label": "Utthita Hasta Padangusthasana (Raised Hand to Big Toe Pose)",
+            "routing": "/pose/108"
+        },
+        {
+            "label": "Merudandasana (Spinal Column Pose)",
+            "routing": "/pose/109"
+        },
+        {
+            "label": "Niralamba Paschimottanasana (Unsupported Back Stretching Pose)",
+            "routing": "/pose/110"
+        },
+        {
+            "label": "Ardha Padma Padottanasana (Half Lotus Leg Stretch Pose)",
+            "routing": "/pose/111"
+        },
+        {
+            "label": "Ardha Baddha Padmottanasana (Half Lotus Forward Bending)",
+            "routing": "/pose/112"
+        },
+        {
+            "label": "Vatayanasana (Flying Horse Pose)",
+            "routing": "/pose/113"
+        },
+        {
+            "label": "Pada Angushthasana (Tiptoe Pose)",
+            "routing": "/pose/114"
+        },
+        {
+            "label": "Baka Dhyanasana (Patient Crane Pose)",
+            "routing": "/pose/115"
+        },
+        {
+            "label": "Eka Pada Baka Dhyanasana (One-Legged Crane Pose)",
+            "routing": "/pose/116"
+        },
+        {
+            "label": "Dwi Hasta Bhujasana (Two Hands and Arms Pose)",
+            "routing": "/pose/117"
+        },
+        {
+            "label": "Eka Hasta Bhujasana (Single Hand and Arm Pose)",
+            "routing": "/pose/118"
+        },
+        {
+            "label": "Hamsasana (Swan Pose)",
+            "routing": "/pose/119"
+        },
+        {
+            "label": "Santolanasana (Balancing Pose)",
+            "routing": "/pose/120"
+        },
+        {
+            "label": "Vashishthasana (Sage Vashishtha's Pose)",
+            "routing": "/pose/121"
+        },
+        {
+            "label": "Pooma Bhujangasana (Full Cobra Pose)",
+            "routing": "/pose/122"
+        },
+        {
+            "label": "Koormasana (Tortoise Pose)",
+            "routing": "/pose/123"
+        },
+        {
+            "label": "Poorna Shalabhasana (Full Locust Pose)",
+            "routing": "/pose/124"
+        },
+        {
+            "label": "Pooma Dhanurasana (Full Bow Pose)",
+            "routing": "/pose/125"
+        },
+        {
+            "label": "Dhanurakarshanasana (Archer's Pose)",
+            "routing": "/pose/126"
+        },
+        {
+            "label": "Prishthasana (Back Pose)",
+            "routing": "/pose/127"
+        },
+        {
+            "label": "Parighasana (Beam or Cross-Bar pose)",
+            "routing": "/pose/128"
+        },
+        {
+            "label": "Chakrasana (wheel pose)",
+            "routing": "/pose/129"
+        },
+        {
+            "label": "Hanumanasana (Hanuman's Pose)",
+            "routing": "/pose/130"
+        },
+        {
+            "label": "Brahmacharyasana (Celibate's Pose)",
+            "routing": "/pose/131"
+        },
+        {
+            "label": "Grivasana (Neck Pose)",
+            "routing": "/pose/132"
+        },
+        {
+            "label": "Sirshapada Bhumi Sparshasana (Head and Foot Touching the Ground Pose)",
+            "routing": "/pose/133"
+        },
+        {
+            "label": "Pooma Matsyendrasana (Full Spinal Twist Pose)",
+            "routing": "/pose/134"
+        },
+        {
+            "label": "Mayurasana (Peacock Pose)",
+            "routing": "/pose/135"
+        },
+        {
+            "label": "Padma Mayurasana (Lotus or Bound Peacock Pose)",
+            "routing": "/pose/136"
+        },
+        {
+            "label": "Moolabandhasana (Perineal Contraction Pose)",
+            "routing": "/pose/137"
+        },
+        {
+            "label": "Gorakshasana (Yogi Gorakhnath's Pose)",
+            "routing": "/pose/138"
+        },
+        {
+            "label": "Astavakrasana (Eight-Twists Pose)",
+            "routing": "/pose/139"
+        },
+        {
+            "label": "Vrischikasana (Scorpion Pose)",
+            "routing": "/pose/140"
+        },
+        {
+            "label": "Eka Pada Sirasana (One Foot to Head Pose)",
+            "routing": "/pose/141"
+        },
+        {
+            "label": "Utthan Eka Pada Sirasana (Standing Foot to Head Pose)",
+            "routing": "/pose/142"
+        },
+        {
+            "label": "Dwi Pada Sirasana (Two Feet to Head Pose)",
+            "routing": "/pose/143"
+        },
+        {
+            "label": "Dwi Pada Kandharasana (Two-Legged Shoulder Pose)",
+            "routing": "/pose/144"
+        },
+        {
+            "label": "Padma Parvatasana (Lotus Mountain Pose)",
+            "routing": "/pose/145"
+        },
+        {
+            "label": "Kashyapasana (Sage Kashyapa's Pose)",
+            "routing": "/pose/146"
+        },
+        {
+            "label": "Vishwamitrasana (Sage Vishwamitra's Pose)",
+            "routing": "/pose/147"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "plugins": [
+        "import",
+        "prettier",
+        "eslint-plugin-react"
+    ],
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+        "requireConfigFile": false,
+        "bableOptions": {
+            "presets": ["@babel/preset-react"]
+        }
+    },
+    "rules": {
+        "react/jsx-key": [
+            "error",
+            {
+                "checkFragmentShorthand": true,
+                "checkKeyMustBeforeSpread": true
+            }
+        ],
+        "react/jsx-sort-props": [
+            "error",
+            {
+                "callbacksLast": false,
+                "shorthandFirst": true,
+                "shorthandLast": false,
+                "ignoreCase": true,
+                "noSortAlphabetically": false,
+                "reservedFirst": false
+            }
+        ],
+        "react/no-array-index-key": "error",
+        "react/jsx-fragments": [
+            "error",
+            "syntax"
+        ],
+        "react/no-unused-state": "warn",
+        "react/require-default-props": [
+            "warn",
+            {
+                "functions": "defaultArguments"
+            }
+        ],
+        "default-param-last": "error",
+        "dot-notation": "error",
+        "import/no-default-export": "error",
+        "import/no-unresolved": [
+            "error",
+            {
+                "ignore": [
+                    "react-dom-test-utils"
+                ]
+            }
+        ],
+        "react/no-unused-prop-types": "warn",
+        "no-else-return": [
+            "error",
+            {
+                "allowElseIf": false
+            }
+        ],
+        "no-unused-vars": [
+            "error",
+            {
+                "ignoreRestSiblings": true
+            }
+        ],
+        "object-shorthand": "error",
+        "import/extensions": [
+            "error",
+            "ignorePackages",
+            {
+                "js": "never",
+                "jsx": "never",
+                "ts": "never",
+                "tsx": "never",
+                "html": "always",
+                "less": "always"
+            }
+        ]
+    },
+    "overrides": [
+        {
+            "files": [
+                "./**/*.ts",
+                "./**/*.tsx"
+            ],
+            "ecmaFeatures": {
+                "jsx": true //AllowsfortheparsingofJSX 
+            },
+            "extends": [
+                "plugin:@typescript-eslint/recommended",
+                "plugin:import/typescript"
+            ],
+            "parser": "@typescript-eslint/parser",
+            "plugins": [
+                "functional",
+                "typescript-sort-keys"
+            ],
+            "parserOptions": {
+                "project": [
+                    "./tsconfig.json"
+                ],
+                "createDefaultProgram": true
+            },
+            "settings": {
+                "import/parsers": {
+                    "@typescript-eslint/parser": [
+                        ".ts",
+                        ".tsx"
+                    ]
+                }
+            },
+            "rules": {
+                "import/no-unresolved": "error",
+                "prettier/prettier": [
+                    "error",
+                    {
+                        "singleQuote": true,
+                        "jsxSingleQuote": true,
+                        "trailingComma": "all", //allowedintypescript,butnotes5 
+                        "jsxBracketSameLine": true,
+                        "bracketSpacing": false,
+                        "printWidth": 120
+                    }
+                ],
+                "no-undef": "off",
+                "import/extensions": [
+                    "error",
+                    "ignorePackages",
+                    {
+                        "js": "never",
+                        "jsx": "never",
+                        "ts": "never",
+                        "tsx": "never",
+                        "html": "always"
+                    }
+                ],
+                "functional/prefer-readonly-type": [
+                    "error",
+                    {
+                        "allowLocalMutation": true,
+                        "ignoreClass": "fieldsOnly"
+                    }
+                ],
+                "no-empty-function": "off",
+                "@typescript-eslint/no-empty-function": "error",
+                "@typescript-eslint/no-explicit-any": "off",
+                "@typescript-eslint/no-inferrable-types": "error",
+                "no-shadow": "off",
+                "@typescript-eslint/no-shadow": [
+                    "error",
+                    {
+                        "hoist": "all"
+                    }
+                ],
+                "no-unused-vars": "off",
+                "@typescript-eslint/no-unused-vars": [
+                    "error",
+                    {
+                        "ignoreRestSiblings": true
+                    }
+                ],
+                "no-useless-constructor": "off",
+                "@typescript-eslint/no-useless-constructor": "error",
+                "@typescript-eslint/consistent-type-definitions": "error",
+                "@typescript-eslint/explicit-member-accessibility": [
+                    "error",
+                    {
+                        "accessibility": "explicit",
+                        "overrides": {
+                            "accessors": "explicit",
+                            "constructors": "no-public",
+                            "methods": "explicit",
+                            "properties": "explicit",
+                            "parameterProperties": "explicit"
+                        }
+                    }
+                ],
+                "@typescript-eslint/member-delimiter-style": [
+                    "error",
+                    {
+                        "multiline": {
+                            "delimiter": "semi",
+                            "requireLast": true
+                        },
+                        "singleline": {
+                            "delimiter": "semi",
+                            "requireLast": false
+                        }
+                    }
+                ],
+                "@typescript-eslint/no-empty-interface": "error",
+                "@typescript-eslint/no-non-null-assertion": "error",
+                "@typescript-eslint/no-this-alias": "error",
+                "@typescript-eslint/no-unnecessary-boolean-literal-compare": "error",
+                "@typescript-eslint/prefer-function-type": "error",
+                "@typescript-eslint/quotes": [
+                    "error",
+                    "single",
+                    {
+                        "avoidEscape": true
+                    }
+                ],
+                "@typescript-eslint/semi": [
+                    "error",
+                    "always"
+                ],
+                "@typescript-eslint/unified-signatures": "error",
+                "@typescript-eslint/explicit-function-return-type": [
+                    "error",
+                    {
+                        "allowExpressions": true,
+                        "allowTypedFunctionExpressions": true
+                    }
+                ],
+                "@typescript-eslint/member-ordering": "off",
+                "typescript-sort-keys/interface": "error",
+                "typescript-sort-keys/string-enum": [
+                    "error",
+                    "asc",
+                    {
+                        "caseSensitive": false
+                    }
+                ]
+            }
+        }
+    ],
+    "settings": {
+        "import/resolver": {
+            "typescript": {
+                "project": "./tsconfig.json"
+            }
+        }
+    }
+}
