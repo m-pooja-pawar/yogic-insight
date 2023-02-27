@@ -1,5 +1,7 @@
 import Box from '@mui/material/Box';
+import {useParams} from 'react-router-dom';
 
 export function Pose(): JSX.Element {
-  return <Box>Pose</Box>;
+  const {id} = useParams();
+  return <Box>{id}</Box>;
 }

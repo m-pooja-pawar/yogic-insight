@@ -1,42 +1,44 @@
-import InputBase from '@mui/material/InputBase';
-import SearchIcon from '@mui/icons-material/Search';
-import {styled} from '@mui/material/styles';
+import {Autocomplete, TextField} from '@mui/material';
+import {Key, useCallback, useEffect, useState} from 'react';
+import {To, useNavigate} from 'react-router-dom';
 
-const SearchBox = styled('div')(({theme}) => ({
-  position: 'relative',
-  borderRadius: theme.shape.borderRadius,
-  backgroundColor: theme.palette.common.white,
-  marginLeft: 0,
-}));
+import axios from 'axios';
 
-const SearchIconWrapper = styled('div')(({theme}) => ({
-  padding: theme.spacing(0, 2),
-  height: '100%',
-  position: 'absolute',
-  pointerEvents: 'none',
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'center',
-  color: theme.palette.common.black,
-}));
-
-const StyledInputBase = styled(InputBase)(({theme}) => ({
-  color: 'inherit',
-  '& .MuiInputBase-input': {
-    padding: theme.spacing(1, 1, 1, 0),
-    // vertical padding + font size from searchIcon
-    paddingLeft: `calc(1em + ${theme.spacing(4)})`,
-    transition: theme.transitions.create('width'),
-  },
-}));
+interface SearchResultItem {
+  readonly label: Key;
+  readonly routing: To;
+}
 
 export function Search(): JSX.Element {
+  const navigate = useNavigate();
+  const [searchResult, setSearchResult] = useState<SearchResultItem[]>([]);
+
+  const getSearchResult = useCallback(async () => {
+    const response = await axios.get('./../../data/search.json');
+    if (response && response.data) {
+      setSearchResult(response.data.data);
+    }
+  }, [setSearchResult]);
+
+  useEffect(() => {
+    getSearchResult();
+  }, [getSearchResult]);
+
+  const handleOnChange = (value: SearchResultItem): void => {
+    navigate(value.routing);
+  };
+
   return (
-    <SearchBox>
-      <SearchIconWrapper>
-        <SearchIcon />
-      </SearchIconWrapper>
-      <StyledInputBase inputProps={{'aria-label': 'search'}} placeholder='Search Asana' />
-    </SearchBox>
+    <Autocomplete
+      disableClearable
+      disablePortal
+      onChange={(_, value: SearchResultItem) => handleOnChange(value)}
+      options={searchResult}
+      renderInput={(params) => <TextField {...params} label='Search' />}
+      size='small'
+      sx={{
+        width: 280,
+      }}
+    />
   );
 }

@@ -1,21 +1,11 @@
-import {
-  Box,
-  Divider,
-  List,
-  ListItem,
-  ListItemButton,
-  ListItemButtonProps,
-  ListItemText,
-  Typography,
-  styled,
-} from '@mui/material';
+import {Box, List, ListItem, ListItemButton, ListItemButtonProps, ListItemText, styled} from '@mui/material';
 import {ElementType, Fragment, Key, useCallback, useEffect, useState} from 'react';
 import {NavLink, NavLinkProps, To} from 'react-router-dom';
 
 import axios from 'axios';
 
-interface YogaSidebarNav {
-  readonly children?: readonly YogaSidebarNav[];
+interface IndexItem {
+  readonly children?: readonly IndexItem[];
   readonly collapsed?: boolean;
   readonly label: Key;
   readonly routing: To;
@@ -31,6 +21,7 @@ const StyledListItemButton = styled(ListItemButton)<
     margin: '1px 0px',
     '&.active': {
       backgroundColor: theme.palette.primary.main,
+      color: theme.palette.common.white,
     },
   },
 }));
@@ -39,7 +30,7 @@ export function Sidebar(): JSX.Element {
   const [sidebarData, setSidebarData] = useState([]);
 
   const getSidebarData = useCallback(async () => {
-    const response = await axios.get('./../../data/sidebar.json');
+    const response = await axios.get('./../../data/index.json');
     if (response && response.data) {
       setSidebarData(response.data.data);
     }
@@ -53,19 +44,13 @@ export function Sidebar(): JSX.Element {
     <Box>
       <nav>
         <List dense>
-          {sidebarData.map((element: YogaSidebarNav) => {
+          {sidebarData.map((element: IndexItem) => {
             if (element.children) {
               return (
                 <Fragment key={'fragment' + element.label}>
-                  <Divider sx={{mt: 1}}></Divider>
-                  <ListItem disablePadding key={element.label}>
-                    <StyledListItemButton disabled component={Typography}>
-                      <ListItemText primary={element.label} />
-                    </StyledListItemButton>
-                  </ListItem>
-                  <Divider sx={{mb: 1}}></Divider>
-                  {element.children.map((childElement: YogaSidebarNav) => {
-                    return sideBarItem(childElement, 2);
+                  {sideBarItem(element)}
+                  {element.children.map((childElement: IndexItem) => {
+                    return sideBarItem(childElement, 3);
                   })}
                 </Fragment>
               );
@@ -80,7 +65,7 @@ export function Sidebar(): JSX.Element {
   );
 }
 
-function sideBarItem(element: YogaSidebarNav, pl?: number): JSX.Element {
+function sideBarItem(element: IndexItem, pl?: number): JSX.Element {
   return (
     <ListItem disablePadding key={element.label} sx={{pl}}>
       <StyledListItemButton component={NavLink} to={element.routing}>

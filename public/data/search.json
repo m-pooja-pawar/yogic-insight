@@ -1,6 +1,39 @@
 {
     "data": [
         {
+            "label": "What is Yoga?",
+            "routing": "/defination"
+        },
+        {
+            "label": "Branches of Yoga",
+            "routing": "/branches"
+        },
+        {
+            "label": "Limbs of Yoga",
+            "routing": "/limbs"
+        },
+        {
+            "label": "Chakras",
+            "routing": "/chakras"
+        },
+        {
+            "label": "Pranayam",
+            "routing": "/pranayam"
+        },
+        {
+            "label": "Mudras",
+            "routing": "/mudras"
+        },
+        {
+            "label": "Meditation",
+            "routing": "/meditation"
+        },
+        {
+            "label": "Beginners Yoga Poses",
+            "routing": "/pose/beginners",
+            "collapsed": "true"
+        },
+        {
             "label": "Pawanmuktasana Series 1",
             "routing": "/pose/1"
         },
@@ -187,6 +220,11 @@
         {
             "label": "Chandra Namaskara (Salutations to the Moon)",
             "routing": "/pose/47"
+        },
+        {
+            "label": "Intermediate Yoga Poses",
+            "routing": "/pose/intermediate",
+            "collapsed": "true"
         },
         {
             "label": "Yogamudrasana (Psychic Union Pose)",
@@ -483,6 +521,11 @@
         {
             "label": "Vashishthasana (Sage Vashishtha's Pose)",
             "routing": "/pose/121"
+        },
+        {
+            "label": "Advanced Yoga Poses",
+            "routing": "/pose/advanced",
+            "collapsed": "true"
         },
         {
             "label": "Pooma Bhujangasana (Full Cobra Pose)",

@@ -20,7 +20,7 @@ export function Router(): JSX.Element {
       <Route element={<Chakras />} path='/chakras'></Route>
       <Route element={<Pranayam />} path='/pranayam'></Route>
       <Route element={<Mudras />} path='/mudras'></Route>
-      <Route element={<Pose />} path='/pose'></Route>
+      <Route element={<Pose />} path='/pose/:id'></Route>
       <Route element={<Meditation />} path='/meditation'></Route>
     </Routes>
   );

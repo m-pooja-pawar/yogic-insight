@@ -2,14 +2,14 @@ import {AppBar, Box, IconButton, Toolbar, styled} from '@mui/material';
 
 import {Logo} from '../components/logo';
 import MenuIcon from '@mui/icons-material/Menu';
-import {SearchAsana} from '../components/searchAsana';
+import {Search} from '../components/search';
 
 const Offset = styled('div')(({theme}) => theme.mixins.toolbar);
 
 export function Header({onDrawerToggle}: {readonly onDrawerToggle: () => void}): JSX.Element {
   return (
     <Box sx={{flexGrow: 1}}>
-      <AppBar position='fixed' sx={{boxShadow: 'none'}}>
+      <AppBar color='transparent' position='fixed' sx={{boxShadow: '0 2px 3px 0 lightgray'}}>
         <Toolbar sx={{justifyContent: 'space-between'}}>
           <Box sx={{display: 'flex', alignItems: 'center'}}>
             <IconButton
@@ -25,7 +25,7 @@ export function Header({onDrawerToggle}: {readonly onDrawerToggle: () => void}):
               <Logo></Logo>
             </Box>
           </Box>
-          <SearchAsana></SearchAsana>
+          <Search></Search>
         </Toolbar>
       </AppBar>
       <Offset />

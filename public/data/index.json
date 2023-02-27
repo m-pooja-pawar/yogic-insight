@@ -5,12 +5,12 @@
             "routing": "/defination"
         },
         {
-            "label": "Limbs of Yoga",
-            "routing": "/limbs"
-        },
-        {
             "label": "Branches of Yoga",
             "routing": "/branches"
+        },
+        {
+            "label": "Limbs of Yoga",
+            "routing": "/limbs"
         },
         {
             "label": "Chakras",
@@ -30,6 +30,7 @@
         },
         {
             "label": "Beginners Yoga Poses",
+            "routing": "/pose/beginners",
             "collapsed": "true",
             "children": [
                 {
@@ -224,6 +225,7 @@
         },
         {
             "label": "Intermediate Yoga Poses",
+            "routing": "/pose/intermediate",
             "collapsed": "true",
             "children": [
                 {
@@ -526,6 +528,7 @@
         },
         {
             "label": "Advanced Yoga Poses",
+            "routing": "/pose/advanced",
             "collapsed": "true",
             "children": [
                 {
