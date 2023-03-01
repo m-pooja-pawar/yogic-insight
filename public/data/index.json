@@ -30,9 +30,11 @@
         },
         {
             "label": "Beginners Yoga Poses",
-            "routing": "/pose/beginners",
-            "collapsed": "true",
             "children": [
+                {
+                    "label": "All",
+                    "routing": "/pose/beginners"
+                },
                 {
                     "label": "Pawanmuktasana Series 1",
                     "routing": "/pose/1"
@@ -225,9 +227,11 @@
         },
         {
             "label": "Intermediate Yoga Poses",
-            "routing": "/pose/intermediate",
-            "collapsed": "true",
             "children": [
+                {
+                    "label": "All",
+                    "routing": "/pose/intermediate"
+                },
                 {
                     "label": "Yogamudrasana (Psychic Union Pose)",
                     "routing": "/pose/48"
@@ -528,9 +532,11 @@
         },
         {
             "label": "Advanced Yoga Poses",
-            "routing": "/pose/advanced",
-            "collapsed": "true",
             "children": [
+                {
+                    "label": "All",
+                    "routing": "/pose/advanced"
+                },
                 {
                     "label": "Pooma Bhujangasana (Full Cobra Pose)",
                     "routing": "/pose/122"
