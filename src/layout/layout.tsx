@@ -1,20 +1,33 @@
 import {Box, Drawer, Grid} from '@mui/material';
+import {useEffect, useState} from 'react';
 
 import {Container} from '@mui/system';
 import {Header} from './header';
 import {Logo} from '../components/logo';
 import {MainContent} from './mainContent';
 import {Sidebar} from './sidebar';
-import {useState} from 'react';
+import {useLocation} from 'react-router-dom';
 
 export function Layout(): JSX.Element {
-  const [mobileOpen, setMobileOpen] = useState(false);
-
-  function handleDrawerToggle(): void {
-    setMobileOpen(!mobileOpen);
-  }
-
   const drawerWidth = 240;
+  const location = useLocation();
+  const [mobileOpen, setMobileOpen] = useState(false);
+  const [userClicked, setUserClicked] = useState(false);
+
+  const handleDrawerToggle = (): void => {
+    setMobileOpen(!mobileOpen);
+  };
+
+  const handleUserClick = (): void => {
+    setUserClicked(true);
+  };
+
+  useEffect(() => {
+    if (userClicked) {
+      handleDrawerToggle();
+    }
+    setUserClicked(false);
+  }, [location]);
 
   return (
     <Box>
@@ -30,7 +43,7 @@ export function Layout(): JSX.Element {
           '& .MuiDrawer-paper': {boxSizing: 'border-box', width: drawerWidth},
         }}
         variant='temporary'>
-        <Box onClick={handleDrawerToggle} sx={{p: 2}}>
+        <Box onClick={handleUserClick} sx={{p: 2}}>
           <Box sx={{display: {xs: 'block', sm: 'none'}}}>
             <Logo></Logo>
           </Box>

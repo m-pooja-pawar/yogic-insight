@@ -35,11 +35,12 @@ export function Sidebar(): JSX.Element {
     [key: string]: boolean;
   }>({});
   const [htmlRef, setHtmlRef] = useState<{
-    [key: string]: RefObject<any>;
+    [key: string]: RefObject<HTMLLIElement>;
   }>({});
+  const [navigationFromSidebar, setNavigationFromSidebar] = useState<boolean>(false);
 
-  const getHtmlRef = (sidebarDataList: IndexItem[]): {[key: string]: RefObject<any>} => {
-    const htmlRefData: {[key: string]: RefObject<any>} = {};
+  const getHtmlRef = (sidebarDataList: IndexItem[]): {[key: string]: RefObject<HTMLLIElement>} => {
+    const htmlRefData: {[key: string]: RefObject<HTMLLIElement>} = {};
     sidebarDataList.forEach((element: IndexItem) => {
       if (element.children && element.children.length) {
         element.children.forEach((childElement: IndexItem) => {
@@ -77,9 +78,12 @@ export function Sidebar(): JSX.Element {
   }, [sidebarData]);
 
   useEffect(() => {
-    setTimeout(() => {
-      scrollToListItem();
-    }, 1000);
+    if (!navigationFromSidebar) {
+      setTimeout(() => {
+        scrollToListItem();
+      }, 1000);
+    }
+    setNavigationFromSidebar(false);
   }, [collapsed]);
 
   const setCollapsedBasedOnLocation = (): void => {
@@ -92,13 +96,13 @@ export function Sidebar(): JSX.Element {
       if (childFound) {
         setCollapsed({
           ...collapsed,
-          [(childFound as IndexItem).label.toString()]: true,
+          [childFound.label.toString()]: true,
         });
       }
     }
   };
 
-  const handleOnClick = (key: string, value: boolean): void => {
+  const handleCollapsableOnClick = (key: string, value: boolean): void => {
     setCollapsed({
       ...collapsed,
       [key]: value,
@@ -114,24 +118,29 @@ export function Sidebar(): JSX.Element {
     });
 
     if (childFound) {
-      if ((childFound as IndexItem).children) {
-        childFound = (childFound as IndexItem).children?.find(
-          (element: IndexItem) => element.routing === location.pathname,
-        );
+      if (childFound.children) {
+        childFound = childFound.children?.find((element: IndexItem) => element.routing === location.pathname);
       }
-      const scrollToElement = htmlRef[(childFound as IndexItem).label.toString()];
-      if (scrollToElement && scrollToElement.current) {
-        scrollToElement.current.scrollIntoView({
-          behavior: 'smooth',
-          block: 'center',
-        });
+      if (childFound) {
+        const scrollToElement = htmlRef[childFound.label.toString()];
+        if (scrollToElement && scrollToElement.current) {
+          scrollToElement.current.scrollIntoView({
+            behavior: 'smooth',
+            block: 'center',
+          });
+        }
       }
     }
   };
 
   const sidebarItem = (element: IndexItem, pl?: number): JSX.Element => {
     return (
-      <ListItem disablePadding key={element.label} ref={htmlRef[element.label.toString()]} sx={{pl}}>
+      <ListItem
+        disablePadding
+        key={element.label}
+        onClick={() => setNavigationFromSidebar(true)}
+        ref={htmlRef[element.label.toString()]}
+        sx={{pl}}>
         <StyledListItemButton autoFocus={true} component={NavLink} to={element.routing}>
           <ListItemText primary={element.label} />
         </StyledListItemButton>
@@ -149,7 +158,9 @@ export function Sidebar(): JSX.Element {
                 <Fragment key={'fragment' + element.label}>
                   <ListItem disablePadding key={element.label}>
                     <ListItemButton
-                      onClick={() => handleOnClick(element.label.toString(), !collapsed[element.label.toString()])}>
+                      onClick={() =>
+                        handleCollapsableOnClick(element.label.toString(), !collapsed[element.label.toString()])
+                      }>
                       <ListItemText primary={element.label} />
                       {collapsed[element.label.toString()] ? <ExpandLess /> : <ExpandMore />}
                     </ListItemButton>
