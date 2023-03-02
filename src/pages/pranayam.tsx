@@ -1,5 +1,6 @@
 import Box from '@mui/material/Box';
 
-export function Pranayam(): JSX.Element {
+// eslint-disable-next-line import/no-default-export
+export default function Pranayam(): JSX.Element {
   return <Box>Pranayam</Box>;
 }

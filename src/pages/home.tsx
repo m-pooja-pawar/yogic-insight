@@ -1,7 +1,8 @@
 import Box from '@mui/material/Box';
 import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 
-export function Home(): JSX.Element {
+// eslint-disable-next-line import/no-default-export
+export default function Home(): JSX.Element {
   return (
     <Box sx={{display: 'flex', justifyContent: 'center'}}>
       <SelfImprovementIcon

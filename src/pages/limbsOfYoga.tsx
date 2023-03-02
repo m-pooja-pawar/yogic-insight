@@ -1,5 +1,6 @@
 import Box from '@mui/material/Box';
 
-export function LimbsOfYoga(): JSX.Element {
+// eslint-disable-next-line import/no-default-export
+export default function LimbsOfYoga(): JSX.Element {
   return <Box>LimbsOfYoga</Box>;
 }

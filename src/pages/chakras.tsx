@@ -1,5 +1,6 @@
 import Box from '@mui/material/Box';
 
-export function Chakras(): JSX.Element {
+// eslint-disable-next-line import/no-default-export
+export default function Chakras(): JSX.Element {
   return <Box>Chakras</Box>;
 }
