@@ -1,23 +1,20 @@
 import {Autocomplete, TextField} from '@mui/material';
-import {Key, useCallback, useEffect, useState} from 'react';
-import {To, useNavigate} from 'react-router-dom';
+import {useCallback, useEffect, useState} from 'react';
 
-import axios from 'axios';
-
-interface SearchResultItem {
-  readonly label: Key;
-  readonly routing: To;
-}
+import {SearchResultItem} from '../interface/searchList';
+import {getSearchList} from '../services/searchList';
+import {useNavigate} from 'react-router-dom';
 
 export function Search(): JSX.Element {
   const navigate = useNavigate();
   const [searchResult, setSearchResult] = useState<SearchResultItem[]>([]);
 
   const getSearchResult = useCallback(async () => {
-    const response = await axios.get('./../../data/search.json');
-    if (response && response.data) {
-      setSearchResult(response.data.data);
-    }
+    getSearchList().then((response) => {
+      if (response && response.data) {
+        setSearchResult(response.data.data);
+      }
+    });
   }, [setSearchResult]);
 
   useEffect(() => {

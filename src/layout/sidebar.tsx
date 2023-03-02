@@ -1,17 +1,12 @@
 import {Box, Collapse, List, ListItem, ListItemButton, ListItemButtonProps, ListItemText, styled} from '@mui/material';
-import {ElementType, Fragment, Key, RefObject, useCallback, useEffect, useState} from 'react';
-import {NavLink, NavLinkProps, To, useLocation} from 'react-router-dom';
+import {ElementType, Fragment, RefObject, useCallback, useEffect, useState} from 'react';
+import {NavLink, NavLinkProps, useLocation} from 'react-router-dom';
 
 import ExpandLess from '@mui/icons-material/ExpandLess';
 import ExpandMore from '@mui/icons-material/ExpandMore';
+import {IndexItem} from './../interface/indexList';
 import React from 'react';
-import axios from 'axios';
-
-interface IndexItem {
-  readonly children?: readonly IndexItem[];
-  readonly label: Key;
-  readonly routing?: To;
-}
+import {getIndexList} from '../services/indexList';
 
 const StyledListItemButton = styled(ListItemButton)<
   ListItemButtonProps | (NavLinkProps & {readonly component: ElementType})
@@ -53,12 +48,13 @@ export function Sidebar(): JSX.Element {
     return htmlRefData;
   };
 
-  const getSidebarData = useCallback(async () => {
-    const response = await axios.get('./../../data/index.json');
-    if (response && response.data) {
-      setHtmlRef(getHtmlRef(response.data.data));
-      setSidebarData(response.data.data);
-    }
+  const getSidebarData = useCallback(() => {
+    getIndexList().then((response) => {
+      if (response && response.data) {
+        setHtmlRef(getHtmlRef(response.data.data));
+        setSidebarData(response.data.data);
+      }
+    });
   }, [setSidebarData]);
 
   useEffect(() => {
