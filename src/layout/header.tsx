@@ -18,7 +18,7 @@ export function Header({onDrawerToggle}: {readonly onDrawerToggle: () => void}):
               edge='start'
               onClick={onDrawerToggle}
               size='large'
-              sx={{display: {sm: 'flex', md: 'none'}, mr: 2}}>
+              sx={{display: {xs: 'flex', sm: 'none'}, mr: 2}}>
               <MenuIcon />
             </IconButton>
             <Box sx={{display: {xs: 'none', sm: 'block'}}}>
