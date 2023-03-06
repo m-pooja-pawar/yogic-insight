@@ -5,6 +5,10 @@
             "routing": "/defination"
         },
         {
+            "label": "Origin of Yoga",
+            "routing": "/origin"
+        },
+        {
             "label": "Branches of Yoga",
             "routing": "/branches"
         },

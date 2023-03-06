@@ -13,7 +13,7 @@ export function Layout(): JSX.Element {
   const drawerWidth = 240;
   const location = useLocation();
   const theme = useTheme();
-  const matches = useMediaQuery(theme.breakpoints.up('sm'));
+  const matches = useMediaQuery(theme.breakpoints.up('md'));
   const [mobileOpen, setMobileOpen] = useState(false);
   const [userClicked, setUserClicked] = useState(false);
 
@@ -76,7 +76,7 @@ export function Layout(): JSX.Element {
             }}>
             <Sidebar></Sidebar>
           </Grid>
-          <Grid item md={9}>
+          <Grid item md={9} sx={{height: 'calc(100vh - 64px)', overflow: 'auto'}}>
             <Container fixed>
               <MainContent></MainContent>
             </Container>

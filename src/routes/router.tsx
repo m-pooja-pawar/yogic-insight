@@ -2,7 +2,8 @@ import {Route, Routes} from 'react-router-dom';
 import {Suspense, lazy} from 'react';
 
 const Home = lazy(() => import('../pages/home'));
-const YogaDefination = lazy(() => import('../pages/yogaDefination'));
+const Defination = lazy(() => import('../pages/defination'));
+const Origin = lazy(() => import('../pages/origin'));
 const LimbsOfYoga = lazy(() => import('../pages/limbsOfYoga'));
 const Branches = lazy(() => import('../pages/branches'));
 const Chakras = lazy(() => import('../pages/chakras'));
@@ -16,7 +17,8 @@ export function Router(): JSX.Element {
     <Suspense fallback={<div>Loading...</div>}>
       <Routes>
         <Route element={<Home />} path='/'></Route>
-        <Route element={<YogaDefination />} path='/defination'></Route>
+        <Route element={<Defination />} path='/defination'></Route>
+        <Route element={<Origin />} path='/origin'></Route>
         <Route element={<LimbsOfYoga />} path='/limbs'></Route>
         <Route element={<Branches />} path='/branches'></Route>
         <Route element={<Chakras />} path='/chakras'></Route>
