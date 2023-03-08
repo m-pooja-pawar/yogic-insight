@@ -1,0 +1,96 @@
+{
+    "data": {
+        "header": "Paths of Yoga",
+        "short_description": "The term “paths of yoga” refers to the different approaches or methods one can take to achieve spiritual growth and enlightenment through the practice of yoga. Following are four main paths of yoga, each with its own focus and approach.",
+        "data": [
+            {
+                "id": "1",
+                "header": "Jnana (Knowledge) Yoga ",
+                "data": [
+                    "This path emphasizes the pursuit of knowledge and wisdom.",
+                    "Jnana Yoga involves studying spiritual texts, contemplation, and self-inquiry to realize the true nature of the self and the universe.",
+                    "The goal of Jnana Yoga is to attain liberation through the direct experience of the truth."
+                ]
+            },
+            {
+                "id": "2",
+                "header": "Bhakti (Devotion) Yoga",
+                "data": [
+                    "This path is focused on cultivating love, devotion, and surrender to divine consciousness.",
+                    "Bhakti Yoga involves chanting, prayer, and other devotional practices to develop a deep connection with the divine."
+                ]
+            },
+            {
+                "id": "3",
+                "header": "Karma (Action) Yoga",
+                "data": [
+                    "This path emphasizes selfless action and service to others, without attachment to the fruits of one's actions.",
+                    "The goal of Karma Yoga is to cultivate a pure and selfless heart, which leads to spiritual growth and eventual liberation."
+                ]
+            },
+            {
+                "id": "4",
+                "header": "Raja (Royal) Yoga",
+                "data": [
+                    "This path involves the practice of meditation and mental concentration to achieve self-realization and enlightenment.",
+                    "Raja Yoga includes the Eight Limbs of Yoga (outlined in the Yoga Sutras of Patanjali), which provide a comprehensive system for developing physical, mental, and spiritual harmony.",
+                    "The goal of Raja Yoga is to attain union with the divine and to realize the true nature of the self as pure consciousness."
+                ]
+            }
+        ],
+        "sub_data": [
+            {
+                "id": "sd_1",
+                "header": "Raja Yoga is further divided as follows:",
+                "data": [
+                    {
+                        "id": "5",
+                        "header": "Mantra Yoga",
+                        "data": [
+                            "Mantra Yoga emphasizes the use of sound and vibration to achieve spiritual transformation.",
+                            "The practice involves the repetition of sacred sounds or mantras to quiet the mind and connect with the divine."
+                        ]
+                    },
+                    {
+                        "id": "6",
+                        "header": "Tantra Yoga",
+                        "data": [
+                            "Tantra Yoga emphasis on the use of rituals and symbols to access higher states of consciousness.",
+                            "These rituals may involve the use of mantras, yantras (sacred geometric patterns), and other tools to create a sacred space and connect with the divine."
+                        ]
+                    },
+                    {
+                        "id": "7",
+                        "header": "Laya Yoga",
+                        "data": [
+                            "Laya Yoga on the dissolution of the individual self into the universal consciousness.",
+                            "The practice involves the use of breath control, meditation, and visualization techniques to achieve a state of deep absorption or samadhi."
+                        ]
+                    },
+                    {
+                        "id": "8",
+                        "header": "Hatha Yoga",
+                        "data": [
+                            "Hatha Yoga emphasizes physical postures, breath control, and relaxation techniques to achieve physical and mental balance.",
+                            "It is the most commonly practiced form of yoga in the West."
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "sd_2",
+                "header": "Hatha Yoga is further divided as follows:",
+                "data": [
+                    {
+                        "id": "9",
+                        "header": "Kundalini Yoga",
+                        "data": [
+                            "Kundalini Yoga focuses on the awakening of the Kundalini energy, which is said to be located at the base of the spine.",
+                            "The practice involves a combination of physical postures, breath control, and meditation techniques to awaken this energy and channel it upward through the chakras."
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

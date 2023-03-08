@@ -5,7 +5,7 @@ const Home = lazy(() => import('../pages/home'));
 const Defination = lazy(() => import('../pages/defination'));
 const Origin = lazy(() => import('../pages/origin'));
 const LimbsOfYoga = lazy(() => import('../pages/limbsOfYoga'));
-const Branches = lazy(() => import('../pages/branches'));
+const Paths = lazy(() => import('../pages/paths'));
 const Chakras = lazy(() => import('../pages/chakras'));
 const Meditation = lazy(() => import('../pages/meditation'));
 const Mudras = lazy(() => import('../pages/mudras'));
@@ -20,7 +20,7 @@ export function Router(): JSX.Element {
         <Route element={<Defination />} path='/defination'></Route>
         <Route element={<Origin />} path='/origin'></Route>
         <Route element={<LimbsOfYoga />} path='/limbs'></Route>
-        <Route element={<Branches />} path='/branches'></Route>
+        <Route element={<Paths />} path='/paths'></Route>
         <Route element={<Chakras />} path='/chakras'></Route>
         <Route element={<Pranayam />} path='/pranayam'></Route>
         <Route element={<Mudras />} path='/mudras'></Route>

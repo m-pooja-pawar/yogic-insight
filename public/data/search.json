@@ -9,8 +9,8 @@
             "routing": "/Origin"
         },
         {
-            "label": "Branches of Yoga",
-            "routing": "/branches"
+            "label": "Paths of Yoga",
+            "routing": "/paths"
         },
         {
             "label": "Limbs of Yoga",
