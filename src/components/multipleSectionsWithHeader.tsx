@@ -41,17 +41,21 @@ export function MultipleSectionsWithHeader({
       </Typography>
       <Typography component='p'>{short_description}</Typography>
       {getSection(data)}
-      {sub_data.map((element) => {
-        return (
-          <Box key={element.id}>
-            <Divider></Divider>
-            <Typography component='p' mt={3}>
-              {element.header}
-            </Typography>
-            {getSection(element.data)}
-          </Box>
-        );
-      })}
+      {sub_data ? (
+        sub_data.map((element) => {
+          return (
+            <Box key={element.id}>
+              <Divider></Divider>
+              <Typography component='p' mt={3}>
+                {element.header}
+              </Typography>
+              {getSection(element.data)}
+            </Box>
+          );
+        })
+      ) : (
+        <></>
+      )}
     </Box>
   );
 }
