@@ -2,7 +2,7 @@ import {Route, Routes} from 'react-router-dom';
 import {Suspense, lazy} from 'react';
 
 const Home = lazy(() => import('../pages/home'));
-const Defination = lazy(() => import('../pages/defination'));
+const Definition = lazy(() => import('../pages/definition'));
 const Origin = lazy(() => import('../pages/origin'));
 const LimbsOfYoga = lazy(() => import('../pages/limbsOfYoga'));
 const Paths = lazy(() => import('../pages/paths'));
@@ -17,7 +17,7 @@ export function Router(): JSX.Element {
     <Suspense fallback={<div>Loading...</div>}>
       <Routes>
         <Route element={<Home />} path='/'></Route>
-        <Route element={<Defination />} path='/defination'></Route>
+        <Route element={<Definition />} path='/defination'></Route>
         <Route element={<Origin />} path='/origin'></Route>
         <Route element={<LimbsOfYoga />} path='/limbs'></Route>
         <Route element={<Paths />} path='/paths'></Route>
