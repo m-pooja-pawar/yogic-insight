@@ -1,40 +1,40 @@
 {
     "data": {
         "header": "Eight Limbs of Yoga",
-        "short_description": "The Eight Limbs of Yoga, also known as Ashtanga Yoga, is a system developed by the ancient sage Patanjali to guide practitioners towards spiritual growth and liberation. These eight limbs form a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the eight limbs of yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is a brief description of each of the eight limbs of yoga:",
+        "short_description": "The Eight Limbs of Yoga, also known as Ashtanga Yoga, is a system developed by the ancient sage Patanjali to guide practitioners towards spiritual growth and liberation. These eight limbs form a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the eight limbs of yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is the brief description of each of the eight limbs of yoga:",
         "data": [
             {
                 "id": "1",
-                "header": "Yama (The ethical principles)",
+                "header": "Yama (The Ethical Principles)",
                 "data": [
-                    "Ahimsa: non violence",
-                    "Satya: truthfulness",
-                    "Asteya: non stealing",
-                    "Brahmacharya: continence",
-                    "Aparigraha: non greedy"
+                    "Ahimsa: Non Violence",
+                    "Satya: Truthfulness",
+                    "Asteya: Non Stealing",
+                    "Brahmacharya: Continence",
+                    "Aparigraha: Non Greedy"
                 ]
             },
             {
                 "id": "2",
-                "header": "Niyama (Personal disciplines)",
+                "header": "Niyama (Personal Disciplines)",
                 "data": [
-                    "Saucha: cleanliness",
-                    "Samtosa: contentment",
-                    "Tapas: self-discipline",
-                    "Svadhyaya: self study",
-                    "Isvara pranidhana: surrender to higher power"
+                    "Saucha: Cleanliness",
+                    "Samtosa: Contentment",
+                    "Tapas: Self Discipline",
+                    "Svadhyaya: Self Study",
+                    "Isvara pranidhana: Surrender to Higher Power"
                 ]
             },
             {
                 "id": "3",
-                "header": "Asana (Physical postures)",
+                "header": "Asana (Physical Postures)",
                 "data": [
                     "Physical postures designed to promote strength, flexibility, and balance in the body."
                 ]
             },
             {
                 "id": "4",
-                "header": "Pranayama (Breathing techniques)",
+                "header": "Pranayama (Breathing Techniques)",
                 "data": [
                     "Breathing techniques to increase the flow of prana (life force energy) in the body and calm the mind."
                 ]

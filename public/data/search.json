@@ -21,12 +21,12 @@
             "routing": "/chakras"
         },
         {
-            "label": "Pranayam",
-            "routing": "/pranayam"
-        },
-        {
             "label": "Mudras",
             "routing": "/mudras"
+        },
+        {
+            "label": "Pranayam",
+            "routing": "/pranayam"
         },
         {
             "label": "Meditation",

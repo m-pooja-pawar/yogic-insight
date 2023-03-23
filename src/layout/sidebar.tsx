@@ -17,8 +17,8 @@ const StyledListItemButton = styled(ListItemButton)<
     borderRadius: '5px',
     margin: '1px 0px',
     '&.active': {
-      backgroundColor: theme.palette.primary.main,
-      color: theme.palette.common.white,
+      backgroundColor: theme.palette.primary.light,
+      // color: theme.palette.common.white,
     },
   },
 }));
