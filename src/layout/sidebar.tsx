@@ -1,4 +1,15 @@
-import {Box, Collapse, List, ListItem, ListItemButton, ListItemButtonProps, ListItemText, styled} from '@mui/material';
+import {
+  Box,
+  Collapse,
+  Divider,
+  List,
+  ListItem,
+  ListItemButton,
+  ListItemButtonProps,
+  ListItemText,
+  styled,
+  Typography,
+} from '@mui/material';
 import {ElementType, Fragment, RefObject, useCallback, useEffect, useState} from 'react';
 import {NavLink, NavLinkProps, useLocation} from 'react-router-dom';
 
@@ -130,17 +141,27 @@ export function Sidebar(): JSX.Element {
   };
 
   const sidebarItem = (element: IndexItem, pl?: number): JSX.Element => {
+    if (element.routing) {
+      return (
+        <ListItem
+          disablePadding
+          key={element.label}
+          onClick={() => setNavigationFromSidebar(true)}
+          ref={htmlRef[element.label.toString()]}
+          sx={{pl}}>
+          <StyledListItemButton component={NavLink} to={element.routing}>
+            <ListItemText primary={element.label} />
+          </StyledListItemButton>
+        </ListItem>
+      );
+    }
     return (
-      <ListItem
-        disablePadding
-        key={element.label}
-        onClick={() => setNavigationFromSidebar(true)}
-        ref={htmlRef[element.label.toString()]}
-        sx={{pl}}>
-        <StyledListItemButton autoFocus={true} component={NavLink} to={element.routing}>
-          <ListItemText primary={element.label} />
-        </StyledListItemButton>
-      </ListItem>
+      <>
+        <Divider sx={{my: 1}}></Divider>
+        <Typography color='primary' component='h6' pl={2}>
+          {element.label}
+        </Typography>
+      </>
     );
   };
 

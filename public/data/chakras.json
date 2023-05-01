@@ -7,7 +7,8 @@
                 "id": "1",
                 "header": "Muladhara (Root Chakra)",
                 "data": [
-                    "Located at the base of the spine, the Muladhara chakra is associated with feelings of stability, security, and groundedness.",
+                    "The Muladhara chakra is associated with feelings of stability, security, and groundedness.",
+                    "Located at the base of the spine",
                     "Color: Red",
                     "Element: Earth",
                     "Sound: “LAM”"
@@ -17,7 +18,8 @@
                 "id": "2",
                 "header": "Svadhisthana (Sacral Chakra)",
                 "data": [
-                    "Located in the lower abdomen, the Svadhisthana chakra is associated with creativity, sexuality, and emotional expression.",
+                    "The Svadhisthana chakra is associated with creativity, sexuality, and emotional expression.",
+                    "Located in the lower abdomen",
                     "Color: Orange",
                     "Element: Water",
                     "Sound: “VAM”"
@@ -27,7 +29,8 @@
                 "id": "3",
                 "header": "Manipura (Solar Plexus Chakra)",
                 "data": [
-                    "Located in the upper abdomen, the Manipura chakra is associated with personal power, self-esteem, and confidence.",
+                    "The Manipura chakra is associated with personal power, self-esteem, and confidence.",
+                    "Located in the upper abdomen",
                     "Color: Yellow",
                     "Element: Fire",
                     "Sound: “RAM”"
@@ -37,7 +40,8 @@
                 "id": "4",
                 "header": "Anahata (Heart Chakra)",
                 "data": [
-                    "Located in the center of the chest, the Anahata chakra is associated with love, compassion, and emotional balance.",
+                    "The Anahata chakra is associated with love, compassion, and emotional balance.",
+                    "Located in the center of the chest",
                     "Color: Green",
                     "Element: Air",
                     "Sound: “YAM”"
@@ -47,7 +51,8 @@
                 "id": "5",
                 "header": "Vishuddha (Throat Chakra)",
                 "data": [
-                    "Located in the throat, the Vishuddha chakra is associated with communication, self-expression, and authenticity.",
+                    "The Vishuddha chakra is associated with communication, self-expression, and authenticity.",
+                    "Located in the throat",
                     "Color: Blue",
                     "Element: Space",
                     "Sound: “HAM”"
@@ -57,7 +62,8 @@
                 "id": "6",
                 "header": "Ajna (Third Eye Chakra)",
                 "data": [
-                    "Located between the eyebrows, the Ajna chakra is associated with intuition, wisdom, and spiritual insight.",
+                    "The Ajna chakra is associated with intuition, wisdom, and spiritual insight.",
+                    "Located between the eyebrows",
                     "Color: Indigo",
                     "Element: Light",
                     "Sound: “AUM”"
@@ -67,7 +73,8 @@
                 "id": "7",
                 "header": "Sahasrara (Crown Chakra)",
                 "data": [
-                    "Located at the crown of the head, the Sahasrara chakra is associated with spiritual awakening, enlightenment, and unity consciousness.",
+                    "The Sahasrara chakra is associated with spiritual awakening, enlightenment, and unity consciousness.",
+                    "Located at the crown of the head",
                     "Color: White",
                     "Element: Universe",
                     "Sound: “AH”"

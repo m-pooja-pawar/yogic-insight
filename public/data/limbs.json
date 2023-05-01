@@ -1,24 +1,24 @@
 {
     "data": {
-        "header": "Eight Limbs of Yoga",
+        "header": "Eight Limbs of Raja (Royal) Yoga",
         "short_description": "The Eight Limbs of Yoga, also known as Ashtanga Yoga, is a system developed by the ancient sage Patanjali to guide practitioners towards spiritual growth and liberation. These eight limbs form a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the eight limbs of yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is the brief description of each of the eight limbs of yoga:",
         "data": [
             {
                 "id": "1",
-                "header": "Yama (The Ethical Principles)",
+                "header": "Yama (The Ethical Principles, Moral Responsibilities)",
                 "data": [
                     "Ahimsa: Non Violence",
                     "Satya: Truthfulness",
                     "Asteya: Non Stealing",
                     "Brahmacharya: Continence",
-                    "Aparigraha: Non Greedy"
+                    "Aparigraha: Non Possessiveness, Non Greedy"
                 ]
             },
             {
                 "id": "2",
                 "header": "Niyama (Personal Disciplines)",
                 "data": [
-                    "Saucha: Cleanliness",
+                    "Saucha: External and Internal Purification",
                     "Samtosa: Contentment",
                     "Tapas: Self Discipline",
                     "Svadhyaya: Self Study",
