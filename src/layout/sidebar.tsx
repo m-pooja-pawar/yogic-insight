@@ -73,16 +73,9 @@ export function Sidebar(): JSX.Element {
   }, [getSidebarData]);
 
   useEffect(() => {
-    if (location.pathname.indexOf('pose') > -1) {
-      setCollapsedBasedOnLocation();
-    } else {
-      scrollToListItem();
-    }
-  }, [location]);
-
-  useEffect(() => {
     setCollapsedBasedOnLocation();
-  }, [sidebarData]);
+    scrollToListItem();
+  }, [sidebarData, location]);
 
   useEffect(() => {
     if (!navigationFromSidebar) {
@@ -110,6 +103,7 @@ export function Sidebar(): JSX.Element {
   };
 
   const handleCollapsableOnClick = (key: string, value: boolean): void => {
+    setNavigationFromSidebar(true);
     setCollapsed({
       ...collapsed,
       [key]: value,
@@ -156,12 +150,12 @@ export function Sidebar(): JSX.Element {
       );
     }
     return (
-      <>
-        <Divider sx={{my: 1}}></Divider>
-        <Typography color='primary' component='h6' pl={2}>
+      <React.Fragment key={element.label.toString()}>
+        <Divider sx={{my: 2}}></Divider>
+        <Typography color='primary' component='h6' mb={1} pl={2}>
           {element.label}
         </Typography>
-      </>
+      </React.Fragment>
     );
   };
 

@@ -27,72 +27,72 @@
             "label": "Pawanmuktasana Series 1",
             "children": [
                 {
-                    "label": "All",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/all"
+                    "label": "Pawanmuktasana Series 1",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/all"
                 },
                 {
-                    "label": "1. Padanguli Naman",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/padangulinaman"
+                    "label": "Padanguli Naman",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/padangulinaman"
                 },
                 {
-                    "label": "2. Goolf Naman",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/goolfnaman"
+                    "label": "Goolf Naman",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/goolfnaman"
                 },
                 {
-                    "label": "3. Goolf Chakra",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/goolfchakra"
+                    "label": "Goolf Chakra",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/goolfchakra"
                 },
                 {
-                    "label": "4. Goolf Ghoornan",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/goolfghoornan"
+                    "label": "Goolf Ghoornan",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/goolfghoornan"
                 },
                 {
-                    "label": "5. Janufalak Akarshan",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/janufalakakarshan"
+                    "label": "Janufalak Akarshan",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/janufalakakarshan"
                 },
                 {
-                    "label": "6. Janu Naman",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/janunaman"
+                    "label": "Janu Naman",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/janunaman"
                 },
                 {
-                    "label": "7. Janu Chakra",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/januchakra"
+                    "label": "Janu Chakra",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/januchakra"
                 },
                 {
-                    "label": "8. Ardha Titliasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/ardhatitliasana"
+                    "label": "Ardha Titliasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/ardhatitliasana"
                 },
                 {
-                    "label": "9. Shroni Chakra",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/shronichakra"
+                    "label": "Shroni Chakra",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/shronichakra"
                 },
                 {
-                    "label": "10. Poorna Titliasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/poornatitliasana"
+                    "label": "Poorna Titliasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/poornatitliasana"
                 },
                 {
-                    "label": "11. Mushtika Bandhana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/mushtikabandhana"
+                    "label": "Mushtika Bandhana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/mushtikabandhana"
                 },
                 {
-                    "label": "12. Manibandha Naman",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/manibandhanaman"
+                    "label": "Manibandha Naman",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/manibandhanaman"
                 },
                 {
-                    "label": "13. Manibadha Chakra",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/manibadhachakra"
+                    "label": "Manibadha Chakra",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/manibadhachakra"
                 },
                 {
-                    "label": "14. Kehuni Naman",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/kehuninaman"
+                    "label": "Kehuni Naman",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/kehuninaman"
                 },
                 {
-                    "label": "15. Skandha Chakra",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/skandhachakra"
+                    "label": "Skandha Chakra",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/skandhachakra"
                 },
                 {
-                    "label": "16. Greeva Sanchalana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries1/greevasanchalana"
+                    "label": "Greeva Sanchalana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/1/greevasanchalana"
                 }
             ]
         },
@@ -100,36 +100,36 @@
             "label": "Pawanmuktasana Series 2",
             "children": [
                 {
-                    "label": "All",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/all"
+                    "label": "Pawanmuktasana Series 2",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/all"
                 },
                 {
-                    "label": "1. Padotthanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/padottanasana"
+                    "label": "Padotthanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/padottanasana"
                 },
                 {
-                    "label": "2. Pada Chakrasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/padachakra"
+                    "label": "Pada Chakrasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/padachakra"
                 },
                 {
-                    "label": "3. Pada Sanchalanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/padasanchalanasana"
+                    "label": "Pada Sanchalanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/padasanchalanasana"
                 },
                 {
-                    "label": "4. Supta Pawanmuktasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/suptapawanmuktasana"
+                    "label": "Supta Pawanmuktasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/suptapawanmuktasana"
                 },
                 {
-                    "label": "5. Jhulana Lurhakanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/jhulnalurkhanasana"
+                    "label": "Jhulana Lurhakanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/jhulnalurkhanasana"
                 },
                 {
-                    "label": "6. Supta Udarakarshanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/suptaudarakarshanasana"
+                    "label": "Supta Udarakarshanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/suptaudarakarshanasana"
                 },
                 {
-                    "label": "7. Naukasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries2/naukasana"
+                    "label": "Naukasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/2/naukasana"
                 }
             ]
         },
@@ -137,36 +137,36 @@
             "label": "Pawanmuktasana Series 3",
             "children": [
                 {
-                    "label": "All",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/all"
+                    "label": "Pawanmuktasana Series 3",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/all"
                 },
                 {
-                    "label": "1. Rajju Karshanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/rajjukarshanasana"
+                    "label": "Rajju Karshanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/rajjukarshanasana"
                 },
                 {
-                    "label": "2. Gatyatmak Meru Vakrasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/gatyatmakmeruvakrasana"
+                    "label": "Gatyatmak Meru Vakrasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/gatyatmakmeruvakrasana"
                 },
                 {
-                    "label": "3. Chakki Chalanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/chakkichalasana"
+                    "label": "Chakki Chalanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/chakkichalasana"
                 },
                 {
-                    "label": "4. Nauka Sanchalansana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/naukasanchalanasana"
+                    "label": "Nauka Sanchalansana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/naukasanchalanasana"
                 },
                 {
-                    "label": "5. Kashtha Takshanasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/kashthatakshanasana"
+                    "label": "Kashtha Takshanasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/kashthatakshanasana"
                 },
                 {
-                    "label": "6. Namaskarasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/namaskarasana"
+                    "label": "Namaskarasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/namaskarasana"
                 },
                 {
-                    "label": "7. Kauva Chalasana",
-                    "routing": "/hathayogaasana/pawanmuktaasanaseries3/kauvachalasana"
+                    "label": "Kauva Chalasana",
+                    "routing": "/hathayogaasana/pawanmuktaasanaseries/3/kauvachalasana"
                 }
             ]
         },
@@ -231,7 +231,7 @@
             "label": "Standing Asanas (Poses)",
             "children": [
                 {
-                    "label": "All",
+                    "label": "Standing Asanas (Poses)",
                     "routing": "/hathayogaasana/standingasanasall"
                 },
                 {
@@ -328,7 +328,7 @@
             "label": "Prone Asanas (Poses)",
             "children": [
                 {
-                    "label": "All",
+                    "label": "Prone Asanas (Poses)",
                     "routing": "/hathayogaasana/proneasanasall"
                 },
                 {
@@ -373,7 +373,7 @@
             "label": "Seated Asanas (Poses)",
             "children": [
                 {
-                    "label": "All",
+                    "label": "Seated Asanas (Poses)",
                     "routing": "/hathayogaasana/seatedasanasall"
                 },
                 {
@@ -509,10 +509,6 @@
                     "routing": "/hathayogaasana/ubhayapadangusthasana"
                 },
                 {
-                    "label": "Supta Padangusthasana",
-                    "routing": "/hathayogaasana/suptapadangusthasana"
-                },
-                {
                     "label": "Urdhva Mukha Paschimottanasana",
                     "routing": "/hathayogaasana/urdhvamukhapaschimottansana"
                 },
@@ -554,7 +550,7 @@
             "label": "Supine Asanas (Poses)",
             "children": [
                 {
-                    "label": "All",
+                    "label": "Supine Asanas (Poses)",
                     "routing": "/hathayogaasana/supineasanasall"
                 },
                 {
@@ -619,7 +615,7 @@
             "label": "Meditative Asanas (Poses)",
             "children": [
                 {
-                    "label": "All",
+                    "label": "Meditative Asanas (Poses)",
                     "routing": "/hathayogaasana/meditativeasanasall"
                 },
                 {
@@ -682,7 +678,7 @@
                 },
                 {
                     "label": "Bhastrika",
-                    "routing": "/pranayama/kapalbhati"
+                    "routing": "/pranayama/bhastrika"
                 }
             ]
         },
