@@ -13,6 +13,14 @@
             "routing": "/limbs"
         },
         {
+            "label": "Prana (Ida, Pingla, Sushumna)",
+            "routing": "/prana"
+        },
+        {
+            "label": "Chakras",
+            "routing": "/chakras"
+        },
+        {
             "label": "What is Hatha Yoga?",
             "routing": "/hathayoga"
         },
@@ -571,14 +579,6 @@
         {
             "label": "Mudras",
             "routing": "/mudras"
-        },
-        {
-            "label": "Prana (Ida, Pingla, Sushuma)",
-            "routing": "/prana"
-        },
-        {
-            "label": "Chakras",
-            "routing": "/chakras"
         },
         {
             "label": "Natural Breathing",
