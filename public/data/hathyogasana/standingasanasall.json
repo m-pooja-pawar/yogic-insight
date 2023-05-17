@@ -1,0 +1,141 @@
+{
+    "data": {
+        "header": "Standing Asanas (Poses)",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.43",
+                "label": "Tadasana (Stable Mountain Pose)",
+                "routing": "/hathayogaasana/tadasana",
+                "img": ""
+            },
+            {
+                "id": "1.44",
+                "label": "Parvatasana (Mountain Peak Pose)",
+                "routing": "/hathayogaasana/parvatasana",
+                "img": ""
+            },
+            {
+                "id": "1.45",
+                "label": "Vrikshasana (Tree Pose)",
+                "routing": "/hathayogaasana/vrikshasana",
+                "img": ""
+            },
+            {
+                "id": "1.46",
+                "label": "Utkatasana (Chair Pose)",
+                "routing": "/hathayogaasana/utkatasana",
+                "img": ""
+            },
+            {
+                "id": "1.47",
+                "label": "Garudasana (Eagle Pose)",
+                "routing": "/hathayogaasana/garudasana",
+                "img": ""
+            },
+            {
+                "id": "1.48",
+                "label": "Natrajasana (Dancing Pose)",
+                "routing": "/hathayogaasana/natrajasana",
+                "img": ""
+            },
+            {
+                "id": "1.49",
+                "label": "Utthita Hasta Padangusthasana",
+                "routing": "/hathayogaasana/utthitahastapadangusthasana",
+                "img": ""
+            },
+            {
+                "id": "1.50",
+                "label": "Parsva Hasta Padangusthasana",
+                "routing": "/hathayogaasana/parsvahastapadangusthasana",
+                "img": ""
+            },
+            {
+                "id": "1.51",
+                "label": "Mukta Hasta",
+                "routing": "/hathayogaasana/muktahasta",
+                "img": ""
+            },
+            {
+                "id": "1.52",
+                "label": "Ardha Baddha Padottansana",
+                "routing": "/hathayogaasana/ardhabaddhapadottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.53",
+                "label": "Utthita Trikonasana",
+                "routing": "/hathayogaasana/utthitatrikonsana",
+                "img": ""
+            },
+            {
+                "id": "1.54",
+                "label": "Parivrtta Trikonasana",
+                "routing": "/hathayogaasana/parivrttatrikonsana",
+                "img": ""
+            },
+            {
+                "id": "1.55",
+                "label": "Utthita Parsvakonasana",
+                "routing": "/hathayogaasana/utthitaparsvakonsana",
+                "img": ""
+            },
+            {
+                "id": "1.56",
+                "label": "Parivrtta Parsvakonasana",
+                "routing": "/hathayogaasana/parivrttaparsvakonsana",
+                "img": ""
+            },
+            {
+                "id": "1.57",
+                "label": "Parsvottanasana",
+                "routing": "/hathayogaasana/parsvottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.58",
+                "label": "Veerbhadrasana A",
+                "routing": "/hathayogaasana/veerbhadrasana-a",
+                "img": ""
+            },
+            {
+                "id": "1.59",
+                "label": "Veerbhadrasana B",
+                "routing": "/hathayogaasana/veerbhadrasana-b",
+                "img": ""
+            },
+            {
+                "id": "1.60",
+                "label": "Veerbhadrasana C",
+                "routing": "/hathayogaasana/veerbhadrasana-c",
+                "img": ""
+            },
+            {
+                "id": "1.61",
+                "label": "Uttanasana",
+                "routing": "/hathayogaasana/uttanasana",
+                "img": ""
+            },
+            {
+                "id": "1.62",
+                "label": "Padangusthasana",
+                "routing": "/hathayogaasana/padangusthasana",
+                "img": ""
+            },
+            {
+                "id": "1.63",
+                "label": "Padahastasana",
+                "routing": "/hathayogaasana/padahastasana",
+                "img": ""
+            },
+            {
+                "id": "1.64",
+                "label": "Prasarita Padottanasana",
+                "routing": "/hathayogaasana/prasaritapadottasana",
+                "img": ""
+            }
+        ]
+    }
+}

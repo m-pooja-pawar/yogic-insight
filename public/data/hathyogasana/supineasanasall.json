@@ -1,0 +1,93 @@
+{
+    "data": {
+        "header": "Supine Asanas (Poses)",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.116",
+                "label": "Ananda Balasana",
+                "routing": "/hathayogaasana/anandabalasana",
+                "img": ""
+            },
+            {
+                "id": "1.117",
+                "label": "Supta Veerasana",
+                "routing": "/hathayogaasana/suptaveerasana",
+                "img": ""
+            },
+            {
+                "id": "1.118",
+                "label": "Supta Padangusthasana",
+                "routing": "/hathayogaasana/suptapadaangusthasana",
+                "img": ""
+            },
+            {
+                "id": "1.119",
+                "label": "Setubandasana",
+                "routing": "/hathayogaasana/setubandasana",
+                "img": ""
+            },
+            {
+                "id": "1.120",
+                "label": "Chakrasana",
+                "routing": "/hathayogaasana/chakrasana",
+                "img": ""
+            },
+            {
+                "id": "1.121",
+                "label": "Sirsasana",
+                "routing": "/hathayogaasana/sirsasana",
+                "img": ""
+            },
+            {
+                "id": "1.122",
+                "label": "Sarvangasana",
+                "routing": "/hathayogaasana/sarvangasana",
+                "img": ""
+            },
+            {
+                "id": "1.123",
+                "label": "Halasana",
+                "routing": "/hathayogaasana/halasana",
+                "img": ""
+            },
+            {
+                "id": "1.124",
+                "label": "Karnapidasana",
+                "routing": "/hathayogaasana/karnapidasana",
+                "img": ""
+            },
+            {
+                "id": "1.125",
+                "label": "Urdhva Padmasana",
+                "routing": "/hathayogaasana/urdhvapadmasana",
+                "img": ""
+            },
+            {
+                "id": "1.126",
+                "label": "Urdhva Pindasana",
+                "routing": "/hathayogaasana/urdhvapindasana",
+                "img": ""
+            },
+            {
+                "id": "1.127",
+                "label": "Matsyasana",
+                "routing": "/hathayogaasana/matsyasana",
+                "img": ""
+            },
+            {
+                "id": "1.128",
+                "label": "Uttanpadasana",
+                "routing": "/hathayogaasana/uttanpadasana",
+                "img": ""
+            },
+            {
+                "id": "1.129",
+                "label": "Savasana",
+                "routing": "/hathayogaasana/savasana",
+                "img": ""
+            }
+        ]
+    }
+}

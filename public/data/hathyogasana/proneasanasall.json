@@ -1,0 +1,63 @@
+{
+    "data": {
+        "header": "Prone Asanas (Poses)",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.65",
+                "label": "Makarasana",
+                "routing": "/hathayogaasana/makarasana",
+                "img": ""
+            },
+            {
+                "id": "1.66",
+                "label": "Bhujangasna",
+                "routing": "/hathayogaasana/bhujangasana",
+                "img": ""
+            },
+            {
+                "id": "1.67",
+                "label": "Salabhasana",
+                "routing": "/hathayogaasana/salabhasana",
+                "img": ""
+            },
+            {
+                "id": "1.68",
+                "label": "Bhekasana",
+                "routing": "/hathayogaasana/bhekasana",
+                "img": ""
+            },
+            {
+                "id": "1.69",
+                "label": "Dhanurasana",
+                "routing": "/hathayogaasana/dhanurasana",
+                "img": ""
+            },
+            {
+                "id": "1.70",
+                "label": "Adho Mukha Mandukasana",
+                "routing": "/hathayogaasana/adhomukhamandukasana",
+                "img": ""
+            },
+            {
+                "id": "1.71",
+                "label": "Chaturanga Dandasana",
+                "routing": "/hathayogaasana/chaturansadandasana",
+                "img": ""
+            },
+            {
+                "id": "1.72",
+                "label": "Urdhva Mukha Svanasana",
+                "routing": "/hathayogaasana/urdhvamukhasvanasana",
+                "img": ""
+            },
+            {
+                "id": "1.73",
+                "label": "Mayurasana (Peacock Pose)",
+                "routing": "/hathayogaasana/mayurasana",
+                "img": ""
+            }
+        ]
+    }
+}

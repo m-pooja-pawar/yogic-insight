@@ -1,0 +1,261 @@
+{
+    "data": {
+        "header": "Seated Asanas (Poses)",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.74",
+                "label": "Vajrasana",
+                "routing": "/hathayogaasana/vajrasana",
+                "img": ""
+            },
+            {
+                "id": "1.75",
+                "label": "Veerasana",
+                "routing": "/hathayogaasana/veerasana",
+                "img": ""
+            },
+            {
+                "id": "1.76",
+                "label": "Simhasana",
+                "routing": "/hathayogaasana/simhasana",
+                "img": ""
+            },
+            {
+                "id": "1.77",
+                "label": "Sashankasana",
+                "routing": "/hathayogaasana/sashankasana",
+                "img": ""
+            },
+            {
+                "id": "1.78",
+                "label": "Marjariasana (Cat Tilt Pose)",
+                "routing": "/hathayogaasana/marjariasana",
+                "img": ""
+            },
+            {
+                "id": "1.79",
+                "label": "Bitilasana (Cow Pose)",
+                "routing": "/hathayogaasana/bitilasana",
+                "img": ""
+            },
+            {
+                "id": "1.80",
+                "label": "Dandasana",
+                "routing": "/hathayogaasana/dandasana",
+                "img": ""
+            },
+            {
+                "id": "1.81",
+                "label": "Paschimottanasana",
+                "routing": "/hathayogaasana/paschimottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.82",
+                "label": "Purvottansana",
+                "routing": "/hathayogaasana/purvottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.83",
+                "label": "Ardha Baddha Padma Paschimottanasana",
+                "routing": "/hathayogaasana/ardhabaddhapadmapaschimottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.84",
+                "label": "Trianga Mukha Eka Pada Paschimottanasana",
+                "routing": "/hathayogaasana/triangamukaekapadapaschimottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.85",
+                "label": "Janu Sirsasana",
+                "routing": "/hathayogaasana/janusirsasana",
+                "img": ""
+            },
+            {
+                "id": "1.86",
+                "label": "Parivrtta Janusirsasana",
+                "routing": "/hathayogaasana/parivrttajanusirsasana",
+                "img": ""
+            },
+            {
+                "id": "1.87",
+                "label": "Marichyasana A",
+                "routing": "/hathayogaasana/marichyaasana-a",
+                "img": ""
+            },
+            {
+                "id": "1.88",
+                "label": "Marichyasana B",
+                "routing": "/hathayogaasana/marichyaasana-b",
+                "img": ""
+            },
+            {
+                "id": "1.89",
+                "label": "Marichyasana C",
+                "routing": "/hathayogaasana/marichyaasana-c",
+                "img": ""
+            },
+            {
+                "id": "1.90",
+                "label": "Ardha Matsyendrasana",
+                "routing": "/hathayogaasana/ardhamatsyendraasana",
+                "img": ""
+            },
+            {
+                "id": "1.91",
+                "label": "Navasana",
+                "routing": "/hathayogaasana/navasana",
+                "img": ""
+            },
+            {
+                "id": "1.92",
+                "label": "Tolasana",
+                "routing": "/hathayogaasana/tolasana",
+                "img": ""
+            },
+            {
+                "id": "1.93",
+                "label": "Malasana",
+                "routing": "/hathayogaasana/malasana",
+                "img": ""
+            },
+            {
+                "id": "1.94",
+                "label": "Dhrut Utkatasana",
+                "routing": "/hathayogaasana/dhrututkatasana",
+                "img": ""
+            },
+            {
+                "id": "1.95",
+                "label": "Bhujpidasana",
+                "routing": "/hathayogaasana/bhujpidasana",
+                "img": ""
+            },
+            {
+                "id": "1.96",
+                "label": "Tittibhasana (Firefly Pose)",
+                "routing": "/hathayogaasana/bhujpidasana",
+                "img": ""
+            },
+            {
+                "id": "1.97",
+                "label": "Koormasana",
+                "routing": "/hathayogaasana/koormasana",
+                "img": ""
+            },
+            {
+                "id": "1.98",
+                "label": "Supta Koormasana",
+                "routing": "/hathayogaasana/suptakoormasana",
+                "img": ""
+            },
+            {
+                "id": "1.99",
+                "label": "Garbha Pindasana",
+                "routing": "/hathayogaasana/garbhapindasana",
+                "img": ""
+            },
+            {
+                "id": "1.100",
+                "label": "Kukkutasana",
+                "routing": "/hathayogaasana/kukkutasana",
+                "img": ""
+            },
+            {
+                "id": "1.101",
+                "label": "Baddha Konasana",
+                "routing": "/hathayogaasana/baddhakonasana",
+                "img": ""
+            },
+            {
+                "id": "1.102",
+                "label": "Upavistha Konasana",
+                "routing": "/hathayogaasana/upavisthakonasana",
+                "img": ""
+            },
+            {
+                "id": "1.103",
+                "label": "Utthita Upavistha Konasana",
+                "routing": "/hathayogaasana/utthitaupavisthakonasana",
+                "img": ""
+            },
+            {
+                "id": "1.104",
+                "label": "Supta Konasana",
+                "routing": "/hathayogaasana/suptakonasana",
+                "img": ""
+            },
+            {
+                "id": "1.105",
+                "label": "Gomukhasana",
+                "routing": "/hathayogaasana/gomukhasana",
+                "img": ""
+            },
+            {
+                "id": "1.106",
+                "label": "Ubhaya Padangusthasana",
+                "routing": "/hathayogaasana/ubhayapadangusthasana",
+                "img": ""
+            },
+            {
+                "id": "1.107",
+                "label": "Urdhva Mukha Paschimottanasana",
+                "routing": "/hathayogaasana/urdhvamukhapaschimottansana",
+                "img": ""
+            },
+            {
+                "id": "1.108",
+                "label": "Supta Paschimottanasana",
+                "routing": "/hathayogaasana/suptapaschimottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.109",
+                "label": "Ustrasana",
+                "routing": "/hathayogaasana/ustrasana",
+                "img": ""
+            },
+            {
+                "id": "1.110",
+                "label": "Matsya Kridasana",
+                "routing": "/hathayogaasana/matsyakridasana",
+                "img": ""
+            },
+            {
+                "id": "1.111",
+                "label": "Adho Mukha Svanasana",
+                "routing": "/hathayogaasana/adhomukhasvanasana",
+                "img": ""
+            },
+            {
+                "id": "1.112",
+                "label": "Uttana Shishoasana (Puppy Pose)",
+                "routing": "/hathayogaasana/uttanashishoasana",
+                "img": ""
+            },
+            {
+                "id": "1.113",
+                "label": "Bakasana (Crane Pose)",
+                "routing": "/hathayogaasana/bakasana",
+                "img": ""
+            },
+            {
+                "id": "1.114",
+                "label": "Kapotasana (Pegion Pose)",
+                "routing": "/hathayogaasana/kapotasana",
+                "img": ""
+            },
+            {
+                "id": "1.115",
+                "label": "Hanumanasana",
+                "routing": "/hathayogaasana/hanumanasana",
+                "img": ""
+            }
+        ]
+    }
+}

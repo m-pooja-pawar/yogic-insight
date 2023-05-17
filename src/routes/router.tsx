@@ -26,8 +26,8 @@ export function Router(): JSX.Element {
         <Route element={<LimbsOfYoga />} path='/limbs'></Route>
         <Route element={<HathYoga />} path='/hathayoga'></Route>
         <Route element={<HathYogaSequence />} path='/hathayogasequence'></Route>
-        <Route element={<HathYogaAsana />} path='/hathayogaasana/pawanmuktaasanaseries/:id/:asana'></Route>
-        <Route element={<HathYogaAsana />} path='/hathayogaasana/suryanamaskara/:asana'></Route>
+        <Route element={<HathYogaAsana />} path='/hathayogaasana/:type/:id/:asana'></Route>
+        <Route element={<HathYogaAsana />} path='/hathayogaasana/:type/:asana'></Route>
         <Route element={<HathYogaAsana />} path='/hathayogaasana/:asana'></Route>
         <Route element={<Mudras />} path='/mudras'></Route>
         <Route element={<Prana />} path='/prana'></Route>

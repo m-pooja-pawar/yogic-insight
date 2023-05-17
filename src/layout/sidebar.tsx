@@ -139,9 +139,9 @@ export function Sidebar(): JSX.Element {
       return (
         <ListItem
           disablePadding
-          key={element.label}
+          key={element.id}
           onClick={() => setNavigationFromSidebar(true)}
-          ref={htmlRef[element.label.toString()]}
+          ref={htmlRef[element.id]}
           sx={{pl}}>
           <StyledListItemButton component={NavLink} to={element.routing}>
             <ListItemText primary={element.label} />
@@ -150,7 +150,7 @@ export function Sidebar(): JSX.Element {
       );
     }
     return (
-      <React.Fragment key={element.label.toString()}>
+      <React.Fragment key={element.id}>
         <Divider sx={{my: 2}}></Divider>
         <Typography color='primary' component='h6' mb={1} pl={2}>
           {element.label}
@@ -166,8 +166,8 @@ export function Sidebar(): JSX.Element {
           {sidebarData.map((element: IndexItem) => {
             if (element.children) {
               return (
-                <Fragment key={'fragment' + element.label}>
-                  <ListItem disablePadding key={element.label}>
+                <Fragment key={'fragment' + element.id}>
+                  <ListItem disablePadding key={element.id}>
                     <ListItemButton
                       onClick={() =>
                         handleCollapsableOnClick(element.label.toString(), !collapsed[element.label.toString()])

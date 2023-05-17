@@ -1,0 +1,51 @@
+{
+    "data": {
+        "header": "Pawanmuktasana Series 2 (Digestive/Abdominal Group)",
+        "sequence": true,
+        "basicInfo": "The asanas of this group strengthens the digestive system and releases the energy blockages from the abdominal area of the body. It is helpful for people suffering from indigestion, constipation, acidity, gastric issues, diabetes, disorders of the male or female reproductive systems and varicose veins.",
+        "asanas": [
+            {
+                "id": "1.17",
+                "label": "Padotthanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padottanasana",
+                "img": ""
+            },
+            {
+                "id": "1.18",
+                "label": "Pada Chakrasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakra",
+                "img": ""
+            },
+            {
+                "id": "1.19",
+                "label": "Pada Sanchalanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padasanchalanasana",
+                "img": ""
+            },
+            {
+                "id": "1.20",
+                "label": "Supta Pawanmuktasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptapawanmuktasana",
+                "img": ""
+            },
+            {
+                "id": "1.21",
+                "label": "Jhulana Lurhakanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/jhulnalurkhanasana",
+                "img": ""
+            },
+            {
+                "id": "1.22",
+                "label": "Supta Udarakarshanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptaudarakarshanasana",
+                "img": ""
+            },
+            {
+                "id": "1.23",
+                "label": "Naukasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/naukasana",
+                "img": ""
+            }
+        ]
+    }
+}

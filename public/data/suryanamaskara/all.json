@@ -1,0 +1,81 @@
+{
+    "data": {
+        "header": "Surya Namaskara",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.31",
+                "label": "Namaskarasana",
+                "routing": "/hathayogaasana/suryanamaskara/1namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "1.32",
+                "label": "Urdhva Hastasana",
+                "routing": "/hathayogaasana/suryanamaskara/2urdhvahastaasana",
+                "img": ""
+            },
+            {
+                "id": "1.33",
+                "label": "Pada Hastasana",
+                "routing": "/hathayogaasana/suryanamaskara/3padahastasana",
+                "img": ""
+            },
+            {
+                "id": "1.34",
+                "label": "Eka Pada Prasaranasana",
+                "routing": "/hathayogaasana/suryanamaskara/4ekapadaprasaranasana",
+                "img": ""
+            },
+            {
+                "id": "1.35",
+                "label": "Dwi Pada Prasaranasana",
+                "routing": "/hathayogaasana/suryanamaskara/5dwipadaprasaranasana",
+                "img": ""
+            },
+            {
+                "id": "1.36",
+                "label": "Shashtang Namaskarasana",
+                "routing": "/hathayogaasana/suryanamaskara/6shashtangnamaskarasana",
+                "img": ""
+            },
+            {
+                "id": "1.37",
+                "label": "Bhujangasana",
+                "routing": "/hathayogaasana/suryanamaskara/7bhujangasana",
+                "img": ""
+            },
+            {
+                "id": "1.38",
+                "label": "Budarasana",
+                "routing": "/hathayogaasana/suryanamaskara/8budarasana",
+                "img": ""
+            },
+            {
+                "id": "1.39",
+                "label": "Eka Pada Prasaranasana",
+                "routing": "/hathayogaasana/suryanamaskara/9ekapadaprasaranasana",
+                "img": ""
+            },
+            {
+                "id": "1.40",
+                "label": "Pada Hastasana",
+                "routing": "/hathayogaasana/suryanamaskara/10padahastasana",
+                "img": ""
+            },
+            {
+                "id": "1.41",
+                "label": "Urdhva Hastasana",
+                "routing": "/hathayogaasana/suryanamaskara/11urdhvahastasana",
+                "img": ""
+            },
+            {
+                "id": "1.42",
+                "label": "Namaskarasana",
+                "routing": "/hathayogaasana/suryanamaskara/12namaskarasana",
+                "img": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "header": "Pawanmuktasana Series 3 (Energy Block Postures)",
+        "sequence": true,
+        "basicInfo": "The asanas of this group improves energy flow within the body and releases the energy blockages from the spine, activates lungs and heart and also improves endocrine functions. It is helpful for people suffering from reduced vitality, stiff back, menstrual problems and toning the pelvis organs and muscles.",
+        "asanas": [
+            {
+                "id": "1.24",
+                "label": "Rajju Karshanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/rajjukarshanasana",
+                "img": ""
+            },
+            {
+                "id": "1.25",
+                "label": "Gatyatmak Meru Vakrasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/gatyatmakmeruvakrasana",
+                "img": ""
+            },
+            {
+                "id": "1.26",
+                "label": "Chakki Chalanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/chakkichalasana",
+                "img": ""
+            },
+            {
+                "id": "1.27",
+                "label": "Nauka Sanchalansana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/naukasanchalanasana",
+                "img": ""
+            },
+            {
+                "id": "1.28",
+                "label": "Kashtha Takshanasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/kashthatakshanasana",
+                "img": ""
+            },
+            {
+                "id": "1.29",
+                "label": "Namaskarasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "1.30",
+                "label": "Kauva Chalasana",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/kauvachalasana",
+                "img": ""
+            }
+        ]
+    }
+}
