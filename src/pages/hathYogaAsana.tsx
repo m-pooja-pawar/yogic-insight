@@ -44,5 +44,13 @@ export default function HathYogaAsana(): JSX.Element {
     getAsanaDetailData();
   }, [apiParam, getAsanaDetailData]);
 
-  return asanaDetail && asanaDetail.sequence ? <AsanaSequence {...asanaDetail}></AsanaSequence> : <Asana></Asana>;
+  return asanaDetail ? (
+    asanaDetail.sequence ? (
+      <AsanaSequence {...asanaDetail}></AsanaSequence>
+    ) : (
+      <Asana></Asana>
+    )
+  ) : (
+    <>{apiParam}</>
+  );
 }

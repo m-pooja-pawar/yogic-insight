@@ -50,10 +50,10 @@ export function Sidebar(): JSX.Element {
     sidebarDataList.forEach((element: IndexItem) => {
       if (element.children && element.children.length) {
         element.children.forEach((childElement: IndexItem) => {
-          htmlRefData[childElement.label.toString()] = React.createRef();
+          htmlRefData[childElement.id] = React.createRef();
         });
       } else {
-        htmlRefData[element.label.toString()] = React.createRef();
+        htmlRefData[element.id] = React.createRef();
       }
     });
     return htmlRefData;
@@ -73,8 +73,11 @@ export function Sidebar(): JSX.Element {
   }, [getSidebarData]);
 
   useEffect(() => {
-    setCollapsedBasedOnLocation();
-    scrollToListItem();
+    if (!navigationFromSidebar) {
+      setCollapsedBasedOnLocation();
+      scrollToListItem();
+    }
+    setNavigationFromSidebar(false);
   }, [sidebarData, location]);
 
   useEffect(() => {
@@ -96,7 +99,7 @@ export function Sidebar(): JSX.Element {
       if (childFound) {
         setCollapsed({
           ...collapsed,
-          [childFound.label.toString()]: true,
+          [childFound.id]: true,
         });
       }
     }
@@ -123,7 +126,7 @@ export function Sidebar(): JSX.Element {
         childFound = childFound.children?.find((element: IndexItem) => element.routing === location.pathname);
       }
       if (childFound) {
-        const scrollToElement = htmlRef[childFound.label.toString()];
+        const scrollToElement = htmlRef[childFound.id];
         if (scrollToElement && scrollToElement.current) {
           scrollToElement.current.scrollIntoView({
             behavior: 'smooth',
@@ -168,15 +171,12 @@ export function Sidebar(): JSX.Element {
               return (
                 <Fragment key={'fragment' + element.id}>
                   <ListItem disablePadding key={element.id}>
-                    <ListItemButton
-                      onClick={() =>
-                        handleCollapsableOnClick(element.label.toString(), !collapsed[element.label.toString()])
-                      }>
+                    <ListItemButton onClick={() => handleCollapsableOnClick(element.id, !collapsed[element.id])}>
                       <ListItemText primary={element.label} />
-                      {collapsed[element.label.toString()] ? <ExpandLess /> : <ExpandMore />}
+                      {collapsed[element.id] ? <ExpandLess /> : <ExpandMore />}
                     </ListItemButton>
                   </ListItem>
-                  <Collapse unmountOnExit in={collapsed[element.label.toString()]} timeout='auto'>
+                  <Collapse unmountOnExit in={collapsed[element.id]} timeout='auto'>
                     {element.children.map((childElement: IndexItem) => {
                       return sidebarItem(childElement, 3);
                     })}
