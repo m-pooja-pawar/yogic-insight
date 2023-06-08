@@ -27,16 +27,12 @@ export default function HathYogaAsana(): JSX.Element {
 
   const getAsanaDetailData = useCallback(async () => {
     if (apiParam) {
-      getAsanaDetail(apiParam).then(
-        (response) => {
-          if (response && response.data) {
-            setAsanaDetail(response.data.data);
-          }
-        },
-        () => {
-          setAsanaDetail(null);
-        },
-      );
+      setAsanaDetail(null);
+      getAsanaDetail(apiParam).then((response) => {
+        if (response && response.data) {
+          setAsanaDetail(response.data.data);
+        }
+      });
     }
   }, [apiParam, setAsanaDetail]);
 
@@ -51,6 +47,6 @@ export default function HathYogaAsana(): JSX.Element {
       <Asana></Asana>
     )
   ) : (
-    <>{apiParam}</>
+    <>Loading... {apiParam}</>
   );
 }

@@ -2,7 +2,7 @@
     "data": {
         "header": "Surya Namaskara",
         "sequence": true,
-        "basicInfo": "",
+        "basicInfo": "Surya Namaskara, also known as Sun Salutation, is a fundamental sequence of yoga postures. It is a dynamic sequence that combines asanas (physical postures), pranayama (breathing exercises), and mindfulness. The sequence consists of a series of 12 coordinated yoga poses, each synchronized with specific breath patterns. The postures flow smoothly from one to another, creating a rhythmic and meditative practice. Surya Namaskara offers numerous benefits, including physical fitness, increased flexibility, improved strength, enhanced energy and vitality, stress reduction and relaxation, improved digestion, mental focus and concentration, weight management, balance and coordination, and spiritual connection. The sequence of 12 yoga poses are practiced twice to complete one round. Sequence 1 to 12 constitute half a round, in the second half, in sequence 16, stretch the left foot back and in sequence 21, bend the right leg and bring the right foot between the hands.",
         "asanas": [
             {
                 "id": "1.31",
@@ -74,6 +74,128 @@
                 "id": "1.42",
                 "label": "Namaskarasana",
                 "routing": "/hathayogaasana/suryanamaskara/12namaskarasana",
+                "img": ""
+            }
+        ],
+        "carouselData": [
+            {
+                "id": "1.",
+                "label": "Namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "2.",
+                "label": "Urdhva Hastasana",
+                "img": ""
+            },
+            {
+                "id": "3.",
+                "label": "Pada Hastasana",
+                "img": ""
+            },
+            {
+                "id": "4.",
+                "label": "Eka Pada Prasaranasana (Right Leg Back)",
+                "img": ""
+            },
+            {
+                "id": "5.",
+                "label": "Dwi Pada Prasaranasana",
+                "img": ""
+            },
+            {
+                "id": "6.",
+                "label": "Shashtang Namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "7.",
+                "label": "Bhujangasana",
+                "img": ""
+            },
+            {
+                "id": "8.",
+                "label": "Budarasana",
+                "img": ""
+            },
+            {
+                "id": "9.",
+                "label": "Eka Pada Prasaranasana (Right Leg Back)",
+                "img": ""
+            },
+            {
+                "id": "10.",
+                "label": "Pada Hastasana",
+                "img": ""
+            },
+            {
+                "id": "11.",
+                "label": "Urdhva Hastasana",
+                "img": ""
+            },
+            {
+                "id": "12.",
+                "label": "Namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "13.",
+                "label": "Namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "14.",
+                "label": "Urdhva Hastasana",
+                "img": ""
+            },
+            {
+                "id": "15.",
+                "label": "Pada Hastasana",
+                "img": ""
+            },
+            {
+                "id": "16.",
+                "label": "Eka Pada Prasaranasana (Left Leg Back)",
+                "img": ""
+            },
+            {
+                "id": "17.",
+                "label": "Dwi Pada Prasaranasana",
+                "img": ""
+            },
+            {
+                "id": "18.",
+                "label": "Shashtang Namaskarasana",
+                "img": ""
+            },
+            {
+                "id": "19.",
+                "label": "Bhujangasana",
+                "img": ""
+            },
+            {
+                "id": "20.",
+                "label": "Budarasana",
+                "img": ""
+            },
+            {
+                "id": "21.",
+                "label": "Eka Pada Prasaranasana (Left Leg Back)",
+                "img": ""
+            },
+            {
+                "id": "22.",
+                "label": "Pada Hastasana",
+                "img": ""
+            },
+            {
+                "id": "23.",
+                "label": "Urdhva Hastasana",
+                "img": ""
+            },
+            {
+                "id": "24.",
+                "label": "Namaskarasana",
                 "img": ""
             }
         ]
