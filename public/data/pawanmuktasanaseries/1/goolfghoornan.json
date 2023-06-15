@@ -1,0 +1,68 @@
+{
+    "data": {
+        "header": "Goolf Ghoornan (Ankle Crank)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the right knee and gently place the foot on the left thigh such that the ankle is far enough over the thigh to be free for rotation."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Hold the right ankle with the right hand, hold the toes of the right foot with the left hand."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate the right foot clockwise with the help of left hand for 5 times."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate the right foot anti-clockwise with the help of left hand for 5 times."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the left knee and gently place the foot on the right thigh such that the ankle is far enough over the thigh to be free for rotation."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Hold the left ankle with the left hand, hold the toes of the left foot with the right hand."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate the left foot clockwise with the help of right hand for 5 times."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate the left foot anti-clockwise with the help of right hand for 5 times."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Inhale on the upward movement.",
+            "Exhale on the downward movement."
+        ]
+    }
+}

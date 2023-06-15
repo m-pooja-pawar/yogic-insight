@@ -3,7 +3,6 @@ import {useParams} from 'react-router-dom';
 import {getAsanaDetail} from '../services/asana';
 import {AsanaSequence} from '../components/asanaSequence';
 import {Asana} from '../components/asana';
-import {AsanaSequenceList} from '../interface/asanaSequence';
 
 // eslint-disable-next-line import/no-default-export
 export default function HathYogaAsana(): JSX.Element {
@@ -11,7 +10,7 @@ export default function HathYogaAsana(): JSX.Element {
   const {id} = useParams();
   const {asana} = useParams();
   const [apiParam, setApiParam] = useState<string>();
-  const [asanaDetail, setAsanaDetail] = useState<AsanaSequenceList | null>();
+  const [asanaDetail, setAsanaDetail] = useState<any | null>();
 
   useEffect(() => {
     if (type && id) {
@@ -44,7 +43,7 @@ export default function HathYogaAsana(): JSX.Element {
     asanaDetail.sequence ? (
       <AsanaSequence {...asanaDetail}></AsanaSequence>
     ) : (
-      <Asana></Asana>
+      <Asana {...asanaDetail}></Asana>
     )
   ) : (
     <>Loading... {apiParam}</>

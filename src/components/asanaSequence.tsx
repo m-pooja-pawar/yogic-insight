@@ -1,8 +1,8 @@
 import {Box, Grid, Typography} from '@mui/material';
 import {AsanaList, AsanaSequenceList} from '../interface/asanaSequence';
 import {NavLink} from 'react-router-dom';
-import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 import {Carousel} from './carousel';
+import {AsanaImage} from './asanaImage';
 
 export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
   const getAsanaList = (): JSX.Element => {
@@ -19,15 +19,11 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
               sx={{textDecoration: 'none'}}
               to={asanaElement.routing ? asanaElement.routing : ''}
               xs={12}>
-              <Box sx={{boxShadow: 2, borderRadius: 2, p: 2}}>
+              <Box sx={{boxShadow: 2, borderRadius: 2, height: '100%'}}>
                 <Box sx={{textAlign: 'center', height: '150px'}}>
-                  {asanaElement.img != '' ? (
-                    <img height='100%' src={asanaElement.img}></img>
-                  ) : (
-                    <SelfImprovementIcon color='primary' sx={{fontSize: 150}}></SelfImprovementIcon>
-                  )}
+                  <AsanaImage imgSrc={asanaElement.img}></AsanaImage>
                 </Box>
-                <Typography align='center' color='primary' component='p'>
+                <Typography align='center' color='primary' component='p' mb={2}>
                   {index + 1}. {asanaElement.label}
                 </Typography>
               </Box>

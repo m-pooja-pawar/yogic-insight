@@ -1,0 +1,122 @@
+{
+    "data": {
+        "header": "Greeva Sanchalana (Neck Movements)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight. Eyes Closed."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and move the head as far back as is comfortable."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and move the head forward and try to touch the chin to the chest."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and move the head to the right, bringing the right ear close to the right shoulder without raising the shoulders."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhale and move the head to the center, the starting position."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Exhale and move the head to the left, bringing the left ear close to the left shoulder without raising the shoulders."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhale and move the head to the center, the starting position."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            },
+            {
+                "id": "3",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and turn the head to the right, such that chin is in line with the right shoulder."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhale and turn the head to the center, the starting position."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Exhale and turn the head to the left, such that chin is in line with the left shoulder."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhale and turn the head to the center, the starting position."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            },
+            {
+                "id": "4",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Slowly rotate the head in the circular movement clockwise 5 times, making the circle as large as possible."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Slowly rotate the head in the circular movement anti-clockwise 5 times, making the circle as large as possible."
+                    }
+                ],
+                "info": [
+                    "Inhale as the head moves up.",
+                    "Exhale as the head moves down."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

@@ -2,19 +2,17 @@ import * as React from 'react';
 import {useTheme} from '@mui/material/styles';
 import Box from '@mui/material/Box';
 import MobileStepper from '@mui/material/MobileStepper';
-import Paper from '@mui/material/Paper';
 import Button from '@mui/material/Button';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
 import SwipeableViews from 'react-swipeable-views';
 import {autoPlay} from 'react-swipeable-views-utils';
-import {AsanaList} from '../interface/asanaSequence';
-import {Typography} from '@mui/material';
+import {AsanaTechnique} from '../interface/asana';
 import {AsanaImage} from './asanaImage';
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
-export function Carousel(props: {readonly carouselData: readonly AsanaList[]}): JSX.Element {
+export function InstructionCarousel(props: {readonly carouselData: readonly AsanaTechnique[]}): JSX.Element {
   const theme = useTheme();
   const [activeStep, setActiveStep] = React.useState(0);
   const maxSteps = props.carouselData?.length ? props.carouselData?.length : 0;
@@ -32,26 +30,14 @@ export function Carousel(props: {readonly carouselData: readonly AsanaList[]}): 
   };
 
   return (
-    <Box sx={{display: 'flex', justifyContent: 'center', py: 5}}>
-      <Box sx={{maxWidth: 600, width: '100%', flexGrow: 1, boxShadow: 2, borderRadius: 2}}>
-        <Paper
-          square
-          elevation={0}
-          sx={{
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            height: 50,
-            bgcolor: 'background.default',
-          }}>
-          <Typography>{props.carouselData[activeStep].label}</Typography>
-        </Paper>
+    <Box sx={{display: 'flex', justifyContent: 'center'}}>
+      <Box sx={{width: '100%', flexGrow: 1}}>
         <AutoPlaySwipeableViews
           enableMouseEvents
           axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'}
           index={activeStep}
           onChangeIndex={handleStepChange}>
-          {props.carouselData?.map((step: AsanaList, index: number) => (
+          {props.carouselData?.map((step: AsanaTechnique, index: number) => (
             <div key={step.id}>
               {Math.abs(activeStep - index) <= 2 ? (
                 <Box
@@ -60,14 +46,18 @@ export function Carousel(props: {readonly carouselData: readonly AsanaList[]}): 
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    maxWidth: 600,
                     overflow: 'hidden',
                     width: '100%',
-                    borderTop: 1,
                     borderBottom: 1,
                     borderColor: 'divider',
                   }}>
-                  <AsanaImage imgSrc={step.img}></AsanaImage>
+                  {step.img ? (
+                    <AsanaImage imgSrc={step.img}></AsanaImage>
+                  ) : (
+                    <Box p={2}>
+                      Step {index + 1}. {step.instruction}
+                    </Box>
+                  )}
                 </Box>
               ) : null}
             </div>

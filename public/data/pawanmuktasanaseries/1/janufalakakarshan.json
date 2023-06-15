@@ -1,0 +1,39 @@
+{
+    "data": {
+        "header": "Janufalak Akarshan (Kneecap Contraction)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and contract the muscle surrounding the right knee, drawing the right kneecap back towards the thigh."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Hold the contraction for 3 to 5 seconds."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhale and release the contraction such that kneecap returns to its normal position."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

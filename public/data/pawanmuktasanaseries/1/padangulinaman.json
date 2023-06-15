@@ -1,0 +1,35 @@
+{
+    "data": {
+        "header": "Padanguli Naman (Toe Bending)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides and slightly behind the buttocks. Lean back a little, using the arms to support the back. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and move the toes backward."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and move the toes forward."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            }
+        ],
+        "info": [
+            "Move only the toes, every other body part should be motionless.",
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

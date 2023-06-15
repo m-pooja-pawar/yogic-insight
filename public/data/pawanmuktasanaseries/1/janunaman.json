@@ -1,0 +1,63 @@
+{
+    "data": {
+        "header": "Janu Naman (Knee Bending)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the right knee, bring the thigh closer to the chest, heel near the groin, interlock the hands fingers under the right thigh and raise the foot from the ground"
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale and straighten the right leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhale and come back to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the left knee, bring the thigh closer to the chest, heel near the groin, interlock the hands fingers under the left thigh and raise the foot from the ground"
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale and straighten the left leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhale and come back to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

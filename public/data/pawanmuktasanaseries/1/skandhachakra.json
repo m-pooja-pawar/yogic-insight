@@ -1,0 +1,79 @@
+{
+    "data": {
+        "header": "Skandha Chakra (Shoulder Socket Rotation)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Extend the right arm sideways at the shoulder level, place fingers of the right hand on the right shoulder and keep the left hand on the left knee."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Rotate the right elbow clockwise 5 times."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Rotate the right elbow anti-clockwise 5 times."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Extend the left arm sideways at the shoulder level, place fingers of the left hand on the left shoulder and keep the right hand on the right knee."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Rotate the left elbow clockwise 5 times."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Rotate the left elbow anti-clockwise 5 times."
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Extend both the arms sideways at the shoulder level, place fingers of the right hand on right shoulder and of the left hand on the left shoulder."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Fully rotate both the elbows at the same time in a large circle clockwise 5 times. Touch the elbows in the front of the chest on the forward movement, touch the ears while moving up, and touch the sides of the trunk while coming down."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Fully rotate both the elbows at the same time in a large circle anti-clockwise 5 times. Touch the elbows in the front of the chest on the forward movement, touch the ears while moving up, and touch the sides of the trunk while coming down."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Inhale on the upward movement.",
+            "Exhale on the downward movement."
+        ]
+    }
+}

@@ -50,82 +50,82 @@
                 },
                 {
                     "id": "1.1",
-                    "label": "Padanguli Naman",
+                    "label": "Padanguli Naman (Toe Bending)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/padangulinaman"
                 },
                 {
                     "id": "1.2",
-                    "label": "Goolf Naman",
+                    "label": "Goolf Naman (Ankle Bending)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfnaman"
                 },
                 {
                     "id": "1.3",
-                    "label": "Goolf Chakra",
+                    "label": "Goolf Chakra (Ankle Rotation)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfchakra"
                 },
                 {
                     "id": "1.4",
-                    "label": "Goolf Ghoornan",
+                    "label": "Goolf Ghoornan (Ankle Crank)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfghoornan"
                 },
                 {
                     "id": "1.5",
-                    "label": "Janufalak Akarshan",
+                    "label": "Janufalak Akarshan (Kneecap Contraction)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/janufalakakarshan"
                 },
                 {
                     "id": "1.6",
-                    "label": "Janu Naman",
+                    "label": "Janu Naman (Knee Bending)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/janunaman"
                 },
                 {
                     "id": "1.7",
-                    "label": "Janu Chakra",
+                    "label": "Janu Chakra (Knee Crank)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/januchakra"
                 },
                 {
                     "id": "1.8",
-                    "label": "Ardha Titliasana",
+                    "label": "Ardha Titliasana (Half Butterfly)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/ardhatitliasana"
                 },
                 {
                     "id": "1.9",
-                    "label": "Shroni Chakra",
+                    "label": "Shroni Chakra (Hip Rotation)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/shronichakra"
                 },
                 {
                     "id": "1.10",
-                    "label": "Poorna Titliasana",
+                    "label": "Poorna Titliasana (Full Butterfly)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/poornatitliasana"
                 },
                 {
                     "id": "1.11",
-                    "label": "Mushtika Bandhana",
+                    "label": "Mushtika Bandhana (Hand Clenching)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/mushtikabandhana"
                 },
                 {
                     "id": "1.12",
-                    "label": "Manibandha Naman",
+                    "label": "Manibandha Naman (Wrist Bending)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/manibandhanaman"
                 },
                 {
                     "id": "1.13",
-                    "label": "Manibadha Chakra",
+                    "label": "Manibadha Chakra (Wrist Joint Rotation)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/manibadhachakra"
                 },
                 {
                     "id": "1.14",
-                    "label": "Kehuni Naman",
+                    "label": "Kehuni Naman (Elbow Bending)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/kehuninaman"
                 },
                 {
                     "id": "1.15",
-                    "label": "Skandha Chakra",
+                    "label": "Skandha Chakra (Shoulder Socket Rotation)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/skandhachakra"
                 },
                 {
                     "id": "1.16",
-                    "label": "Greeva Sanchalana",
+                    "label": "Greeva Sanchalana (Neck Movements)",
                     "routing": "/hathayogaasana/pawanmuktasanaseries/1/greevasanchalana"
                 }
             ]

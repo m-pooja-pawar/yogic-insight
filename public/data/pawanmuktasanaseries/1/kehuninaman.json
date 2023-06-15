@@ -1,0 +1,53 @@
+{
+    "data": {
+        "header": "Kehuni Naman (Elbow Bending)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and straighten the arms in front of the body at the shoulder level, keeping hands open with the palms facing up and upper arms parallel to the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and bend the arms at the elbows and touch the fingers to the shoulders, upper arms parallel to the floor."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and extend the arms sideways at the shoulder level, keeping hands open with the palms facing up and upper arms parallel to the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and bend the arms at the elbows and touch the fingers to the shoulders, upper arms parallel to the floor."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data": {
+        "header": "Manibandha Naman (Wrist Bending)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight. Straighten the arms in front of the body at the shoulder level."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale and bend the hands backward from the wrist such as pressing the palms against a wall with the fingers pointing toward the ceiling."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhale and bend the hands forward from the wrists with the fingers pointing towards the floor."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times. "
+                ]
+            }
+        ],
+        "info": [
+            "Move only the hands, every other body part should be motionless.",
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

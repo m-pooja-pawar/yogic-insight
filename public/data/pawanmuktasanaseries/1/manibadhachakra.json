@@ -1,0 +1,120 @@
+{
+    "data": {
+        "header": "Manibadha Chakra (Wrist Joint Rotation)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Straighten the right arm in front of the body at the shoulder level."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Make a loose fist with the right hand, with the thumb inside and the fist faces downward."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate the fist making a large circle as possible from the wrist, clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate the fist making a large circle as possible from the wrist, anti-clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Straighten the left arm in front of the body at the shoulder level."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Make a loose fist with the left hand, with the thumb inside and the fist faces downward."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate the fist making a large circle as possible from the wrist, clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate the fist making a large circle as possible from the wrist, anti-clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Straighten both the arms in front of the body at the shoulder level."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Make a loose fist with both the hands, with the thumb inside and the fists faces downward."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate both the fist making a large circle as possible from the wrist, clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate both the fist making a large circle as possible from the wrist, anti-clockwise 5 times, making sure the fist faces downward throughout the practice."
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Straighten both the arms in front of the body at the shoulder level."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Make a loose fist with both the hands, with the thumb inside and the fists faces downward."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Slowly rotate both the fist making a large circle as possible from the wrist, in opposite direction (right hand fist clockwise, left hand anti-clockwise) 5 times, making sure the fist faces downward throughout the practice."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Slowly rotate both the fist making a large circle as possible from the wrist, in opposite direction (right hand fist anti-clockwise, left hand clockwise) 5 times, making sure the fist faces downward throughout the practice."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Rotate only the hands from the wrist, every other body part should be motionless.",
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}
