@@ -1,0 +1,34 @@
+{
+    "data": {
+        "header": "Namaskarasana (Salutation Pose)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Squat with the feet flat on the floor and feet should be more than shoulder distance apart. Knees bent and seperated. Bring hands together in front of the chest in a gesture of prayer. Elbows pressing against the insides of the knees."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling bend the head backwards and use the elbows to push the knees as wide as apart as comfortable. Hold this position for 5 seconds, retaining the breath."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling straighten the arms directly in front of the body, push in the knees pressing the upper arms inwards and head bent forward with the chin pressed against the chest. Hold this position for 5 seconds, retaining the breath."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

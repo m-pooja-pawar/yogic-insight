@@ -19,16 +19,16 @@
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Inhale and straighten the right leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
+                        "instruction": "Inhaling straighten the right leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
                     },
                     {
                         "id": "3",
                         "img": "",
-                        "instruction": "Exhale and come back to step 1."
+                        "instruction": "Exhaling return back to step 1."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             },
             {
@@ -43,16 +43,16 @@
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Inhale and straighten the left leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
+                        "instruction": "Inhaling straighten the left leg, pullling up the kneecap and keeping heel about 10 cms off the floor."
                     },
                     {
                         "id": "3",
                         "img": "",
-                        "instruction": "Exhale and come back to step 1."
+                        "instruction": "Exhaling return back to step 1."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             }
         ],

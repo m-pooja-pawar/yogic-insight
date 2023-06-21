@@ -14,16 +14,16 @@
                     {
                         "id": "1",
                         "img": "",
-                        "instruction": "Inhale and move both the feet backward, bending them from the ankle joint."
+                        "instruction": "Inhaling move both the feet backward, bending them from the ankle joint."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Exhale and move both the feet forward, bending them from the ankle joint. Try to touch the toes to the floor."
+                        "instruction": "Exhaling move both the feet forward, bending them from the ankle joint. Try to touch the toes to the floor."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             }
         ],

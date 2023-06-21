@@ -6,43 +6,43 @@
         "asanas": [
             {
                 "id": "1.17",
-                "label": "Padotthanasana",
-                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padottanasana",
+                "label": "Padotthanasana (Raised Legs Pose)",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padotthanasana",
                 "img": ""
             },
             {
                 "id": "1.18",
-                "label": "Pada Chakrasana",
-                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakra",
+                "label": "Padachakrasana (Leg Rotation)",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakrasana",
                 "img": ""
             },
             {
                 "id": "1.19",
-                "label": "Pada Sanchalanasana",
+                "label": "Pada Sanchalanasana (Cycling)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/padasanchalanasana",
                 "img": ""
             },
             {
                 "id": "1.20",
-                "label": "Supta Pawanmuktasana",
+                "label": "Supta Pawanmuktasana (Leg Lock Pose)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptapawanmuktasana",
                 "img": ""
             },
             {
                 "id": "1.21",
-                "label": "Jhulana Lurhakanasana",
+                "label": "Jhulana Lurhakanasana (Rocking and Rolling)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/jhulnalurkhanasana",
                 "img": ""
             },
             {
                 "id": "1.22",
-                "label": "Supta Udarakarshanasana",
+                "label": "Supta Udarakarshanasana (Sleeping Abdominal Stretch Pose)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptaudarakarshanasana",
                 "img": ""
             },
             {
                 "id": "1.23",
-                "label": "Naukasana",
+                "label": "Naukasana (Boat Pose)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/naukasana",
                 "img": ""
             }

@@ -1,0 +1,39 @@
+{
+    "data": {
+        "header": "Chakki Chalanasana (Churning The Mill)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Seperate the legs as far apart as comfortable. Do not bend the knees. Interlock the fingers of both the hands and hold the arms out straight in front of the chest. Do not bend the elbows."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling bend forward as far as possible and turn to the right so that the hands pass above the right toes as far to the right as possible."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling lean back as far as possible moving the body from the waist."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhaling bring the arms and hands to the left side, over the left toes and then back to the centre position."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times clockwise and 5 times anti-clockwise."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

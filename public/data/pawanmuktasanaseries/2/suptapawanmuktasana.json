@@ -1,0 +1,119 @@
+{
+    "data": {
+        "header": "Supta Pawanmuktasana (Leg Lock Pose)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Lie flat on the back. Legs together and straight. Arms by the sides and palms down. Head, neck and spine in a straight line."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the right knee bringing the right thigh to the chest and interlocking the fingers hold the shin just below the right knee."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale deeply."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhaling raise the head and shoulders off the ground, and bring the right knee to the nose."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Hold for 3 to 5 seconds, retaining the breath."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhaling slowly return to the staring position."
+                    }
+                ],
+                "info": [
+                    "Repeat 3 times."
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the left knee bringing the left thigh to the chest and interlocking the fingers hold the shin just below the left knee."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale deeply."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhaling raise the head and shoulders off the ground, and bring the left knee to the nose."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Hold for 3 to 5 seconds, retaining the breath."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhaling slowly return to the staring position."
+                    }
+                ],
+                "info": [
+                    "Repeat 3 times."
+                ]
+            },
+            {
+                "id": "3",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend both the knees bringing both the thighs to the chest and interlocking the fingers hold the shins just below the knees."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale deeply."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhaling raise the head and shoulders off the ground, and bring both the knees to the nose."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Hold for 3 to 5 seconds, retaining the breath."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhaling slowly return to the staring position."
+                    }
+                ],
+                "info": [
+                    "Repeat 3 times."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing.",
+            "After completing, move to shavasana.",
+            "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+        ]
+    }
+}

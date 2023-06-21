@@ -14,16 +14,16 @@
                     {
                         "id": "1",
                         "img": "",
-                        "instruction": "Inhale and move the toes backward."
+                        "instruction": "Inhaling move the toes backward."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Exhale and move the toes forward."
+                        "instruction": "Exhaling move the toes forward."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             }
         ],

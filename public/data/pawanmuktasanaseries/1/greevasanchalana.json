@@ -14,12 +14,12 @@
                     {
                         "id": "1",
                         "img": "",
-                        "instruction": "Inhale and move the head as far back as is comfortable."
+                        "instruction": "Inhaling move the head as far back as is comfortable."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Exhale and move the head forward and try to touch the chin to the chest."
+                        "instruction": "Exhaling move the head forward and try to touch the chin to the chest."
                     }
                 ],
                 "info": [
@@ -38,26 +38,26 @@
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Exhale and move the head to the right, bringing the right ear close to the right shoulder without raising the shoulders."
+                        "instruction": "Exhaling move the head to the right, bringing the right ear close to the right shoulder without raising the shoulders."
                     },
                     {
                         "id": "3",
                         "img": "",
-                        "instruction": "Inhale and move the head to the center, the starting position."
+                        "instruction": "Inhaling move the head to the center, the starting position."
                     },
                     {
                         "id": "4",
                         "img": "",
-                        "instruction": "Exhale and move the head to the left, bringing the left ear close to the left shoulder without raising the shoulders."
+                        "instruction": "Exhaling move the head to the left, bringing the left ear close to the left shoulder without raising the shoulders."
                     },
                     {
                         "id": "5",
                         "img": "",
-                        "instruction": "Inhale and move the head to the center, the starting position."
+                        "instruction": "Inhaling move the head to the center, the starting position."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             },
             {
@@ -72,26 +72,26 @@
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Exhale and turn the head to the right, such that chin is in line with the right shoulder."
+                        "instruction": "Exhaling turn the head to the right, such that chin is in line with the right shoulder."
                     },
                     {
                         "id": "3",
                         "img": "",
-                        "instruction": "Inhale and turn the head to the center, the starting position."
+                        "instruction": "Inhaling turn the head to the center, the starting position."
                     },
                     {
                         "id": "4",
                         "img": "",
-                        "instruction": "Exhale and turn the head to the left, such that chin is in line with the left shoulder."
+                        "instruction": "Exhaling turn the head to the left, such that chin is in line with the left shoulder."
                     },
                     {
                         "id": "5",
                         "img": "",
-                        "instruction": "Inhale and turn the head to the center, the starting position."
+                        "instruction": "Inhaling turn the head to the center, the starting position."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times. "
+                    "Repeat 5 times."
                 ]
             },
             {

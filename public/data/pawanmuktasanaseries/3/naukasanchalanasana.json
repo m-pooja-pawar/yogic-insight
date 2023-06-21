@@ -1,10 +1,10 @@
 {
     "data": {
-        "header": "Janufalak Akarshan (Kneecap Contraction)",
+        "header": "Nauka Sanchalanasana (Rowing The Boat)",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
-            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hold the hands as though grasping the rower, palms facing down. Hands back towards to the shoulder. Spine Straight."
         },
         "stage": [
             {
@@ -14,21 +14,22 @@
                     {
                         "id": "1",
                         "img": "",
-                        "instruction": "Inhaling contract the muscle surrounding the right knee, drawing the right kneecap back towards the thigh."
+                        "instruction": "Inhale deeply."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Hold the contraction for 3 to 5 seconds."
+                        "instruction": "Exhaling bend forward from the waist as far as possible, straightening the arms."
                     },
                     {
                         "id": "3",
                         "img": "",
-                        "instruction": "Exhaling release the contraction such that kneecap returns to its normal position."
+                        "instruction": "Inhaling lean back as far as possible, drawing the hands back towards the shoulders and return to step 1."
                     }
                 ],
                 "info": [
-                    "Repeat 5 times."
+                    "Repeat 5 times.",
+                    "Repeat 5 times in the opposite direction."
                 ]
             }
         ],

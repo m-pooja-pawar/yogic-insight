@@ -6,43 +6,43 @@
         "asanas": [
             {
                 "id": "1.24",
-                "label": "Rajju Karshanasana",
+                "label": "Rajju Karshanasana (Pulling The Rope)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/rajjukarshanasana",
                 "img": ""
             },
             {
                 "id": "1.25",
-                "label": "Gatyatmak Meru Vakrasana",
+                "label": "Gatyatmak Meru Vakrasana (Dynamic Spinal Twist)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/gatyatmakmeruvakrasana",
                 "img": ""
             },
             {
                 "id": "1.26",
-                "label": "Chakki Chalanasana",
-                "routing": "/hathayogaasana/pawanmuktasanaseries/3/chakkichalasana",
+                "label": "Chakki Chalanasana (Churning The Mill)",
+                "routing": "/hathayogaasana/pawanmuktasanaseries/3/chakkichalanasana",
                 "img": ""
             },
             {
                 "id": "1.27",
-                "label": "Nauka Sanchalansana",
+                "label": "Nauka Sanchalanasana (Rowing The Boat)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/naukasanchalanasana",
                 "img": ""
             },
             {
                 "id": "1.28",
-                "label": "Kashtha Takshanasana",
+                "label": "Kashtha Takshanasana (Chopping Wood)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/kashthatakshanasana",
                 "img": ""
             },
             {
                 "id": "1.29",
-                "label": "Namaskarasana",
+                "label": "Namaskarasana (Salutation Pose)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/namaskarasana",
                 "img": ""
             },
             {
                 "id": "1.30",
-                "label": "Kauva Chalasana",
+                "label": "Kauva Chalasana (Crow Walking)",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/3/kauvachalasana",
                 "img": ""
             }

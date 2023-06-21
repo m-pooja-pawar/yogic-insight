@@ -1,0 +1,93 @@
+{
+    "data": {
+        "header": "Pada Sanchalanasana (Cycling)",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Lie flat on the back. Legs together and straight. Arms by the sides and palms down. Head, neck and spine in a straight line."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling raise the right leg 5cm from the ground, keeping the knee straight. Other leg should remain straight and in contact with the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling bend the right knee bringing the right thigh to the chest."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhaling raise the right leg straight up then lower the straight leg in a forward movement and return to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times in forward direction.",
+                    "Repeat 5 times in reverse direction."
+                ]
+            },
+            {
+                "id": "2",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling raise the left leg 5cm from the ground, keeping the knee straight. Other leg should remain straight and in contact with the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling bend the left knee bringing the right thigh to the chest."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhaling raise the left leg straight up then lower the straight leg in a forward movement and return to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times in forward direction.",
+                    "Repeat 5 times in reverse direction."
+                ]
+            },
+            {
+                "id": "3",
+                "img": "",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling raise both the legs 5cm from the ground, keeping the knee straight."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling bend both the knees bringing the thighs to the chest."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhaling raise both the legs straight up then lower the straight legs in a forward movement and return to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times in forward direction.",
+                    "Repeat 5 times in reverse direction."
+                ]
+            }
+        ],
+        "info": [
+            "Heel(s) should not touch the floor during the movement.",
+            "Deep breathing should be done and movement should be in sync with the breathing.",
+            "After completing, move to shavasana.",
+            "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+        ]
+    }
+}

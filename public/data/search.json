@@ -128,12 +128,12 @@
         {
             "id": "1.17",
             "label": "Padotthanasana",
-            "routing": "/hathayogaasana/pawanmuktasanaseries/2/padottanasana"
+            "routing": "/hathayogaasana/pawanmuktasanaseries/2/padotthanasana"
         },
         {
             "id": "1.18",
             "label": "Pada Chakrasana",
-            "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakra"
+            "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakrasana"
         },
         {
             "id": "1.19",
@@ -178,11 +178,11 @@
         {
             "id": "1.26",
             "label": "Chakki Chalanasana",
-            "routing": "/hathayogaasana/pawanmuktasanaseries/3/chakkichalasana"
+            "routing": "/hathayogaasana/pawanmuktasanaseries/3/chakkichalanasana"
         },
         {
             "id": "1.27",
-            "label": "Nauka Sanchalansana",
+            "label": "Nauka Sanchalanasana",
             "routing": "/hathayogaasana/pawanmuktasanaseries/3/naukasanchalanasana"
         },
         {
