@@ -14,6 +14,7 @@ export interface AsanaStage {
 
 export interface AsanaData {
   readonly header: string;
+  readonly header_en?: string;
   readonly info?: readonly string[];
   readonly stage: readonly AsanaStage[];
   readonly startingPosition?: AsanaTechnique;

@@ -2,6 +2,7 @@ export interface AsanaList {
   readonly id: string;
   readonly img: string;
   readonly label: string;
+  readonly label_en?: string;
   readonly routing?: string;
 }
 

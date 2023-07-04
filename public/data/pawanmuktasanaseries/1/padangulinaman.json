@@ -1,15 +1,16 @@
 {
     "data": {
-        "header": "Padanguli Naman (Toe Bending)",
+        "header": "Padanguli Naman",
+        "header_en": "Toe Bending",
         "startingPosition": {
             "header": "Starting Position",
-            "img": "",
+            "img": "/images/pawanmuktasanaseries/1/startingposition.png",
             "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides and slightly behind the buttocks. Lean back a little, using the arms to support the back. Spine Straight."
         },
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/padangulinaman.png",
                 "technique": [
                     {
                         "id": "1",

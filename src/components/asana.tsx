@@ -9,7 +9,7 @@ export function Asana(data: AsanaData): JSX.Element {
   const header = (): JSX.Element => {
     return (
       <Typography color='primary' component='p' mb={2} variant='h5'>
-        {data.header}
+        {data.header} {data.header_en ? '(' + data.header_en + ')' : ''}
       </Typography>
     );
   };
@@ -20,7 +20,7 @@ export function Asana(data: AsanaData): JSX.Element {
         <Typography color='primary' component='p'>
           {data.startingPosition.header}
         </Typography>
-        <Box sx={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+        <Box sx={{textAlign: 'center', height: '200px', py: 2}}>
           <AsanaImage imgSrc={data.startingPosition.img}></AsanaImage>
         </Box>
         <Typography component='p' mb={2}>
@@ -43,7 +43,7 @@ export function Asana(data: AsanaData): JSX.Element {
               </Typography>
               <Box sx={{my: 1}}>
                 <Grid container>
-                  <Grid item lg={5} sm={12} sx={{border: 1, borderColor: 'divider', borderRadius: 0}}>
+                  <Grid item lg={5} sm={12} sx={{border: 1, borderColor: 'divider', borderRadius: 0}} xs={12}>
                     <Box
                       sx={{
                         display: 'flex',
@@ -54,7 +54,7 @@ export function Asana(data: AsanaData): JSX.Element {
                       <AsanaImage imgSrc={stageData.img}></AsanaImage>
                     </Box>
                   </Grid>
-                  <Grid item lg={7} sm={12} sx={{border: 1, borderColor: 'divider', borderRadius: 0}}>
+                  <Grid item lg={7} sm={12} sx={{border: 1, borderColor: 'divider', borderRadius: 0}} xs={12}>
                     <InstructionCarousel carouselData={stageData.technique}></InstructionCarousel>
                   </Grid>
                 </Grid>

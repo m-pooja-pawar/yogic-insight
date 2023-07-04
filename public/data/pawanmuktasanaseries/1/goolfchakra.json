@@ -1,15 +1,16 @@
 {
     "data": {
-        "header": "Goolf Chakra (Ankle Rotation)",
+        "header": "Goolf Chakra",
+        "header_en": "Ankle Rotation",
         "startingPosition": {
             "header": "Starting Position",
-            "img": "",
+            "img": "/images/pawanmuktasanaseries/1/startingposition.png",
             "instruction": "Sit with the legs outstretched in front. Legs shoulder-width apart and straight. Hands besides and slightly behind the buttocks. Lean back a little, using the arms to support the back. Spine Straight."
         },
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/goolfchakra.png",
                 "technique": [
                     {
                         "id": "1",
@@ -25,7 +26,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/goolfchakra.png",
                 "technique": [
                     {
                         "id": "1",

@@ -20,11 +20,14 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
               to={asanaElement.routing ? asanaElement.routing : ''}
               xs={12}>
               <Box sx={{boxShadow: 2, borderRadius: 2, height: '100%', px: 1}}>
-                <Box sx={{textAlign: 'center', height: '150px'}}>
+                <Box sx={{textAlign: 'center', height: '150px', py: 2}}>
                   <AsanaImage imgSrc={asanaElement.img}></AsanaImage>
                 </Box>
-                <Typography align='center' color='primary' component='p' mb={2}>
+                <Typography align='center' color='primary' component='p'>
                   {index + 1}. {asanaElement.label}
+                </Typography>
+                <Typography align='center' color='primary' component='p' mb={2}>
+                  {asanaElement.label_en ? '(' + asanaElement.label_en + ')' : ''}
                 </Typography>
               </Box>
             </Grid>
