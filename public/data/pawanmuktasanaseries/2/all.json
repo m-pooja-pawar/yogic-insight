@@ -6,45 +6,52 @@
         "asanas": [
             {
                 "id": "1.17",
-                "label": "Padotthanasana (Raised Legs Pose)",
+                "label": "Padotthanasana",
+                "label_en": "Raised Legs Pose",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/padotthanasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/padotthanasana1.png"
             },
             {
                 "id": "1.18",
-                "label": "Padachakrasana (Leg Rotation)",
+                "label": "Padachakrasana",
+                "label_en": "Leg Rotation",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/padachakrasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/padachakrasana.png"
             },
             {
                 "id": "1.19",
-                "label": "Pada Sanchalanasana (Cycling)",
+                "label": "Pada Sanchalanasana",
+                "label_en": "Cycling",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/padasanchalanasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/padasanchalanasana.png"
             },
             {
                 "id": "1.20",
-                "label": "Supta Pawanmuktasana (Leg Lock Pose)",
+                "label": "Supta Pawanmuktasana",
+                "label_en": "Leg Lock Pose",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptapawanmuktasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/suptapawanmuktasana2.png"
             },
             {
                 "id": "1.21",
-                "label": "Jhulana Lurhakanasana (Rocking and Rolling)",
+                "label": "Jhulana Lurhakanasana",
+                "label_en": "Rocking and Rolling",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/jhulnalurkhanasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/jhulnalurkhanasana.png"
             },
             {
                 "id": "1.22",
-                "label": "Supta Udarakarshanasana (Sleeping Abdominal Stretch Pose)",
+                "label": "Supta Udarakarshanasana",
+                "label_en": "Sleeping Abdominal Stretch Pose",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/suptaudarakarshanasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/suptaudarakarshanasana.png"
             },
             {
                 "id": "1.23",
-                "label": "Naukasana (Boat Pose)",
+                "label": "Naukasana",
+                "label_en": "Boat Pose",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/2/naukasana",
-                "img": ""
+                "img": "/images/pawanmuktasanaseries/2/naukasana.png"
             }
         ]
     }

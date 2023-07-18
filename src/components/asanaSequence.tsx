@@ -20,7 +20,15 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
               to={asanaElement.routing ? asanaElement.routing : ''}
               xs={12}>
               <Box sx={{boxShadow: 2, borderRadius: 2, height: '100%', px: 1}}>
-                <Box sx={{textAlign: 'center', height: '150px', py: 2}}>
+                <Box
+                  sx={{
+                    textAlign: 'center',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    height: '150px',
+                    py: 2,
+                  }}>
                   <AsanaImage imgSrc={asanaElement.img}></AsanaImage>
                 </Box>
                 <Typography align='center' color='primary' component='p'>

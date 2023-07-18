@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Padachakrasana (Leg Rotation)",
+        "header": "Padachakrasana",
+        "header_en": "Leg Rotation",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padachakrasana.png",
                 "technique": [
                     {
                         "id": "1",
@@ -34,7 +35,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padachakrasana.png",
                 "technique": [
                     {
                         "id": "1",

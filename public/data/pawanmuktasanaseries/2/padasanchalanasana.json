@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Pada Sanchalanasana (Cycling)",
+        "header": "Pada Sanchalanasana",
+        "header_en": "Cycling",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padasanchalanasana.png",
                 "technique": [
                     {
                         "id": "1",
@@ -34,7 +35,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padasanchalanasana.png",
                 "technique": [
                     {
                         "id": "1",
@@ -59,7 +60,7 @@
             },
             {
                 "id": "3",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padasanchalanasana.png",
                 "technique": [
                     {
                         "id": "1",

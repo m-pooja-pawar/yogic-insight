@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Naukasana (Boat Pose)",
+        "header": "Naukasana",
+        "header_en": "Boat Pose",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/naukasana.png",
                 "technique": [
                     {
                         "id": "1",

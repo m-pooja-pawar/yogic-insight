@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Supta Udarakarshanasana (Sleeping Abdominal Stretch Pose)",
+        "header": "Supta Udarakarshanasana",
+        "header_en": "Sleeping Abdominal Stretch Pose",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/suptaudarakarshanasana.png",
                 "technique": [
                     {
                         "id": "1",

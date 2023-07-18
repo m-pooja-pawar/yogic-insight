@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Padotthanasana (Raised Legs Pose)",
+        "header": "Padotthanasana",
+        "header_en": "Raised Legs Pose",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padotthanasana1.png",
                 "technique": [
                     {
                         "id": "1",
@@ -28,7 +29,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padotthanasana1.png",
                 "technique": [
                     {
                         "id": "1",
@@ -47,7 +48,7 @@
             },
             {
                 "id": "3",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/padotthanasana2.png",
                 "technique": [
                     {
                         "id": "1",

@@ -1,15 +1,16 @@
 {
     "data": {
-        "header": "Skandha Chakra (Shoulder Socket Rotation)",
+        "header": "Skandha Chakra",
+        "header_en": "Shoulder Socket Rotation",
         "startingPosition": {
             "header": "Starting Position",
-            "img": "",
+            "img": "/images/pawanmuktasanaseries/1/dandasana.png",
             "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight."
         },
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/skandhachakra.png",
                 "technique": [
                     {
                         "id": "1",
@@ -30,7 +31,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/skandhachakra.png",
                 "technique": [
                     {
                         "id": "1",
@@ -51,7 +52,7 @@
             },
             {
                 "id": "3",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/skandhachakra.png",
                 "technique": [
                     {
                         "id": "1",

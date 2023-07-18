@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Jhulana Lurhakanasana (Rocking and Rolling)",
+        "header": "Jhulana Lurhakanasana",
+        "header_en": "Rocking and Rolling",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/jhulanasana.png",
                 "technique": [
                     {
                         "id": "1",
@@ -48,7 +49,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/2/lurhakanasana.png",
                 "technique": [
                     {
                         "id": "1",

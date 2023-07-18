@@ -1,15 +1,16 @@
 {
     "data": {
-        "header": "Shroni Chakra (Hip Rotation)",
+        "header": "Shroni Chakra",
+        "header_en": "Hip Rotation",
         "startingPosition": {
             "header": "Starting Position",
-            "img": "",
+            "img": "/images/pawanmuktasanaseries/1/dandasana.png",
             "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
         },
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/shronichakra.png",
                 "technique": [
                     {
                         "id": "1",
@@ -30,7 +31,7 @@
             },
             {
                 "id": "2",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/1/shronichakra.png",
                 "technique": [
                     {
                         "id": "1",
