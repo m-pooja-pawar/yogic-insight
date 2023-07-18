@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Chakki Chalanasana (Churning The Mill)",
+        "header": "Chakki Chalanasana",
+        "header_en": "Churning The Mill",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/3/chakkichalanasana.png",
                 "technique": [
                     {
                         "id": "1",

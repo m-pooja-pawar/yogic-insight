@@ -49,7 +49,7 @@ export function Asana(data: AsanaData): JSX.Element {
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'center',
-                        height: '100%',
+                        height: '290px',
                       }}>
                       <AsanaImage imgSrc={stageData.img}></AsanaImage>
                     </Box>

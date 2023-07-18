@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Gatyatmak Meru Vakrasana (Dynamic Spinal Twist)",
+        "header": "Gatyatmak Meru Vakrasana",
+        "header_en": "Dynamic Spinal Twist",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/3/gatyatmakmeruvakrasana.png",
                 "technique": [
                     {
                         "id": "1",

@@ -44,7 +44,9 @@ export function Carousel(props: {readonly carouselData: readonly AsanaList[]}): 
             height: 50,
             bgcolor: 'background.default',
           }}>
-          <Typography>{props.carouselData[activeStep].label}</Typography>
+          <Typography>
+            {props.carouselData[activeStep].label} ({props.carouselData[activeStep].label_en})
+          </Typography>
         </Paper>
         <AutoPlaySwipeableViews
           enableMouseEvents

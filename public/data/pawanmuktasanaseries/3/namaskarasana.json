@@ -1,6 +1,7 @@
 {
     "data": {
-        "header": "Namaskarasana (Salutation Pose)",
+        "header": "Namaskarasana",
+        "header_en": "Salutation Pose",
         "startingPosition": {
             "header": "Starting Position",
             "img": "",
@@ -9,7 +10,7 @@
         "stage": [
             {
                 "id": "1",
-                "img": "",
+                "img": "/images/pawanmuktasanaseries/3/namaskarasana.png",
                 "technique": [
                     {
                         "id": "1",
