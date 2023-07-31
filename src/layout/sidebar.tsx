@@ -13,8 +13,8 @@ import {
 import {ElementType, Fragment, RefObject, useCallback, useEffect, useState} from 'react';
 import {NavLink, NavLinkProps, useLocation} from 'react-router-dom';
 
-import ExpandLess from '@mui/icons-material/ExpandLess';
-import ExpandMore from '@mui/icons-material/ExpandMore';
+import {ExpandLess} from '@mui/icons-material';
+import {ExpandMore} from '@mui/icons-material';
 import {IndexItem} from './../interface/indexList';
 import React from 'react';
 import {getIndexList} from '../services/indexList';

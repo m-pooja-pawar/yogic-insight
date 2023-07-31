@@ -1,4 +1,4 @@
-import Box from '@mui/material/Box';
+import {Box} from '@mui/material';
 import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 
 // eslint-disable-next-line import/no-default-export

@@ -1,5 +1,5 @@
 import {Grid, Typography} from '@mui/material';
-import {Box} from '@mui/system';
+import {Box} from '@mui/material';
 import {AsanaData} from '../interface/asana';
 import {Fragment} from 'react';
 import {AsanaImage} from './asanaImage';

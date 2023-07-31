@@ -7,7 +7,7 @@ import {Logo} from '../components/logo';
 import {MainContent} from './mainContent';
 import {Sidebar} from './sidebar';
 import {useLocation} from 'react-router-dom';
-import useMediaQuery from '@mui/material/useMediaQuery';
+import {useMediaQuery} from '@mui/material';
 
 export function Layout(): JSX.Element {
   const drawerWidth = 240;

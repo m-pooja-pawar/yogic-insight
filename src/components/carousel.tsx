@@ -1,11 +1,11 @@
 import * as React from 'react';
 import {useTheme} from '@mui/material/styles';
-import Box from '@mui/material/Box';
-import MobileStepper from '@mui/material/MobileStepper';
-import Paper from '@mui/material/Paper';
-import Button from '@mui/material/Button';
-import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
-import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
+import {Box} from '@mui/material';
+import {MobileStepper} from '@mui/material';
+import {Paper} from '@mui/material';
+import {Button} from '@mui/material';
+import {KeyboardArrowLeft} from '@mui/icons-material';
+import {KeyboardArrowRight} from '@mui/icons-material';
 import SwipeableViews from 'react-swipeable-views';
 import {autoPlay} from 'react-swipeable-views-utils';
 import {AsanaList} from '../interface/asanaSequence';

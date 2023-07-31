@@ -1,4 +1,4 @@
-import Box from '@mui/material/Box';
+import {Box} from '@mui/material';
 import {NavLink} from 'react-router-dom';
 import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
 import {Typography} from '@mui/material';
