@@ -38,7 +38,7 @@
                 "label": "Dwi Pada Prasaranasana",
                 "label_en": "Two Foot Spread",
                 "routing": "/hathayogaasana/suryanamaskara/5dwipadaprasaranasana",
-                "img": "/images/suryanamaskara/5dwipadaprasaranasana.png"
+                "img": "/images/suryanamaskara/5dwipadaprasaranasana.jpg"
             },
             {
                 "id": "1.36",
@@ -101,61 +101,61 @@
                 "id": "2.",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
                 "id": "3.",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
                 "id": "4.",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
                 "id": "5.",
                 "label": "Dwi Pada Prasaranasana",
                 "label_en": "Two Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/5dwipadaprasaranasana.jpg"
             },
             {
                 "id": "6.",
                 "label": "Shashtang Namaskarasana",
                 "label_en": "Surrender Eight Salutation",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/6shashtangnamaskarasana.png"
             },
             {
                 "id": "7.",
                 "label": "Bhujangasana",
                 "label_en": "Cobra",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/7bhujangasana.png"
             },
             {
                 "id": "8.",
                 "label": "Budarasana",
                 "label_en": "Mountain Peak",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/8budarasana.png"
             },
             {
                 "id": "9.",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
                 "id": "10.",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
                 "id": "11.",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
                 "id": "12.",
@@ -173,61 +173,61 @@
                 "id": "2.",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
                 "id": "3.",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
                 "id": "4.",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
                 "id": "5.",
                 "label": "Dwi Pada Prasaranasana",
                 "label_en": "Two Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/5dwipadaprasaranasana.jpg"
             },
             {
                 "id": "6.",
                 "label": "Shashtang Namaskarasana",
                 "label_en": "Surrender Eight Salutation",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/6shashtangnamaskarasana.png"
             },
             {
                 "id": "7.",
                 "label": "Bhujangasana",
                 "label_en": "Cobra",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/7bhujangasana.png"
             },
             {
                 "id": "8.",
                 "label": "Budarasana",
                 "label_en": "Mountain Peak",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/8budarasana.png"
             },
             {
                 "id": "9.",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
                 "id": "10.",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
                 "id": "11.",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
-                "img": "/images/suryanamaskara/1namaskarasana.png"
+                "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
                 "id": "12.",
