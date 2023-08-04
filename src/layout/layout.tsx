@@ -10,7 +10,7 @@ import {useLocation} from 'react-router-dom';
 import {useMediaQuery} from '@mui/material';
 
 export function Layout(): JSX.Element {
-  const drawerWidth = 240;
+  const drawerWidth = 300;
   const location = useLocation();
   const theme = useTheme();
   const matches = useMediaQuery(theme.breakpoints.up('md'));

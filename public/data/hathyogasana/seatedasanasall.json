@@ -5,273 +5,273 @@
         "basicInfo": "",
         "asanas": [
             {
-                "id": "1.74",
+                "id": "3.34",
                 "label": "Vajrasana",
                 "label_en": "Thunderbolt Pose",
                 "routing": "/hathayogaasana/vajrasana",
                 "img": "/images/seatedasana/vajrasana.png"
             },
             {
-                "id": "1.75",
+                "id": "3.35",
                 "label": "Virasana",
                 "label_en": "Hero Pose",
                 "routing": "/hathayogaasana/virasana",
                 "img": "/images/seatedasana/virasana.jpg"
             },
             {
-                "id": "1.76",
+                "id": "3.36",
                 "label": "Simhasana",
                 "label_en": "Lion Pose",
                 "routing": "/hathayogaasana/simhasana",
                 "img": "/images/seatedasana/simhasana.png"
             },
             {
-                "id": "1.77",
+                "id": "3.37",
                 "label": "Sashankasana",
                 "label_en": "Child Pose",
                 "routing": "/hathayogaasana/sashankasana",
                 "img": "/images/seatedasana/sashankasana.jpg"
             },
             {
-                "id": "1.78",
+                "id": "3.38",
                 "label": "Marjariasana",
                 "label_en": "Cat Pose",
                 "routing": "/hathayogaasana/marjariasana",
                 "img": "/images/seatedasana/marjariasana.png"
             },
             {
-                "id": "1.79",
+                "id": "3.39",
                 "label": "Bitilasana",
                 "label_en": "Cow Pose",
                 "routing": "/hathayogaasana/bitilasana",
                 "img": "/images/seatedasana/bitilasana.png"
             },
             {
-                "id": "1.80",
+                "id": "3.40",
+                "label": "Hindolasasna",
+                "label_en": "Baby Cradle Pose",
+                "routing": "/hathayogaasana/hindolasasna",
+                "img": "/images/seatedasana/hindolasasna.jpg"
+            },
+            {
+                "id": "3.41",
                 "label": "Dandasana",
                 "label_en": "Staff Pose",
                 "routing": "/hathayogaasana/dandasana",
                 "img": "/images/seatedasana/dandasana.jpg"
             },
             {
-                "id": "1.81",
-                "label": "Paschimottanasana",
-                "label_en": "Seated Forward Bend Pose",
-                "routing": "/hathayogaasana/paschimottanasana",
-                "img": "/images/seatedasana/paschimottanasana.jpg"
+                "id": "3.42",
+                "label": "Paschimottanasana A",
+                "label_en": "Seated Forward Bend Pose A",
+                "routing": "/hathayogaasana/paschimottanasana_a",
+                "img": "/images/seatedasana/paschimottanasana_a.jpg"
             },
             {
-                "id": "1.82",
+                "id": "3.43",
+                "label": "Paschimottanasana B",
+                "label_en": "Seated Forward Bend Pose B",
+                "routing": "/hathayogaasana/paschimottanasana_b",
+                "img": "/images/seatedasana/paschimottanasana_b.jpg"
+            },
+            {
+                "id": "3.44",
+                "label": "Paschimottanasana C",
+                "label_en": "Seated Forward Bend Pose C",
+                "routing": "/hathayogaasana/paschimottanasana_c",
+                "img": "/images/seatedasana/paschimottanasana_c.webp"
+            },
+            {
+                "id": "3.45",
                 "label": "Purvottanasana",
                 "label_en": "Upward Plank Pose",
                 "routing": "/hathayogaasana/purvottanasana",
                 "img": "/images/seatedasana/purvottanasana.jpg"
             },
             {
-                "id": "1.83",
+                "id": "3.46",
                 "label": "Ardha Baddha Padma Paschimottanasana",
                 "label_en": "Half Bound Lotus Forward Bend Pose",
                 "routing": "/hathayogaasana/ardhabaddhapadmapaschimottanasana",
                 "img": "/images/seatedasana/ardhabaddhapadmapaschimottanasana.jpg"
             },
             {
-                "id": "1.84",
+                "id": "3.47",
                 "label": "Trianga Mukha Eka Pada Paschimottanasana",
                 "label_en": "Three Limbs Face to One Leg Forward Bend Pose",
                 "routing": "/hathayogaasana/triangamukaekapadapaschimottanasana",
                 "img": "/images/seatedasana/triangamukaekapadapaschimottanasana.jpg"
             },
             {
-                "id": "1.85",
+                "id": "3.48",
                 "label": "Janu Sirsasana",
                 "label_en": "Head to Knee Pose",
                 "routing": "/hathayogaasana/janusirsasana",
                 "img": "/images/seatedasana/janusirsasana.jpg"
             },
             {
-                "id": "1.86",
+                "id": "3.49",
                 "label": "Parivrtta Janusirsasana",
                 "label_en": "Revolved Head to Knee Pose",
                 "routing": "/hathayogaasana/parivrttajanusirsasana",
                 "img": "/images/seatedasana/parivrttajanusirsasana.jpg"
             },
             {
-                "id": "1.87",
+                "id": "3.50",
                 "label": "Marichyasana A",
                 "label_en": "Sage Marichi Pose A",
                 "routing": "/hathayogaasana/marichyaasana-a",
                 "img": "/images/seatedasana/marichyaasana-a.jpg"
             },
             {
-                "id": "1.88",
+                "id": "3.51",
                 "label": "Marichyasana B",
                 "label_en": "Sage Marichi Pose B",
                 "routing": "/hathayogaasana/marichyaasana-b",
                 "img": "/images/seatedasana/marichyaasana-b.jpg"
             },
             {
-                "id": "1.89",
+                "id": "3.52",
                 "label": "Marichyasana C",
                 "label_en": "Sage Marichi Pose C",
                 "routing": "/hathayogaasana/marichyaasana-c",
                 "img": "/images/seatedasana/marichyaasana-c.jpg"
             },
             {
-                "id": "1.90",
+                "id": "3.53",
                 "label": "Ardha Matsyendrasana",
                 "label_en": "Half Spinal Twist",
                 "routing": "/hathayogaasana/ardhamatsyendraasana",
                 "img": "/images/seatedasana/ardhamatsyendraasana.png"
             },
             {
-                "id": "1.91",
+                "id": "3.54",
                 "label": "Navasana",
                 "label_en": "Boat Pose",
                 "routing": "/hathayogaasana/navasana",
                 "img": "/images/seatedasana/navasana.jpg"
             },
             {
-                "id": "1.92",
+                "id": "3.55",
                 "label": "Tolasana",
                 "label_en": "Scale Pose",
                 "routing": "/hathayogaasana/tolasana",
                 "img": "/images/seatedasana/tolasana.png"
             },
             {
-                "id": "1.93",
+                "id": "3.56",
                 "label": "Malasana",
                 "label_en": "Garland Pose",
                 "routing": "/hathayogaasana/malasana",
                 "img": "/images/seatedasana/malasana.png"
             },
             {
-                "id": "1.94",
+                "id": "3.57",
                 "label": "Druta Utkatasana",
                 "label_en": "Grounded Chair Pose",
                 "routing": "/hathayogaasana/drutautkatasana",
                 "img": "/images/seatedasana/drutautkatasana.jpg"
             },
             {
-                "id": "1.95",
+                "id": "3.58",
                 "label": "Bhujpidasana",
                 "label_en": "Shoulder Pressing Pose",
                 "routing": "/hathayogaasana/bhujpidasana",
                 "img": "/images/seatedasana/bhujpidasana.jpg"
             },
             {
-                "id": "1.96",
+                "id": "3.59",
                 "label": "Tittibhasana",
                 "label_en": "Firefly Pose",
                 "routing": "/hathayogaasana/tittibhasana",
                 "img": "/images/seatedasana/tittibhasana.jpg"
             },
             {
-                "id": "1.97",
+                "id": "3.60",
                 "label": "Kurmasana",
                 "label_en": "Tortise Pose",
                 "routing": "/hathayogaasana/kurmasana",
                 "img": "/images/seatedasana/kurmasana.png"
             },
             {
-                "id": "1.98",
+                "id": "3.61",
                 "label": "Supta Kurmasana",
                 "label_en": "Reclining Tortoise Pose",
                 "routing": "/hathayogaasana/suptakurmasana",
                 "img": "/images/seatedasana/suptakurmasana.png"
             },
             {
-                "id": "1.99",
+                "id": "3.62",
                 "label": "Garbha Pindasana",
                 "label_en": "Womb Embryo Pose",
                 "routing": "/hathayogaasana/garbhapindasana",
                 "img": "/images/seatedasana/garbhapindasana.png"
             },
             {
-                "id": "1.100",
+                "id": "3.63",
                 "label": "Kukkutasana",
                 "label_en": "Rooster Pose",
                 "routing": "/hathayogaasana/kukkutasana",
                 "img": "/images/seatedasana/kukkutasana.png"
             },
             {
-                "id": "1.101",
+                "id": "3.64",
                 "label": "Baddha Konasana",
                 "label_en": "Bound Angle Pose",
                 "routing": "/hathayogaasana/baddhakonasana",
                 "img": "/images/seatedasana/baddhakonasana.jpg"
             },
             {
-                "id": "1.102",
+                "id": "3.65",
                 "label": "Upavistha Konasana",
                 "label_en": "Seated Angle Pose",
                 "routing": "/hathayogaasana/upavisthakonasana",
                 "img": "/images/seatedasana/upavisthakonasana.png"
             },
             {
-                "id": "1.103",
+                "id": "3.66",
                 "label": "Urdhva Upavistha Konasana",
                 "label_en": "Upward Seated Angle Pose",
                 "routing": "/hathayogaasana/urdhvaupavisthakonasana",
                 "img": "/images/seatedasana/urdhvaupavisthakonasana.jpg"
             },
             {
-                "id": "1.104",
+                "id": "3.67",
                 "label": "Supta Konasana",
                 "label_en": "Reclining Angle Pose",
                 "routing": "/hathayogaasana/suptakonasana",
                 "img": "/images/seatedasana/suptakonasana.jpg"
             },
             {
-                "id": "1.105",
+                "id": "3.68",
                 "label": "Gomukhasana",
                 "label_en": "Cow's Face Pose",
                 "routing": "/hathayogaasana/gomukhasana",
                 "img": "/images/seatedasana/gomukhasana.jpg"
             },
             {
-                "id": "1.106",
+                "id": "3.69",
                 "label": "Ubhaya Padangusthasana",
                 "label_en": "Boot Big Toe Pose",
                 "routing": "/hathayogaasana/ubhayapadangusthasana",
                 "img": "/images/seatedasana/ubhayapadangusthasana.png"
             },
             {
-                "id": "1.107",
+                "id": "3.70",
                 "label": "Urdhva Mukha Paschimottanasana",
                 "label_en": "Upward Facing Intense West Stretch",
                 "routing": "/hathayogaasana/urdhvamukhapaschimottansana",
                 "img": "/images/seatedasana/urdhvamukhapaschimottansana.png"
             },
             {
-                "id": "1.109",
+                "id": "3.71",
                 "label": "Ustrasana",
                 "label_en": "Camel Pose",
                 "routing": "/hathayogaasana/ustrasana",
                 "img": "/images/seatedasana/ustrasana.png"
             },
             {
-                "id": "1.110",
-                "label": "Ardha Pincha Mayurasana",
-                "label_en": "Dolphin Pose",
-                "routing": "/hathayogaasana/ardhapinchamayurasana",
-                "img": "/images/seatedasana/ardhapinchamayurasana.png"
-            },
-            {
-                "id": "1.111",
-                "label": "Adho Mukha Svanasana",
-                "label_en": "Downward Facing Dog Pose",
-                "routing": "/hathayogaasana/adhomukhasvanasana",
-                "img": "/images/seatedasana/adhomukhasvanasana.jpg"
-            },
-            {
-                "id": "1.112",
-                "label": "Uttana Shishoasana",
-                "label_en": "Exyended Puppy Pose",
-                "routing": "/hathayogaasana/uttanashishoasana",
-                "img": "/images/seatedasana/uttanashishoasana.jpg"
-            },
-            {
-                "id": "1.113",
+                "id": "3.72",
                 "label": "Bakasana",
                 "label_en": "Crane Pose",
                 "routing": "/hathayogaasana/bakasana",

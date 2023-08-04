@@ -147,7 +147,7 @@ export function Sidebar(): JSX.Element {
           ref={htmlRef[element.id]}
           sx={{pl}}>
           <StyledListItemButton component={NavLink} to={element.routing}>
-            <ListItemText primary={element.label} />
+            <ListItemText primary={element.label} secondary={element.label_en ? '(' + element.label_en + ')' : ''} />
           </StyledListItemButton>
         </ListItem>
       );

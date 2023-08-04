@@ -5,98 +5,105 @@
         "basicInfo": "",
         "asanas": [
             {
-                "id": "1.116",
+                "id": "3.73",
                 "label": "Ananda Balasana",
                 "label_en": "Happy Baby Pose",
                 "routing": "/hathayogaasana/anandabalasana",
                 "img": "/images/supineasana/anandabalasana.jpg"
             },
             {
-                "id": "1.117",
+                "id": "3.74",
                 "label": "Supta Veerasana",
                 "label_en": "Reclining Hero Pose",
                 "routing": "/hathayogaasana/suptaveerasana",
                 "img": "/images/supineasana/suptaveerasana.jpg"
             },
             {
-                "id": "1.118",
-                "label": "Supta Padangusthasana",
-                "label_en": "Reclining Hand To Big Toe Pose",
-                "routing": "/hathayogaasana/suptapadaangusthasana",
-                "img": "/images/supineasana/suptapadaangusthasana.jpg"
+                "id": "3.75",
+                "label": "Supta Padangusthasana A",
+                "label_en": "Reclining Hand To Big Toe Pose A",
+                "routing": "/hathayogaasana/suptapadaangusthasana_a",
+                "img": "/images/supineasana/suptapadaangusthasana_a.jpg"
             },
             {
-                "id": "1.119",
+                "id": "3.76",
+                "label": "Supta Padangusthasana B",
+                "label_en": "Reclining Hand To Big Toe Pose B",
+                "routing": "/hathayogaasana/suptapadaangusthasana_b",
+                "img": "/images/supineasana/suptapadaangusthasana_b.png"
+            },
+            {
+                "id": "3.77",
                 "label": "Setubandasana",
                 "label_en": "Bridge Pose",
                 "routing": "/hathayogaasana/setubandasana",
                 "img": "/images/supineasana/setubandasana.jpg"
             },
             {
-                "id": "1.120",
+                "id": "3.78",
                 "label": "Chakrasana",
                 "label_en": "Wheel Pose",
                 "routing": "/hathayogaasana/chakrasana",
                 "img": "/images/supineasana/chakrasana.png"
             },
             {
-                "id": "1.121",
+                "id": "3.79",
                 "label": "Sirsasana",
                 "label_en": "Head Stand Pose",
                 "routing": "/hathayogaasana/sirsasana",
                 "img": "/images/supineasana/sirsasana.png"
             },
             {
-                "id": "1.122",
+                "id": "3.80",
                 "label": "Sarvangasana",
                 "label_en": "Shoulder Stand Pose",
                 "routing": "/hathayogaasana/sarvangasana",
                 "img": "/images/supineasana/sarvangasana.png"
             },
             {
-                "id": "1.123",
+                "id": "3.81",
                 "label": "Halasana",
                 "label_en": "Plough Pose",
                 "routing": "/hathayogaasana/halasana",
                 "img": "/images/supineasana/halasana.png"
             },
             {
-                "id": "1.124",
+                "id": "3.82",
                 "label": "Karnapidasana",
                 "label_en": "Ear Pressure Pose",
                 "routing": "/hathayogaasana/karnapidasana",
                 "img": "/images/supineasana/karnapidasana.jpg"
             },
             {
-                "id": "1.125",
+                "id": "3.83",
                 "label": "Urdhva Padmasana",
                 "label_en": "Upward Lotus Pose",
                 "routing": "/hathayogaasana/urdhvapadmasana",
                 "img": "/images/supineasana/urdhvapadmasana.jpg"
             },
             {
-                "id": "1.126",
+                "id": "3.84",
                 "label": "Pindasana",
                 "label_en": "Embryo Pose in Shoulder Stand",
                 "routing": "/hathayogaasana/pindasana",
                 "img": "/images/supineasana/pindasana.png"
             },
             {
-                "id": "1.127",
+                "id": "3.85",
                 "label": "Matsyasana",
                 "label_en": "Fish Pose",
                 "routing": "/hathayogaasana/matsyasana",
                 "img": "/images/supineasana/matsyasana.png"
             },
             {
-                "id": "1.128",
+                "id": "3.86",
                 "label": "Uttanpadasana",
                 "label_en": "Raised Leg Pose",
                 "routing": "/hathayogaasana/uttanpadasana",
                 "img": "/images/supineasana/uttanpadasana.jpg"
             },
             {
-                "id": "1.129",
+                "id": "3.87",
                 "label": "Savasana",
                 "label_en": "Corpse Pose",
                 "routing": "/hathayogaasana/savasana",

@@ -5,68 +5,54 @@
         "basicInfo": "",
         "asanas": [
             {
-                "id": "1.65",
+                "id": "3.27",
                 "label": "Makarasana",
                 "label_en": "Crocodile Pose",
                 "routing": "/hathayogaasana/makarasana",
                 "img": "/images/proneasana/makarasana.png"
             },
             {
-                "id": "1.66",
+                "id": "3.28",
                 "label": "Bhujangasna",
                 "label_en": "Cobra Pose",
                 "routing": "/hathayogaasana/bhujangasana",
                 "img": "/images/proneasana/bhujangasana.png"
             },
             {
-                "id": "1.67",
+                "id": "3.29",
                 "label": "Salabhasana",
                 "label_en": "Locust Pose",
                 "routing": "/hathayogaasana/salabhasana",
                 "img": "/images/proneasana/salabhasana.png"
             },
             {
-                "id": "1.68",
+                "id": "3.30",
                 "label": "Bhekasana",
                 "label_en": "Frog Pose",
                 "routing": "/hathayogaasana/bhekasana",
                 "img": "/images/proneasana/bhekasana.png"
             },
             {
-                "id": "1.69",
+                "id": "3.31",
                 "label": "Dhanurasana",
                 "label_en": "Bow Pose",
                 "routing": "/hathayogaasana/dhanurasana",
                 "img": "/images/proneasana/dhanurasana.png"
             },
             {
-                "id": "1.70",
+                "id": "3.32",
                 "label": "Adho Mukha Mandukasana",
-                "label_en": "Down Facing Frog Pose",
+                "label_en": "Downward Facing Frog Pose",
                 "routing": "/hathayogaasana/adhomukhamandukasana",
                 "img": "/images/proneasana/adhomukhamandukasana.jpg"
             },
             {
-                "id": "1.71",
-                "label": "Chaturanga Dandasana",
-                "label_en": "Four Limbed Staff Pose",
-                "routing": "/hathayogaasana/chaturangadandasana",
-                "img": "/images/proneasana/chaturangadandasana.jpg"
-            },
-            {
-                "id": "1.72",
-                "label": "Urdhva Mukha Svanasana",
-                "label_en": "Upward Facing Dog Pose",
-                "routing": "/hathayogaasana/urdhvamukhasvanasana",
-                "img": "/images/proneasana/urdhvamukhasvanasana.jpg"
-            },
-            {
-                "id": "1.73",
-                "label": "Mayurasana",
-                "label_en": "Peacock Pose",
-                "routing": "/hathayogaasana/mayurasana",
-                "img": "/images/proneasana/mayurasana.png"
-            }
+                "id": "3.33",
+                "label": "Uttana Shishoasana",
+                "label_en": "Extended Puppy Pose",
+                "routing": "/hathayogaasana/uttanashishoasana",
+                "img": "/images/proneasana/uttanashishoasana.jpg"
+            }            
         ]
     }
 }

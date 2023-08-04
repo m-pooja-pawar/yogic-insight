@@ -6,84 +6,84 @@
         "basicInfo": "Surya Namaskara, also known as Sun Salutation, is a fundamental sequence of yoga postures. It is a dynamic sequence that combines asanas (physical postures), pranayama (breathing exercises), and mindfulness. The sequence consists of a series of 12 coordinated yoga poses, each synchronized with specific breath patterns. The postures flow smoothly from one to another, creating a rhythmic and meditative practice. Surya Namaskara offers numerous benefits, including physical fitness, increased flexibility, improved strength, enhanced energy and vitality, stress reduction and relaxation, improved digestion, mental focus and concentration, weight management, balance and coordination, and spiritual connection. The sequence of 12 yoga poses are practiced twice to complete one round. Sequence 1 to 12 constitute half a round, in the second half, in sequence 16, stretch the left foot back and in sequence 21, bend the right leg and bring the right foot between the hands.",
         "asanas": [
             {
-                "id": "1.31",
+                "id": "2.1",
                 "label": "Namaskarasana",
                 "label_en": "Salutation",
                 "routing": "/hathayogaasana/suryanamaskara/1namaskarasana",
                 "img": "/images/suryanamaskara/1namaskarasana.png"
             },
             {
-                "id": "1.32",
+                "id": "2.2",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
                 "routing": "/hathayogaasana/suryanamaskara/2urdhvahastaasana",
                 "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
-                "id": "1.33",
+                "id": "2.3",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
                 "routing": "/hathayogaasana/suryanamaskara/3padahastasana",
                 "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
-                "id": "1.34",
+                "id": "2.4",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
                 "routing": "/hathayogaasana/suryanamaskara/4ekapadaprasaranasana",
                 "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
-                "id": "1.35",
+                "id": "2.5",
                 "label": "Dwi Pada Prasaranasana",
                 "label_en": "Two Foot Spread",
                 "routing": "/hathayogaasana/suryanamaskara/5dwipadaprasaranasana",
                 "img": "/images/suryanamaskara/5dwipadaprasaranasana.jpg"
             },
             {
-                "id": "1.36",
+                "id": "2.6",
                 "label": "Shashtang Namaskarasana",
                 "label_en": "Surrender Eight Salutation",
                 "routing": "/hathayogaasana/suryanamaskara/6shashtangnamaskarasana",
                 "img": "/images/suryanamaskara/6shashtangnamaskarasana.png"
             },
             {
-                "id": "1.37",
+                "id": "2.7",
                 "label": "Bhujangasana",
                 "label_en": "Cobra",
                 "routing": "/hathayogaasana/suryanamaskara/7bhujangasana",
                 "img": "/images/suryanamaskara/7bhujangasana.png"
             },
             {
-                "id": "1.38",
+                "id": "2.8",
                 "label": "Budarasana",
                 "label_en": "Mountain Peak",
                 "routing": "/hathayogaasana/suryanamaskara/8budarasana",
                 "img": "/images/suryanamaskara/8budarasana.png"
             },
             {
-                "id": "1.39",
+                "id": "2.9",
                 "label": "Eka Pada Prasaranasana",
                 "label_en": "One Foot Spread",
                 "routing": "/hathayogaasana/suryanamaskara/9ekapadaprasaranasana",
                 "img": "/images/suryanamaskara/4ekapadaprasaranasana.png"
             },
             {
-                "id": "1.40",
+                "id": "2.10",
                 "label": "Pada Hastasana",
                 "label_en": "Foot Hand",
                 "routing": "/hathayogaasana/suryanamaskara/10padahastasana",
                 "img": "/images/suryanamaskara/3padahastasana.png"
             },
             {
-                "id": "1.41",
+                "id": "2.11",
                 "label": "Urdhva Hastasana",
                 "label_en": "Raised Hand",
                 "routing": "/hathayogaasana/suryanamaskara/11urdhvahastasana",
                 "img": "/images/suryanamaskara/2urdhvahastaasana.png"
             },
             {
-                "id": "1.42",
+                "id": "2.12",
                 "label": "Namaskarasana",
                 "label_en": "Salutation",
                 "routing": "/hathayogaasana/suryanamaskara/12namaskarasana",

@@ -29,6 +29,9 @@ export function Search(): JSX.Element {
     <Autocomplete
       disableClearable
       disablePortal
+      getOptionLabel={(option: SearchResultItem) =>
+        `${option.label} ${option.label_en ? '(' + option.label_en + ')' : ''}`
+      }
       onChange={(_, value: SearchResultItem) => handleOnChange(value)}
       options={searchResult}
       renderInput={(params) => <TextField {...params} label='Search' />}
