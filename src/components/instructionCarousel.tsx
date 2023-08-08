@@ -1,13 +1,15 @@
-import * as React from 'react';
-import {useTheme} from '@mui/material/styles';
-import {Box} from '@mui/material';
-import MobileStepper from '@mui/material/MobileStepper';
-import Button from '@mui/material/Button';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
+import {Box} from '@mui/material';
+import Button from '@mui/material/Button';
+import MobileStepper from '@mui/material/MobileStepper';
+import {useTheme} from '@mui/material/styles';
+import * as React from 'react';
 import SwipeableViews from 'react-swipeable-views';
 import {autoPlay} from 'react-swipeable-views-utils';
+
 import {AsanaTechnique} from '../interface/asana';
+
 import {AsanaImage} from './asanaImage';
 
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);

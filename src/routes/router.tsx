@@ -1,5 +1,5 @@
-import {Route, Routes} from 'react-router-dom';
 import {Suspense, lazy} from 'react';
+import {Route, Routes} from 'react-router-dom';
 
 const Home = lazy(() => import('../pages/home'));
 const Definition = lazy(() => import('../pages/definition'));

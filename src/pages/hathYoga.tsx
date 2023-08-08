@@ -1,4 +1,5 @@
 import {useState, useCallback, useEffect} from 'react';
+
 import {SectionWithHeader} from '../components/sectionWithHeader';
 import {SectionWithHeaderProp} from '../interface/sectionWithHeaderProp';
 import {getHathaYogaData} from '../services/hathaYoga';

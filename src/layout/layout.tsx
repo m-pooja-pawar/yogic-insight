@@ -1,13 +1,14 @@
 import {Box, Drawer, Grid, useTheme} from '@mui/material';
-import {useEffect, useState} from 'react';
-
+import {useMediaQuery} from '@mui/material';
 import {Container} from '@mui/system';
-import {Header} from './header';
+import {useEffect, useState} from 'react';
+import {useLocation} from 'react-router-dom';
+
 import {Logo} from '../components/logo';
+
+import {Header} from './header';
 import {MainContent} from './mainContent';
 import {Sidebar} from './sidebar';
-import {useLocation} from 'react-router-dom';
-import {useMediaQuery} from '@mui/material';
 
 export function Layout(): JSX.Element {
   const drawerWidth = 300;

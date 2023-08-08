@@ -1,8 +1,10 @@
 import {Box, Grid, Typography} from '@mui/material';
-import {AsanaList, AsanaSequenceList} from '../interface/asanaSequence';
 import {NavLink} from 'react-router-dom';
-import {Carousel} from './carousel';
+
+import {AsanaList, AsanaSequenceList} from '../interface/asanaSequence';
+
 import {AsanaImage} from './asanaImage';
+import {Carousel} from './carousel';
 
 export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
   const getAsanaList = (): JSX.Element => {

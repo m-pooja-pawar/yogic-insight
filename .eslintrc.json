@@ -4,13 +4,6 @@
         "prettier",
         "eslint-plugin-react"
     ],
-    "parser": "@babel/eslint-parser",
-    "parserOptions": {
-        "requireConfigFile": false,
-        "bableOptions": {
-            "presets": ["@babel/preset-react"]
-        }
-    },
     "rules": {
         "react/jsx-key": [
             "error",
@@ -53,6 +46,13 @@
                 ]
             }
         ],
+        "import/order": ["error", {
+            "newlines-between": "always",
+            "alphabetize": {
+                "order": "asc", 
+                "caseInsensitive": true
+            }
+        }],
         "react/no-unused-prop-types": "warn",
         "no-else-return": [
             "error",

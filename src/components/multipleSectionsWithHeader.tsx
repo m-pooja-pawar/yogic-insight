@@ -1,6 +1,6 @@
 import {Box, Divider, Typography} from '@mui/material';
-
 import {ElementType} from 'react';
+
 import {MultipleSectionsWithHeaderProp} from '../interface/multipleSectionsWithHeaderProp';
 import {SectionWithHeaderProp} from '../interface/sectionWithHeaderProp';
 

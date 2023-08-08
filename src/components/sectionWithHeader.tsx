@@ -1,7 +1,7 @@
 import {Box, Divider, Typography} from '@mui/material';
+import {Fragment} from 'react';
 
 import {SectionWithHeaderProp} from '../interface/sectionWithHeaderProp';
-import {Fragment} from 'react';
 
 export function SectionWithHeader({header, data, sub_data}: SectionWithHeaderProp): JSX.Element {
   const getSectionData = (sectionData: SectionWithHeaderProp, subHeaderVariant?: boolean): JSX.Element => {

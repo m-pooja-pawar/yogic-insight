@@ -1,7 +1,7 @@
-import {Box} from '@mui/material';
-import {NavLink} from 'react-router-dom';
 import SelfImprovementIcon from '@mui/icons-material/SelfImprovement';
+import {Box} from '@mui/material';
 import {Typography} from '@mui/material';
+import {NavLink} from 'react-router-dom';
 
 export function Logo(): JSX.Element {
   return (

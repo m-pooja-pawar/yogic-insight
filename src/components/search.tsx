@@ -1,9 +1,9 @@
 import {Autocomplete, TextField} from '@mui/material';
 import {useCallback, useEffect, useState} from 'react';
+import {useNavigate} from 'react-router-dom';
 
 import {SearchResultItem} from '../interface/searchList';
 import {getSearchList} from '../services/searchList';
-import {useNavigate} from 'react-router-dom';
 
 export function Search(): JSX.Element {
   const navigate = useNavigate();

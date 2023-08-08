@@ -1,7 +1,7 @@
+import MenuIcon from '@mui/icons-material/Menu';
 import {AppBar, Box, IconButton, Toolbar, styled, useTheme} from '@mui/material';
 
 import {Logo} from '../components/logo';
-import MenuIcon from '@mui/icons-material/Menu';
 import {Search} from '../components/search';
 
 const Offset = styled('div')(({theme}) => theme.mixins.toolbar);

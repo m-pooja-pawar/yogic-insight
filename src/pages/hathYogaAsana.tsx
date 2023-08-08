@@ -1,8 +1,9 @@
 import {useCallback, useEffect, useState} from 'react';
 import {useParams} from 'react-router-dom';
-import {getAsanaDetail} from '../services/asana';
-import {AsanaSequence} from '../components/asanaSequence';
+
 import {Asana} from '../components/asana';
+import {AsanaSequence} from '../components/asanaSequence';
+import {getAsanaDetail} from '../services/asana';
 
 // eslint-disable-next-line import/no-default-export
 export default function HathYogaAsana(): JSX.Element {

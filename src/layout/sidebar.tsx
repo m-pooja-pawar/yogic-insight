@@ -1,3 +1,5 @@
+import {ExpandLess} from '@mui/icons-material';
+import {ExpandMore} from '@mui/icons-material';
 import {
   Box,
   Collapse,
@@ -11,13 +13,12 @@ import {
   Typography,
 } from '@mui/material';
 import {ElementType, Fragment, RefObject, useCallback, useEffect, useState} from 'react';
+import React from 'react';
 import {NavLink, NavLinkProps, useLocation} from 'react-router-dom';
 
-import {ExpandLess} from '@mui/icons-material';
-import {ExpandMore} from '@mui/icons-material';
-import {IndexItem} from './../interface/indexList';
-import React from 'react';
 import {getIndexList} from '../services/indexList';
+
+import {IndexItem} from './../interface/indexList';
 
 const StyledListItemButton = styled(ListItemButton)<
   ListItemButtonProps | (NavLinkProps & {readonly component: ElementType})

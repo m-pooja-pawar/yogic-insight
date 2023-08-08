@@ -1,4 +1,5 @@
 import axios, {AxiosResponse} from 'axios';
+
 import {AsanaSequenceList} from '../interface/asanaSequence';
 
 export function getAsanaDetail(asanaDetailToGet: string): Promise<AxiosResponse> {
