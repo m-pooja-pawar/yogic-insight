@@ -1,7 +1,7 @@
 {
     "data": {
         "header": "Eight Limbs of Raja (Royal) Yoga",
-        "short_description": "The Eight Limbs of Yoga, also known as Ashtanga Yoga, is a system developed by the ancient sage Patanjali to guide practitioners towards spiritual growth and liberation. These eight limbs form a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the eight limbs of yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is the brief description of each of the eight limbs of yoga:",
+        "short_description": "The Eight Limbs of Yoga, also called Ashtanga Yoga, is a structured approach found in the book 'Patanjali Yoga Sutras,' written by Sage Patanjali, who is known as the 'father of yoga'. This book is a compilation of 196 sutras (formulas) that explores into the nature of the mind, the path to self-realization, and the art of living ethically and purposefully. The Eight Limbs of Yoga is a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the Eight Limbs of Yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is the brief description of each of the Eight Limbs of Yoga:",
         "data": [
             {
                 "id": "1",
@@ -29,7 +29,7 @@
                 "id": "3",
                 "header": "Asana (Physical Postures)",
                 "data": [
-                    "'Sthiram Sukham Asanam' which means Asana (Physical Posture) is that which is steady and pleasant",
+                    "'Sthiram Sukham Asanam' which means Asana (Physical Posture) is that which is steady and pleasant.",
                     "Physical postures designed to promote strength, flexibility, and balance in the body."
                 ]
             },

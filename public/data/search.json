@@ -16,24 +16,29 @@
             "routing": "/limbs"
         },
         {
-            "id": "5",
+            "id": "4",
             "label": "Prana (Ida, Pingla, Sushumna)",
             "routing": "/prana"
         },
         {
-            "id": "6",
+            "id": "5",
             "label": "Chakras",
             "routing": "/chakras"
         },
         {
-            "id": "7",
+            "id": "6",
             "label": "What is Hatha Yoga?",
             "routing": "/hathayoga"
         },
         {
-            "id": "8",
-            "label": "Sequence of Hatha Yoga",
-            "routing": "/hathayogasequence"
+            "id": "7",
+            "label": "Seven Limbs of Hatha Yoga",
+            "routing": "/limbsofhathayoga"
+        },
+        {
+            "id": "8.1",
+            "label": "General Notes for Yoga Asanas",
+            "routing": "/generalnotesforyogaasanas"
         },
         {
             "id": "10",
@@ -883,6 +888,11 @@
             "id": "29",
             "label": "Mudras",
             "routing": "/mudras"
+        },
+        {
+            "id": "8.2",
+            "label": "General Notes for Pranayama",
+            "routing": "/generalnotesforpranayama"
         },
         {
             "id": "31",
