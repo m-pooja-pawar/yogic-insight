@@ -1,4 +1,4 @@
-import {Box, Grid, Typography} from '@mui/material';
+import {Box, Grid, Typography, useTheme} from '@mui/material';
 import {NavLink} from 'react-router-dom';
 
 import {AsanaList, AsanaSequenceList} from '../interface/asanaSequence';
@@ -7,6 +7,7 @@ import {AsanaImage} from './asanaImage';
 import {Carousel} from './carousel';
 
 export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
+  const theme = useTheme();
   const getAsanaList = (): JSX.Element => {
     return (
       <Grid container py={2} spacing={3}>
@@ -21,7 +22,14 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
               sx={{textDecoration: 'none'}}
               to={asanaElement.routing ? asanaElement.routing : ''}
               xs={12}>
-              <Box sx={{boxShadow: 2, borderRadius: 2, height: '100%', px: 1}}>
+              <Box
+                sx={{
+                  boxShadow: 2,
+                  borderRadius: 2,
+                  height: '100%',
+                  px: 1,
+                  backgroundColor: theme.palette.common.white,
+                }}>
                 <Box
                   sx={{
                     textAlign: 'center',

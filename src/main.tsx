@@ -1,5 +1,6 @@
 import {ThemeProvider} from '@emotion/react';
-import React from 'react';
+import {CssBaseline} from '@mui/material';
+import React, {Suspense} from 'react';
 import ReactDOM from 'react-dom';
 import {BrowserRouter} from 'react-router-dom';
 
@@ -11,8 +12,11 @@ const rootElement = window.document.getElementById('root') as HTMLElement;
 ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
+      <CssBaseline />
       <BrowserRouter>
-        <App />
+        <Suspense fallback={<></>}>
+          <App />
+        </Suspense>
       </BrowserRouter>
     </ThemeProvider>
   </React.StrictMode>,
