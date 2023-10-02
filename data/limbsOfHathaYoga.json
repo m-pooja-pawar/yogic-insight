@@ -1,0 +1,64 @@
+{
+    "data": {
+        "header": "Seven Limbs of Hatha Yoga",
+        "short_description": "The 'Gheranda Samhita' is an ancient text that outlines a system of yoga practice, including a set of 'Seven Limbs of Yoga'. These limbs serve as a comprehensive guide for achieving physical, mental, and spiritual well-being. By practicing these Seven Limbs of Yoga according to the teachings of the Gheranda Samhita, individuals aim to achieve physical health, mental clarity, and spiritual enlightenment. It's a holistic approach that benefits the body, mind, and soul. Here's a simplified explanation of the Seven Limbs of Yoga according to the Gheranda Samhita:",
+        "data": [
+            {
+                "id": "1",
+                "header": "Shatkarma (Six Yogic Purification to Remove Toxins)",
+                "data": [
+                    "Neti (Nasal Cleansing): Neti involves the cleansing of the nasal passages using a saline solution. It helps clear mucus, dust, and debris from the nasal passages, improves breathing, and can be beneficial for respiratory health.",
+                    "Dhauti (Cleansing of the Digestive Tract): Dhauti includes several practices to cleanse the digestive tract. One common practice is Agnisar Dhauti, where the abdominal muscles are contracted rhythmically to massage and cleanse the stomach and intestines.",
+                    "Nauli (Abdominal Massage): Nauli involves isolating and rotating the abdominal muscles to massage and stimulate the internal organs. It helps improve digestion, activate the digestive fire (agni), and enhances overall abdominal health.",
+                    "Basti (Colon Cleansing): Basti is a practice of cleansing the colon by using water or other substances. It helps remove accumulated waste, toxins, and promotes colon health.",
+                    "Kapalabhati (Frontal Brain Cleansing): Kapalabhati is a dynamic breathing technique where forceful exhalations are followed by passive inhalations. It helps clear the respiratory passages, energizes the body, and invigorates the mind.",
+                    "Trataka (Gazing): Trataka involves focused gazing at a single point or object, often a candle flame. It improves concentration, cleanses the eyes, and promotes mental clarity.",
+                    "*Note: It's recommended to receive guidance from a Yoga Teacher when learning Shatkarma before attempting to practice them independently."
+                ]
+            },
+            {
+                "id": "2",
+                "header": "Asana (Physical Postures)",
+                "data": [
+                    "'Sthiram Sukham Asanam' which means Asana (Physical Posture) is that which is steady and pleasant.",
+                    "Physical postures designed to promote strength, flexibility, and balance in the body."
+                ]
+            },
+            {
+                "id": "3",
+                "header": "Mudra (Gestures)",
+                "data": [
+                    "Mudras involve using your hands, fingers, and sometimes even your whole body in specific ways. They help direct and control energy in your body."
+                ]
+            },
+            {
+                "id": "4",
+                "header": "Pratyahara (Sense Withdrawal)",
+                "data": [
+                    "Withdrawal of the senses from external distractions and turning inward towards the self."
+                ]
+            },
+            {
+                "id": "5",
+                "header": "Pranayama (Breathing Techniques)",
+                "data": [
+                    "Breathing techniques to increase the flow of prana (life force energy) in the body and calm the mind."
+                ]
+            },
+            {
+                "id": "6",
+                "header": "Dhyana (Meditation)",
+                "data": [
+                    "Meditation is the continuous flow of focused attention on the object of meditation."
+                ]
+            },
+            {
+                "id": "7",
+                "header": "Samadhi",
+                "data": [
+                    "State of complete absorption in the object of meditation, leading to ultimate self-realization and liberation."
+                ]
+            }
+        ]
+    }
+}

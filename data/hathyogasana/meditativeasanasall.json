@@ -1,0 +1,33 @@
+{
+    "data": {
+        "header": "Meditative Asanas (Poses)",
+        "sequence": true,
+        "basicInfo": "",
+        "asanas": [
+            {
+                "id": "1.130",
+                "label": "Sukhasana",
+                "routing": "/hathayogaasana/sukhasana",
+                "img": ""
+            },
+            {
+                "id": "1.131",
+                "label": "Padmasana",
+                "routing": "/hathayogaasana/padmasana",
+                "img": ""
+            },
+            {
+                "id": "1.132",
+                "label": "Siddhasana",
+                "routing": "/hathayogaasana/suptaveerasana",
+                "img": ""
+            },
+            {
+                "id": "1.133",
+                "label": "Swastikasana",
+                "routing": "/hathayogaasana/swastikasana",
+                "img": ""
+            }
+        ]
+    }
+}
