@@ -9,112 +9,112 @@
                 "label": "Padanguli Naman",
                 "label_en": "Toe Bending",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/padangulinaman",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/padangulinaman.png"
+                "img": "/images/pawanmuktasanaseries/1/padangulinaman.png"
             },
             {
                 "id": "1.2",
                 "label": "Goolf Naman",
                 "label_en": "Ankle Bending",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfnaman",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/goolfnaman.png"
+                "img": "/images/pawanmuktasanaseries/1/goolfnaman.png"
             },
             {
                 "id": "1.3",
                 "label": "Goolf Chakra",
                 "label_en": "Ankle Rotation",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfchakra",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/goolfchakra.png"
+                "img": "/images/pawanmuktasanaseries/1/goolfchakra.png"
             },
             {
                 "id": "1.4",
                 "label": "Goolf Ghoornan",
                 "label_en": "Ankle Crank",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/goolfghoornan",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/goolfghoornan.png"
+                "img": "/images/pawanmuktasanaseries/1/goolfghoornan.png"
             },
             {
                 "id": "1.5",
                 "label": "Janufalak Akarshan",
                 "label_en": "Kneecap Contraction",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/janufalakakarshan",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/startingposition.png"
+                "img": "/images/pawanmuktasanaseries/1/startingposition.png"
             },
             {
                 "id": "1.6",
                 "label": "Janu Naman",
                 "label_en": "Knee Bending",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/janunaman",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/janunaman.png"
+                "img": "/images/pawanmuktasanaseries/1/janunaman.png"
             },
             {
                 "id": "1.7",
                 "label": "Janu Chakra",
                 "label_en": "Knee Crank",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/januchakra",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/januchakra.png"
+                "img": "/images/pawanmuktasanaseries/1/januchakra.png"
             },
             {
                 "id": "1.8",
                 "label": "Ardha Titliasana",
                 "label_en": "Half Butterfly",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/ardhatitliasana",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/ardhatitliasana.png"
+                "img": "/images/pawanmuktasanaseries/1/ardhatitliasana.png"
             },
             {
                 "id": "1.9",
                 "label": "Shroni Chakra",
                 "label_en": "Hip Rotation",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/shronichakra",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/shronichakra.png"
+                "img": "/images/pawanmuktasanaseries/1/shronichakra.png"
             },
             {
                 "id": "1.10",
                 "label": "Poorna Titliasana",
                 "label_en": "Full Butterfly",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/poornatitliasana",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/poornatitliasana.png"
+                "img": "/images/pawanmuktasanaseries/1/poornatitliasana.png"
             },
             {
                 "id": "1.11",
                 "label": "Mushtika Bandhana",
                 "label_en": "Hand Clenching",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/mushtikabandhana",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/mushtikabandhana.png"
+                "img": "/images/pawanmuktasanaseries/1/mushtikabandhana.png"
             },
             {
                 "id": "1.12",
                 "label": "Manibandha Naman",
                 "label_en": "Wrist Bending",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/manibandhanaman",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/manibandhanaman.png"
+                "img": "/images/pawanmuktasanaseries/1/manibandhanaman.png"
             },
             {
                 "id": "1.13",
                 "label": "Manibadha Chakra",
                 "label_en": "Wrist Joint Rotation",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/manibadhachakra",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/manibadhachakra.png"
+                "img": "/images/pawanmuktasanaseries/1/manibadhachakra.png"
             },
             {
                 "id": "1.14",
                 "label": "Kehuni Naman",
                 "label_en": "Elbow Bending",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/kehuninaman",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/kehuninaman.png"
+                "img": "/images/pawanmuktasanaseries/1/kehuninaman.png"
             },
             {
                 "id": "1.15",
                 "label": "Skandha Chakra",
                 "label_en": "Shoulder Socket Rotation",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/skandhachakra",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/skandhachakra.png"
+                "img": "/images/pawanmuktasanaseries/1/skandhachakra.png"
             },
             {
                 "id": "1.16",
                 "label": "Greeva Sanchalana",
                 "label_en": "Neck Movements",
                 "routing": "/hathayogaasana/pawanmuktasanaseries/1/greevasanchalana",
-                "img": "/yogic-insight/images/pawanmuktasanaseries/1/greevasanchalana1.png"
+                "img": "/images/pawanmuktasanaseries/1/greevasanchalana1.png"
             }
         ]
     }
