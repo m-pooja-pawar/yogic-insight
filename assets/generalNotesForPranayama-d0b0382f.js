@@ -1,1 +1,0 @@
-import{j as a}from"./index-435edbd8.js";function e(){return a.jsx(a.Fragment,{children:"GeneralNotesForPranayama"})}export{e as default};
