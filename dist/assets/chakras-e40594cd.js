@@ -1,1 +1,0 @@
-import{a as o,r as t,j as s}from"./index-072cde36.js";import{M as c}from"./multipleSectionsWithHeader-6797d2b9.js";function i(){return o.get("/data/chakras.json")}function h(){const[r,e]=t.useState(),n=t.useCallback(async()=>{i().then(a=>{a&&a.data&&e(a.data.data)})},[e]);return t.useEffect(()=>{n()},[n]),r?s.jsx(c,{...r}):s.jsx(s.Fragment,{})}export{h as default};
