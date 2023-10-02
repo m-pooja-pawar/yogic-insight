@@ -1,1 +1,0 @@
-import{a as s,r as i,j as r}from"./index-90dd68ea.js";import{S as o}from"./sectionWithHeader-9f5f6d15.js";function d(){return s.get("/data/origin.json")}function u(){const[t,e]=i.useState(),n=i.useCallback(async()=>{d().then(a=>{a&&a.data&&e(a.data.data)})},[e]);return i.useEffect(()=>{n()},[n]),t?r.jsx(o,{data:t.data,header:t.header}):r.jsx(r.Fragment,{})}export{u as default};
