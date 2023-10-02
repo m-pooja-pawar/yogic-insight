@@ -1,1 +1,0 @@
-import{j as s,B as t,d as x}from"./index-90dd68ea.js";function o(){return s.jsx(t,{sx:{display:"flex",justifyContent:"center"},children:s.jsx(x,{color:"primary",sx:{fontSize:{xs:"300px",sm:"300px",md:"400px"}}})})}export{o as default};
