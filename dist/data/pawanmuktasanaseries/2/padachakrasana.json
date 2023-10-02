@@ -1,0 +1,68 @@
+{
+    "data": {
+        "header": "Pada Chakrasana",
+        "header_en": "Leg Rotation",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Lie flat on the back. Legs together and straight. Arms by the sides and palms down. Head, neck and spine in a straight line."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/2/padachakrasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Raise the right leg 5cm from the ground, keeping the knee straight. Other leg should remain straight and in contact with the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Rotate the entire right leg clockwise 5 times in as large a circle as comfortable."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Rotate the entire right leg anti-clockwise 5 times in as large a circle as comfortable."
+                    }
+                ],
+                "info": [
+                    "Inhale while moving the leg upwards.",
+                    "Exhale while moving the leg downards."
+                ]
+            },
+            {
+                "id": "2",
+                "img": "/images/pawanmuktasanaseries/2/padachakrasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Raise the left leg 5cm from the ground, keeping the knee straight. Other leg should remain straight and in contact with the floor."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Rotate the entire left leg clockwise 5 times in as large a circle as comfortable."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Rotate the entire left leg anti-clockwise 5 times in as large a circle as comfortable."
+                    }
+                ],
+                "info": [
+                    "Inhale while moving the leg upwards.",
+                    "Exhale while moving the leg downards."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing.",
+            "After completing, move to shavasana.",
+            "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+        ]
+    }
+}

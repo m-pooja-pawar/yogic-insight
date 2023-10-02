@@ -1,0 +1,73 @@
+{
+    "data": {
+        "header": "Eight Limbs of Raja (Royal) Yoga",
+        "short_description": "The Eight Limbs of Yoga, also called Ashtanga Yoga, is a structured approach found in the book 'Patanjali Yoga Sutras,' written by Sage Patanjali, who is known as the 'father of yoga'. This book is a compilation of 196 sutras (formulas) that explores into the nature of the mind, the path to self-realization, and the art of living ethically and purposefully. The Eight Limbs of Yoga is a comprehensive framework that includes ethical guidelines, physical practices, breathing techniques, meditation, and self-realization. By practicing the Eight Limbs of Yoga, practitioners can cultivate a balanced, peaceful, and fulfilling life, both on and off the mat. Below is the brief description of each of the Eight Limbs of Yoga:",
+        "data": [
+            {
+                "id": "1",
+                "header": "Yama (The Ethical Principles, Moral Responsibilities)",
+                "data": [
+                    "Ahimsa: Non Violence",
+                    "Satya: Truthfulness",
+                    "Asteya: Non Stealing",
+                    "Brahmacharya: Continence",
+                    "Aparigraha: Non Possessiveness, Non Greedy"
+                ]
+            },
+            {
+                "id": "2",
+                "header": "Niyama (Personal Disciplines)",
+                "data": [
+                    "Saucha: External and Internal Purification",
+                    "Samtosa: Contentment",
+                    "Tapas: Self Discipline",
+                    "Svadhyaya: Self Study",
+                    "Isvara pranidhana: Surrender to Higher Power"
+                ]
+            },
+            {
+                "id": "3",
+                "header": "Asana (Physical Postures)",
+                "data": [
+                    "'Sthiram Sukham Asanam' which means Asana (Physical Posture) is that which is steady and pleasant.",
+                    "Physical postures designed to promote strength, flexibility, and balance in the body."
+                ]
+            },
+            {
+                "id": "4",
+                "header": "Pranayama (Breathing Techniques)",
+                "data": [
+                    "Breathing techniques to increase the flow of prana (life force energy) in the body and calm the mind."
+                ]
+            },
+            {
+                "id": "5",
+                "header": "Pratyahara (Sense Withdrawal)",
+                "data": [
+                    "Withdrawal of the senses from external distractions and turning inward towards the self."
+                ]
+            },
+            {
+                "id": "6",
+                "header": "Dharana (Concentration)",
+                "data": [
+                    "Concentration and focused attention on the object of meditation, such as the breath or a mantra."
+                ]
+            },
+            {
+                "id": "7",
+                "header": "Dhyana (Meditation)",
+                "data": [
+                    "Meditation is the continuous flow of focused attention on the object of meditation."
+                ]
+            },
+            {
+                "id": "8",
+                "header": "Samadhi",
+                "data": [
+                    "State of complete absorption in the object of meditation, leading to ultimate self-realization and liberation."
+                ]
+            }
+        ]
+    }
+}

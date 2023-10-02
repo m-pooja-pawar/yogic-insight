@@ -1,0 +1,35 @@
+{
+    "data": {
+        "header": "Kashtha Takshanasana",
+        "header_en": "Chopping Wood",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Squat with the feet flat on the floor and feet should be more than shoulder distance apart. Knees bent and seperated. Interlock the fingers of both the hands and place them just above the floor between the feet. Straighten the arms. Elbows inside the knees."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/3/kashthatakshanasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling raise the arms above and behind the head, stretching the spine upward. Look up towards the hands."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling make a downward stroke with the arms making a 'Ha!' sound and return to the starting position."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}

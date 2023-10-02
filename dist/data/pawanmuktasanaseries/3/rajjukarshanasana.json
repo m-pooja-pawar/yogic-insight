@@ -1,0 +1,46 @@
+{
+    "data": {
+        "header": "Rajju Karshanasana",
+        "header_en": "Pulling The Rope",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight. Imagine that there is a rope hanging in front of the body."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/3/rajjukarshanasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling reach up with the right hand to grasp the rope at a higher point, keep the elbow staright and looking upward."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling pull the right arm down, putting power into it as though pulling the rope downwards and eyes follow the downward movement of the hand."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Inhaling reach up with the left hand to grasp the rope at a higher point, keep the elbow staright and eyes follow the upward movement of the hand."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Exhaling pull the left arm down, putting power into it as though pulling the rope downwards and eyes follow the downward movement of the hand."
+                    }
+                ],
+                "info": [
+                    "Both arms do not move at the same time.",
+                    "Repeat 5 times."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}
