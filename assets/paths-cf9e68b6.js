@@ -1,0 +1,1 @@
+import{a as o,r as a,j as s}from"./index-76a3aa38.js";import{M as i}from"./multipleSectionsWithHeader-bb62e3e6.js";function u(){return o.get("/data/paths.json")}function h(){const[e,r]=a.useState(),n=a.useCallback(async()=>{u().then(t=>{t&&t.data&&r(t.data.data)})},[r]);return a.useEffect(()=>{n()},[n]),e?s.jsx(i,{...e}):s.jsx(s.Fragment,{})}export{h as default};
