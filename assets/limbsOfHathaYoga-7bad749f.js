@@ -1,1 +1,0 @@
-import{a as r,r as t,j as s}from"./index-76a3aa38.js";import{M as m}from"./multipleSectionsWithHeader-bb62e3e6.js";function n(){return r.get("/data/limbsOfHathaYoga.json")}function c(){const[e,i]=t.useState(),o=t.useCallback(async()=>{n().then(a=>{a&&a.data&&i(a.data.data)})},[i]);return t.useEffect(()=>{o()},[o]),e?s.jsx(m,{...e}):s.jsx(s.Fragment,{})}export{c as default};
