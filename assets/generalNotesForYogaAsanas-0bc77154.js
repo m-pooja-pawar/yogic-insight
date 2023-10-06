@@ -1,0 +1,1 @@
+import{a as r,r as a,j as e}from"./index-26d63e4b.js";import{M as c}from"./multipleSectionsWithHeader-94392c2b.js";function i(){return r.get("/data/generalNotesForAsanas.json")}function l(){const[s,o]=a.useState(),n=a.useCallback(async()=>{i().then(t=>{t&&t.data&&o(t.data.data)})},[o]);return a.useEffect(()=>{n()},[n]),s?e.jsx(c,{...s}):e.jsx(e.Fragment,{})}export{l as default};
