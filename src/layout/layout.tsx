@@ -56,7 +56,7 @@ export function Layout(): JSX.Element {
               <Sidebar></Sidebar>
             </Box>
           </Drawer>
-          <Container fixed>
+          <Container fixed sx={{backgroundColor: theme.palette.common.white}}>
             <MainContent></MainContent>
           </Container>
         </>
@@ -78,7 +78,7 @@ export function Layout(): JSX.Element {
             <Sidebar></Sidebar>
           </Grid>
           <Grid item md={9} sx={{height: 'calc(100vh - 64px)', overflow: 'auto'}}>
-            <Container fixed>
+            <Container fixed sx={{backgroundColor: theme.palette.common.white}}>
               <MainContent></MainContent>
             </Container>
           </Grid>

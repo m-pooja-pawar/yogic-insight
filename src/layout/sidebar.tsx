@@ -164,7 +164,7 @@ export function Sidebar(): JSX.Element {
   };
 
   return sidebarData && sidebarData.length > 0 ? (
-    <Box>
+    <Box sx={{backgroundColor: '#f8f9fa'}}>
       <nav>
         <List dense>
           {sidebarData.map((element: IndexItem) => {

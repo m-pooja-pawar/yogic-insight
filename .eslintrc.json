@@ -122,7 +122,8 @@
                         "trailingComma": "all", //allowedintypescript,butnotes5 
                         "jsxBracketSameLine": true,
                         "bracketSpacing": false,
-                        "printWidth": 120
+                        "printWidth": 120,
+                        "endOfLine": "auto"
                     }
                 ],
                 "no-undef": "off",
