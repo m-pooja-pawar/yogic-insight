@@ -24,7 +24,7 @@ export function MultipleSectionsWithHeader({
   const getSectionData = (element: SectionWithHeaderProp, typographyComponent: ElementType): JSX.Element => {
     return (
       <Box key={'box' + element.header} mt={2}>
-        <Typography color='primary' component={typographyComponent} variant='subtitle1'>
+        <Typography color='primary' component={typographyComponent} fontWeight='bolder' variant='subtitle1'>
           {element.header}
         </Typography>
         <ul style={{paddingInlineStart: '20px'}}>
@@ -42,7 +42,7 @@ export function MultipleSectionsWithHeader({
 
   return (
     <Box>
-      <Typography color='primary' component='p' mb={2} variant='h5'>
+      <Typography color='primary' component='p' fontWeight='bolder' mb={2} variant='h5'>
         {header}
       </Typography>
       <Typography component='p'>{short_description}</Typography>

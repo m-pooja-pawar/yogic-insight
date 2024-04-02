@@ -7,10 +7,14 @@ export function Logo(): JSX.Element {
   return (
     <Box>
       <NavLink style={{textDecoration: 'none'}} to='/'>
-        <Box sx={{display: 'flex', alignItems: 'flex-end'}}>
-          <SelfImprovementIcon color='primary' sx={{fontSize: 50}}></SelfImprovementIcon>
-          <Typography color='primary' component='span' sx={{fontWeight: '600'}} variant='h4'>
-            Yoga
+        <Box
+          sx={{
+            display: 'flex',
+            alignItems: 'center',
+          }}>
+          <SelfImprovementIcon color='primary' sx={{fontSize: 40}}></SelfImprovementIcon>
+          <Typography color='primary' component='span' sx={{fontWeight: 'bold'}} variant='h6'>
+            Yogic Insight
           </Typography>
         </Box>
       </NavLink>

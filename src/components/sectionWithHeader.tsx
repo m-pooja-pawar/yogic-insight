@@ -10,6 +10,7 @@ export function SectionWithHeader({header, data, sub_data}: SectionWithHeaderPro
         <Typography
           color='primary'
           component='p'
+          fontWeight='bolder'
           mt={subHeaderVariant ? 3 : 0}
           variant={subHeaderVariant ? 'body1' : 'h5'}>
           {sectionData.header}

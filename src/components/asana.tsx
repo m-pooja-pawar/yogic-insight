@@ -10,7 +10,7 @@ import {InstructionCarousel} from './instructionCarousel';
 export function Asana(data: AsanaData): JSX.Element {
   const header = (): JSX.Element => {
     return (
-      <Typography color='primary' component='p' mb={2} variant='h5'>
+      <Typography color='primary' component='p' fontWeight={'bolder'} mb={2} variant='h5'>
         {data.header} {data.header_en ? '(' + data.header_en + ')' : ''}
       </Typography>
     );
@@ -19,7 +19,7 @@ export function Asana(data: AsanaData): JSX.Element {
   const startingPosition = (): JSX.Element => {
     return data.startingPosition ? (
       <Box>
-        <Typography color='primary' component='p'>
+        <Typography color='primary' component='p' fontWeight={'bolder'}>
           {data.startingPosition.header}
         </Typography>
         <Box sx={{textAlign: 'center', height: '200px', py: 2}}>
@@ -40,7 +40,7 @@ export function Asana(data: AsanaData): JSX.Element {
         {data.stage.map((stageData, stageIndex) => {
           return (
             <Fragment key={stageData.id}>
-              <Typography color='primary' component='p' mt={5}>
+              <Typography color='primary' component='p' fontWeight={'bolder'} mt={5}>
                 {data.stage.length === 1 ? 'Technique' : 'Practice ' + (stageIndex + 1) + '.'}
               </Typography>
               <Box sx={{my: 1}}>
@@ -87,7 +87,7 @@ export function Asana(data: AsanaData): JSX.Element {
   const generalInstructions = (): JSX.Element => {
     return data.info ? (
       <>
-        <Typography color='primary' component='p' mt={5}>
+        <Typography color='primary' component='p' fontWeight={'bolder'} mt={5}>
           General Instructions
         </Typography>
         <ul>

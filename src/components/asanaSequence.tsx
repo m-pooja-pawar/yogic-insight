@@ -41,10 +41,10 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
                   }}>
                   <AsanaImage imgSrc={asanaElement.img}></AsanaImage>
                 </Box>
-                <Typography align='center' color='primary' component='p'>
+                <Typography align='center' color='primary' component='p' fontWeight={'bolder'}>
                   {index + 1}. {asanaElement.label}
                 </Typography>
-                <Typography align='center' color='primary' component='p' mb={2}>
+                <Typography align='center' color='primary' component='p' fontWeight={'bolder'} mb={2}>
                   {asanaElement.label_en ? '(' + asanaElement.label_en + ')' : ''}
                 </Typography>
               </Box>
@@ -68,7 +68,7 @@ export function AsanaSequence(data: AsanaSequenceList): JSX.Element {
 
   return (
     <Box>
-      <Typography color='primary' component='p' variant='h5'>
+      <Typography color='primary' component='p' fontWeight={'bolder'} variant='h5'>
         {data.header}
       </Typography>
       <Typography component='p' my={2}>
