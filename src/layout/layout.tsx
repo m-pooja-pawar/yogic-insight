@@ -4,11 +4,10 @@ import {Container} from '@mui/system';
 import {useEffect, useState} from 'react';
 import {useLocation} from 'react-router-dom';
 
-import {Logo} from '../components/logo';
-
-import {Header} from './header';
-import {MainContent} from './mainContent';
-import {Sidebar} from './sidebar';
+import {Header} from './header/header';
+import {Logo} from './logo/logo';
+import {MainContent} from './mainContent/mainContent';
+import {Sidebar} from './sidebar/sidebar';
 
 export function Layout(): JSX.Element {
   const drawerWidth = 300;

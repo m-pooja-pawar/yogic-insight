@@ -1,25 +1,29 @@
 import {Suspense, lazy} from 'react';
 import {Navigate, Route, Routes} from 'react-router-dom';
 
-const Home = lazy(() => import('../pages/home'));
-const Definition = lazy(() => import('../pages/definition'));
-const Origin = lazy(() => import('../pages/origin'));
-const Paths = lazy(() => import('../pages/paths'));
-const LimbsOfYoga = lazy(() => import('../pages/limbsOfYoga'));
-const Prana = lazy(() => import('../pages/prana'));
-const Chakras = lazy(() => import('../pages/chakras'));
-const HathYoga = lazy(() => import('../pages/hathYoga'));
-const LimbsOfHathaYoga = lazy(() => import('../pages/limbsOfHathaYoga'));
-const GeneralNotesForYogaAsanas = lazy(() => import('../pages/generalNotesForYogaAsanas'));
-const HathYogaAsana = lazy(() => import('../pages/hathYogaAsana'));
-const Mudras = lazy(() => import('../pages/mudras'));
-const GeneralNotesForPranayama = lazy(() => import('../pages/generalNotesForPranayama'));
-const Pranayama = lazy(() => import('../pages/pranayama'));
-const Meditation = lazy(() => import('../pages/meditation'));
+import {Loader} from '../util/loader';
+
+const Home = lazy(() => import('../components/home/home'));
+const Definition = lazy(() => import('../components/definition/definition'));
+const Origin = lazy(() => import('../components/origin/origin'));
+const Paths = lazy(() => import('../components/paths/paths'));
+const LimbsOfYoga = lazy(() => import('../components/limbsOfYoga/limbsOfYoga'));
+const Prana = lazy(() => import('../components/prana/prana'));
+const Chakras = lazy(() => import('../components/chakras/chakras'));
+const HathYoga = lazy(() => import('../components/hathYoga/hathYoga'));
+const LimbsOfHathaYoga = lazy(() => import('../components/limbsOfHathaYoga/limbsOfHathaYoga'));
+const GeneralNotesForYogaAsanas = lazy(
+  () => import('../components/generalNotesForYogaAsanas/generalNotesForYogaAsanas'),
+);
+const HathYogaAsana = lazy(() => import('../components/hathYogaAsana/hathYogaAsana'));
+const Mudras = lazy(() => import('../components/mudras/mudras'));
+const GeneralNotesForPranayama = lazy(() => import('../components/generalNotesForPranayama/generalNotesForPranayama'));
+const Pranayama = lazy(() => import('../components/pranayama/pranayama'));
+const Meditation = lazy(() => import('../components/meditation/meditation'));
 
 export function Router(): JSX.Element {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense fallback={<Loader isLoading={true} />}>
       <Routes>
         <Route element={<Home />} path='/'></Route>
         <Route element={<Definition />} path='/defination'></Route>
