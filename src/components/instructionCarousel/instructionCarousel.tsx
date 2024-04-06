@@ -5,6 +5,7 @@ import Button from '@mui/material/Button';
 import MobileStepper from '@mui/material/MobileStepper';
 import {useTheme} from '@mui/material/styles';
 import * as React from 'react';
+import {useTranslation} from 'react-i18next';
 import SwipeableViews from 'react-swipeable-views';
 import {autoPlay} from 'react-swipeable-views-utils';
 
@@ -14,6 +15,7 @@ import {AsanaImage} from '../asanaImage/asanaImage';
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 export function InstructionCarousel(props: {readonly carouselData: readonly AsanaTechnique[]}): JSX.Element {
+  const {t} = useTranslation('app');
   const theme = useTheme();
   const [activeStep, setActiveStep] = React.useState(0);
   const maxSteps = props.carouselData?.length ? props.carouselData?.length : 0;
@@ -56,7 +58,7 @@ export function InstructionCarousel(props: {readonly carouselData: readonly Asan
                     <AsanaImage imgSrc={step.img}></AsanaImage>
                   ) : (
                     <Box p={2}>
-                      Step {index + 1}. {step.instruction}
+                      {t('step')} {index + 1}. {step.instruction}
                     </Box>
                   )}
                 </Box>
@@ -69,12 +71,12 @@ export function InstructionCarousel(props: {readonly carouselData: readonly Asan
           backButton={
             <Button disabled={activeStep === 0} onClick={handleBack} size='small'>
               {theme.direction === 'rtl' ? <KeyboardArrowRight /> : <KeyboardArrowLeft />}
-              Back
+              {t('back')}
             </Button>
           }
           nextButton={
             <Button disabled={activeStep === maxSteps - 1} onClick={handleNext} size='small'>
-              Next
+              {t('next')}
               {theme.direction === 'rtl' ? <KeyboardArrowLeft /> : <KeyboardArrowRight />}
             </Button>
           }

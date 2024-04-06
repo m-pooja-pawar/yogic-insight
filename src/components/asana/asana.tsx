@@ -1,6 +1,7 @@
 import {Grid, Typography} from '@mui/material';
 import {Box} from '@mui/material';
 import {Fragment} from 'react';
+import {useTranslation} from 'react-i18next';
 
 import {AsanaImage} from '../asanaImage/asanaImage';
 
@@ -8,6 +9,7 @@ import {InstructionCarousel} from './../instructionCarousel/instructionCarousel'
 import {AsanaData} from './asanaProp';
 
 export function Asana(data: AsanaData): JSX.Element {
+  const {t} = useTranslation('app');
   const header = (): JSX.Element => {
     return (
       <Typography color='primary' component='p' fontWeight={'bolder'} mb={2} variant='h5'>
@@ -65,7 +67,7 @@ export function Asana(data: AsanaData): JSX.Element {
                 {stageData.technique.map((techniqueData, index) => {
                   return (
                     <Typography component='li' key={techniqueData.instruction}>
-                      Step {index + 1}. {techniqueData.instruction}
+                      {t('step')} {index + 1}. {techniqueData.instruction}
                     </Typography>
                   );
                 })}
@@ -88,7 +90,7 @@ export function Asana(data: AsanaData): JSX.Element {
     return data.info ? (
       <>
         <Typography color='primary' component='p' fontWeight={'bolder'} mt={5}>
-          General Instructions
+          {t('generalInstructions')}
         </Typography>
         <ul>
           {data.info?.map((infoData) => {

@@ -1,12 +1,10 @@
 import {BehaviorSubject} from 'rxjs';
 
-import {LoginResponse} from '../components/login/auth';
-
 import {clearLocalStorage, getToken, setToken, setUserDetail, setUserMenu} from './localStorageHelper';
 
 const isUserLoggedInSubject = new BehaviorSubject(isUserLoggedIn());
 
-export function handleLoginSuccess(data: LoginResponse): void {
+export function handleLoginSuccess(data: any): void {
   setUserDetail(data.user || null);
   setToken(data.token || null);
   setUserMenu(data.userMenu || null);

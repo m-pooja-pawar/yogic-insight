@@ -29,7 +29,7 @@ const StyledListItemButton = styled(ListItemButton)<
     margin: '1px 0px',
     '&.active': {
       backgroundColor: theme.palette.primary.light,
-      // color: theme.palette.common.white,
+      color: theme.palette.common.white,
     },
   },
 }));

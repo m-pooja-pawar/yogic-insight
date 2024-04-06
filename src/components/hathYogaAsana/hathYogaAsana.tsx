@@ -48,6 +48,6 @@ export default function HathYogaAsana(): JSX.Element {
       <Asana {...asanaDetail}></Asana>
     )
   ) : (
-    <>Loading... {apiParam}</>
+    <>{apiParam}</>
   );
 }

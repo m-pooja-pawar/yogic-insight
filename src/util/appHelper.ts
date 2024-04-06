@@ -33,7 +33,7 @@ export function getDisplayMode(): string {
   const isInStandaloneMode =
     window.matchMedia('(display-mode: standalone)').matches || document.referrer.includes('android-app://');
   if (isInStandaloneMode) {
-    displayMode = 'Mandi_PWA_App';
+    displayMode = 'PWA_App';
   }
   return displayMode;
 }

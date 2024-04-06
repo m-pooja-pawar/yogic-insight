@@ -1,10 +1,8 @@
-import {User, UserMenu} from '../components/login/auth';
-
-export function setUserDetail(userData: User | null): void {
+export function setUserDetail(userData: any | null): void {
   localStorage.setItem('user', JSON.stringify(userData));
 }
 
-export function getUserDetail(): User | null {
+export function getUserDetail(): any | null {
   const data = localStorage.getItem('user');
   if (data) {
     return JSON.parse(data);
@@ -22,13 +20,13 @@ export function getToken(): string | null {
   return localStorage.getItem('token');
 }
 
-export function setUserMenu(userMenu: readonly UserMenu[] | null): void {
+export function setUserMenu(userMenu: readonly any[] | null): void {
   if (userMenu) {
     localStorage.setItem('userMenu', JSON.stringify(userMenu));
   }
 }
 
-export function getUserMenu(): readonly UserMenu[] | null {
+export function getUserMenu(): readonly any[] | null {
   const data = localStorage.getItem('userMenu');
   if (data) {
     return JSON.parse(data);
