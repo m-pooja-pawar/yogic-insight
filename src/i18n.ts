@@ -14,7 +14,7 @@ i18n
   .init({
     backend: {
       loadPath: () => {
-        return '/locales/{{lng}}/{{ns}}.json';
+        return `${import.meta.env.VITE_BASE_NAME}/locales/{{lng}}/{{ns}}.json`;
       },
     },
     debug: false,
