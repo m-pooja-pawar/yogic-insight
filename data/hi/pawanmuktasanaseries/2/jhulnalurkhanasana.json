@@ -1,0 +1,81 @@
+{
+    "data": {
+        "header": "Jhulana Lurhakanasana",
+        "header_en": "Rocking and Rolling",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Lie flat on the back. Legs together and straight. Arms by the sides and palms down. Head, neck and spine in a straight line."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/2/jhulanasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend both the knees bringing both the thighs to the chest and interlocking the fingers hold the shins just below the knees."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhale deeply."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhaling roll the body to the right and touch the side of the legs on the floor."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Inhaling return to the center."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Exhaling roll the body to the left and touch the side of the legs on the floor."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Inhaling return to the center and that is step 2."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            },
+            {
+                "id": "2",
+                "img": "/images/pawanmuktasanaseries/2/lurhakanasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Sit in the squating position with the buttocks just above the floor and interlocking the fingers hold the shins just below the knees."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Inhaling rock the whole body backwards on the spine."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhaling rock the whole body forward and return to step 1."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing.",
+            "After completing, move to shavasana.",
+            "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+        ]
+    }
+}

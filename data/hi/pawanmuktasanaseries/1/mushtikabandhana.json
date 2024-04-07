@@ -1,0 +1,36 @@
+{
+    "data": {
+        "header": "Mushtika Bandhana",
+        "header_en": "Hand Clenching",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "/images/pawanmuktasanaseries/1/dandasana.png",
+            "instruction": "Sit with the legs outstretched in front, feet together and hands besides the buttocks, or sit with a cross-legged pose. Spine Straight. Straighten the arms in front of the body at the shoulder level."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/1/mushtikabandhana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhaling open the hands, palms down and stretch the fingers as wide apart as possible."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Exhaling close the fingers to make a tight fist with the thumbs inside."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+                ]
+            }
+        ],
+        "info": [
+            "Move only the hands, every other body part should be motionless.",
+            "Deep breathing should be done and movement should be in sync with the breathing."
+        ]
+    }
+}
