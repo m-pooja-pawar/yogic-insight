@@ -2,6 +2,7 @@
   "name": "yogic-insight",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://m-pooja-pawar.github.io/yogic-insight",
   "type": "module",
   "scripts": {
     "local": "vite",
@@ -9,7 +10,9 @@
     "beta": "tsc && vite build --mode beta",
     "build": "tsc && vite build --mode production",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "tsc && vite build --base=/yogic-insight/",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -33,7 +36,8 @@
     "react-router-dom": "^6.14.2",
     "react-swipeable-views": "^0.14.0",
     "react-swipeable-views-utils": "^0.14.0",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "to-regex-range": "^5.0.1"
   },
   "devDependencies": {
     "@types/react": "^17.0.62",
@@ -53,6 +57,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "eslint-plugin-typescript-sort-keys": "^2.1.0",
+    "gh-pages": "^6.0.0",
     "prettier": "^2.8.4",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",

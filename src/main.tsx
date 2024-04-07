@@ -15,7 +15,7 @@ ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.VITE_BASE_NAME}>
         <Suspense fallback={<></>}>
           <SnackbarProvider
             anchorOrigin={{
