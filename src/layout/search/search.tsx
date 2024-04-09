@@ -39,7 +39,7 @@ export function Search(): JSX.Element {
       renderInput={(params) => <TextField {...params} label={t('search')} />}
       size='small'
       sx={{
-        width: 280,
+        width: 250,
       }}
     />
   );

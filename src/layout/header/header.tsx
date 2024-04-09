@@ -14,20 +14,20 @@ export function Header({onDrawerToggle}: {readonly onDrawerToggle: () => void}):
     <Box sx={{flexGrow: 1}}>
       <AppBar position='fixed' sx={{boxShadow: '0 2px 3px 0 lightgray', backgroundColor: theme.palette.common.white}}>
         <Toolbar sx={{justifyContent: 'space-between'}}>
-          <Stack>
+          <Box>
             <IconButton
               aria-label='menu'
               color='primary'
               edge='start'
               onClick={onDrawerToggle}
               size='large'
-              sx={{display: {sm: 'flex', md: 'none'}, mr: 2}}>
+              sx={{display: {sm: 'flex', md: 'none'}, mr: 1}}>
               <MenuIcon />
             </IconButton>
-            <Box sx={{display: {xs: 'none', sm: 'block'}}}>
+            <Box sx={{display: {xs: 'none', md: 'block'}}}>
               <Logo></Logo>
             </Box>
-          </Stack>
+          </Box>
           <Stack direction={'row'} spacing={1}>
             <Search></Search>
             <LanguageOptions></LanguageOptions>
