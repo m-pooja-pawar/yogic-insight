@@ -686,8 +686,8 @@ const manifestForPlugIn: Partial<VitePWAOptions> = {
     theme_color: '#171717',
     background_color: '#f8f9fa',
     display: 'standalone',
-    scope: '/',
-    start_url: '/',
+    scope: '/yogic-insight/',
+    start_url: '/yogic-insight/',
     orientation: 'portrait',
   },
 };

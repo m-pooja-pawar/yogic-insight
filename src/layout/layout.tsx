@@ -65,6 +65,7 @@ export function Layout(): JSX.Element {
             item
             md={3}
             sx={{
+              backgroundColor: '#f8f9fa',
               '--Grid-borderWidth': '1px',
               '& > div': {
                 borderRight: 'var(--Grid-borderWidth) solid',
