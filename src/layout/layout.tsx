@@ -4,11 +4,10 @@ import {Container} from '@mui/system';
 import {useEffect, useState} from 'react';
 import {useLocation} from 'react-router-dom';
 
-import {Logo} from '../components/logo';
-
-import {Header} from './header';
-import {MainContent} from './mainContent';
-import {Sidebar} from './sidebar';
+import {Header} from './header/header';
+import {Logo} from './logo/logo';
+import {MainContent} from './mainContent/mainContent';
+import {Sidebar} from './sidebar/sidebar';
 
 export function Layout(): JSX.Element {
   const drawerWidth = 300;
@@ -56,7 +55,7 @@ export function Layout(): JSX.Element {
               <Sidebar></Sidebar>
             </Box>
           </Drawer>
-          <Container fixed>
+          <Container fixed sx={{backgroundColor: theme.palette.common.white}}>
             <MainContent></MainContent>
           </Container>
         </>
@@ -66,6 +65,7 @@ export function Layout(): JSX.Element {
             item
             md={3}
             sx={{
+              backgroundColor: '#f8f9fa',
               '--Grid-borderWidth': '1px',
               '& > div': {
                 borderRight: 'var(--Grid-borderWidth) solid',
@@ -78,7 +78,7 @@ export function Layout(): JSX.Element {
             <Sidebar></Sidebar>
           </Grid>
           <Grid item md={9} sx={{height: 'calc(100vh - 64px)', overflow: 'auto'}}>
-            <Container fixed>
+            <Container fixed sx={{backgroundColor: theme.palette.common.white}}>
               <MainContent></MainContent>
             </Container>
           </Grid>

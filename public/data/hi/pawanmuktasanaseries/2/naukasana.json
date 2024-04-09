@@ -1,0 +1,43 @@
+{
+    "data": {
+        "header": "Naukasana",
+        "header_en": "Boat Pose",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "",
+            "instruction": "Lie flat on the back. Legs together and straight. Arms by the sides and palms down. Head, neck and spine in a straight line."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/2/naukasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Inhale deeply. Hold the breath. Then raise the legs, arms, shoulders, head and trunk off the ground. Shoulders and feet should be 15 cms off the floor. Balance the body on the buttocks. Keep the spine straight. Arms should in line with the toes. Hands open with palms down. Hold for 3 to 5 seconds."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Return to the starting position and exhale."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+                    }
+                ],
+                "info": [
+                    "Repeat 5 times."
+
+                ]
+            }
+        ],
+        "info": [
+            "Deep breathing should be done and movement should be in sync with the breathing.",
+            "After completing, move to shavasana.",
+            "Gently push out the abdomen with inhalation and exhaling return to the starting position. Repeat 5 times."
+        ]
+    }
+}

@@ -1,23 +1,31 @@
 import {ThemeProvider} from '@emotion/react';
-import {CssBaseline} from '@mui/material';
-import axios from 'axios';
+import {CssBaseline, Slide} from '@mui/material';
+import {SnackbarProvider} from 'notistack';
 import React, {Suspense} from 'react';
 import ReactDOM from 'react-dom';
 import {BrowserRouter} from 'react-router-dom';
 
 import {App} from './App';
 import {theme} from './theme/theme';
+import './i18n';
 
-axios.defaults.baseURL = 'https://m-pooja-pawar.github.io/yogic-insight';
 const rootElement = window.document.getElementById('root') as HTMLElement;
 
 ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter basename='/yogic-insight'>
+      <BrowserRouter basename={import.meta.env.VITE_BASE_NAME}>
         <Suspense fallback={<></>}>
-          <App />
+          <SnackbarProvider
+            anchorOrigin={{
+              vertical: 'top',
+              horizontal: 'right',
+            }}
+            maxSnack={5}
+            TransitionComponent={Slide}>
+            <App />
+          </SnackbarProvider>
         </Suspense>
       </BrowserRouter>
     </ThemeProvider>

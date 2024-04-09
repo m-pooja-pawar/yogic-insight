@@ -1,0 +1,59 @@
+{
+    "data": {
+        "header": "Shroni Chakra",
+        "header_en": "Hip Rotation",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "/images/pawanmuktasanaseries/1/dandasana.png",
+            "instruction": "Sit with the legs outstretched in front. Feet together. Hands besides the buttocks. Spine Straight."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/pawanmuktasanaseries/1/shronichakra.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the right knee and gently place the foot on the left thigh. Right hand on the top of the bent knee with index finger pointed out. Hold the toes of the right foot with the left hand."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Using the right hand, rotate the right knee in a circle, clockwise for 5 times and make the circular movement as large as possible."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Using the right hand, rotate the right knee in a circle, anti-clockwise for 5 times and make the circular movement as large as possible."
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "img": "/images/pawanmuktasanaseries/1/shronichakra.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Bend the left knee and gently place the foot on the right thigh. Left hand on the top of the bent knee with index finger pointed out. Hold the toes of the left foot with the right hand."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Using the left hand, rotate the left knee in a circle, clockwise for 5 times and make the circular movement as large as possible."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Using the left hand, rotate the left knee in a circle, anti-clockwise for 5 times and make the circular movement as large as possible."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Inhale on the upward movement.",
+            "Exhale on the downward movement."
+        ]
+    }
+}
