@@ -1,8 +1,10 @@
 {
     "yogicInsight": "योगिक दृष्टि",
     "search": "खोज",
-    "step": "कदम",
+    "step": "क्रमांक",
     "back": "पीछे",
     "next": "आगे",
-    "generalInstructions": "सामान्य निर्देश"
+    "generalInstructions": "सामान्य निर्देश",
+    "benefits": "फ़ायदे",
+    "contaIndication": "विपरीत संकेत"
 }
