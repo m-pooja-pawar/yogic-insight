@@ -1,0 +1,43 @@
+{
+    "data": {
+        "header": "Tadasana",
+        "header_en": "Stable Mountain Pose",
+        "description": "Tadasana is also called Samasthiti. Tada means mountain. Sama means straight. Sthiti means steadiness. Tadasana, a pose to stand straight and steady as a mountain.",
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/standingasana/tadasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Stand straight with the feet together, the heels and big toes touching each other, toes active and well spread, body weight evenly distributed on both the feet."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Legs stretched up, hips and lower abdomen slightly pulled in with the pelvis tucked under."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Place hands by the side of the body with open fingers."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Back, head and neck should be aligned."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Breathing for this asana should be done from the chest as abdomen should be engaged and pulled in."
+        ],
+        "benefits": [
+            "Increases body awareness and stability.",
+            "Alerts entire neuromuscular system.",
+            "Prepares body for all standing asanas."
+        ]
+    }
+}

@@ -13,6 +13,9 @@ export interface AsanaStage {
 }
 
 export interface AsanaData {
+  readonly benefits?: readonly string[];
+  readonly contraIndication?: readonly string[];
+  readonly description?: string;
   readonly header: string;
   readonly header_en?: string;
   readonly info?: readonly string[];

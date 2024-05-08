@@ -14,12 +14,24 @@ export const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: ['Inter', 'sans-serif'].join(','),
+    fontFamily: ['Inter', 'sans-serif', 'Noto_Sans_Devanagari'].join(','),
     button: {
       textTransform: 'none',
     },
   },
   components: {
+    MuiCssBaseline: {
+      styleOverrides: `
+        @font-face {
+          font-family: 'Noto_Sans_Devanagari';
+          src: url('${
+            import.meta.env.VITE_BASE_NAME
+          }/fonts/Noto_Sans_Devanagari/static/NotoSansDevanagari-Regular.ttf') format('truetype');
+          font-weight: normal;
+          font-style: normal;
+        }
+      `,
+    },
     MuiLink: {
       styleOverrides: {
         root: {

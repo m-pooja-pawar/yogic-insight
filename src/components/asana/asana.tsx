@@ -18,6 +18,16 @@ export function Asana(data: AsanaData): JSX.Element {
     );
   };
 
+  const description = (): JSX.Element => {
+    return data.description ? (
+      <Typography component='p' mb={2}>
+        {data.description}
+      </Typography>
+    ) : (
+      <></>
+    );
+  };
+
   const startingPosition = (): JSX.Element => {
     return data.startingPosition ? (
       <Box>
@@ -53,7 +63,7 @@ export function Asana(data: AsanaData): JSX.Element {
                         display: 'flex',
                         alignItems: 'center',
                         justifyContent: 'center',
-                        height: '290px',
+                        height: '390px',
                       }}>
                       <AsanaImage imgSrc={stageData.img}></AsanaImage>
                     </Box>
@@ -86,14 +96,14 @@ export function Asana(data: AsanaData): JSX.Element {
     );
   };
 
-  const generalInstructions = (): JSX.Element => {
-    return data.info ? (
+  const listSection = (dataToShow: readonly string[] | undefined, heading: string): JSX.Element => {
+    return dataToShow ? (
       <>
         <Typography color='primary' component='p' fontWeight={'bolder'} mt={5}>
-          {t('generalInstructions')}
+          {t(heading)}
         </Typography>
         <ul>
-          {data.info?.map((infoData) => {
+          {dataToShow?.map((infoData) => {
             return (
               <Typography component='li' key={infoData}>
                 {infoData}
@@ -110,9 +120,12 @@ export function Asana(data: AsanaData): JSX.Element {
   return (
     <Box>
       {header()}
+      {description()}
       {startingPosition()}
       {stages()}
-      {generalInstructions()}
+      {listSection(data.info, 'generalInstructions')}
+      {listSection(data.benefits, 'benefits')}
+      {listSection(data.contraIndication, 'contraindication')}
     </Box>
   );
 }

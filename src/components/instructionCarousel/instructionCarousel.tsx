@@ -45,7 +45,7 @@ export function InstructionCarousel(props: {readonly carouselData: readonly Asan
               {Math.abs(activeStep - index) <= 2 ? (
                 <Box
                   sx={{
-                    height: 255,
+                    height: 355,
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
