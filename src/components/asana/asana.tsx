@@ -34,7 +34,7 @@ export function Asana(data: AsanaData): JSX.Element {
         <Typography color='primary' component='p' fontWeight={'bolder'}>
           {data.startingPosition.header}
         </Typography>
-        <Box sx={{textAlign: 'center', height: '200px', py: 2}}>
+        <Box sx={{textAlign: 'center', height: '300px', py: 2}}>
           <AsanaImage imgSrc={data.startingPosition.img}></AsanaImage>
         </Box>
         <Typography component='p' mb={2}>

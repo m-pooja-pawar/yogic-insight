@@ -1,0 +1,29 @@
+{
+    "data": {
+        "header": "Parvatasana",
+        "header_en": "Mountain Peak Pose",
+        "startingPosition": {
+            "header": "Starting Position",
+            "img": "/images/standingasana/tadasana.png",
+            "instruction": "Stand straight with the feet together, the heels and big toes touching each other, toes active and well spread, body weight evenly distributed on both the feet. Legs stretched up, hips and lower abdomen slightly pulled in with the pelvis tucked under. Place hands by the side of the body with open fingers. Back, head and neck should be aligned."
+        },
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/standingasana/parvatasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Join the palms, inhale and lift hands above the head such that arms are alongside the ears."
+                    }
+                ]
+            }
+        ],
+        "benefits": [
+            "Increases body awareness and stability.",
+            "Alerts entire neuromuscular system.",
+            "Prepares body for all standing asanas."
+        ]
+    }
+}

@@ -6,17 +6,17 @@
         "asanas": [
             {
                 "id": "3.1",
-                "label": "Tadasana",
-                "label_en": "Stable Mountain Pose",
+                "label": "ताड़ासन",
+                "label_en": "स्थिर पर्वतासन",
                 "routing": "/hathayogaasana/tadasana",
                 "img": "/images/standingasana/tadasana.png"
             },
             {
                 "id": "3.2",
-                "label": "Parvatasana",
-                "label_en": "Mountain Peak Pose",
+                "label": "पर्वतासन",
+                "label_en": "पर्वत शिखर आसन",
                 "routing": "/hathayogaasana/parvatasana",
-                "img": "/images/standingasana/parvatasana.jpg"
+                "img": "/images/standingasana/parvatasana.png"
             },
             {
                 "id": "3.3",
