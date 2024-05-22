@@ -20,80 +20,80 @@
             },
             {
                 "id": "3.3",
-                "label": "Uttanasana",
-                "label_en": "Supine Pose",
-                "routing": "/hathayogaasana/uttanasana",
-                "img": "/images/standingasana/uttanasana.jpg"
-            },
-            {
-                "id": "3.4",
-                "label": "Padangusthasana",
-                "label_en": "Hand to Big Toe Pose",
-                "routing": "/hathayogaasana/padangusthasana",
-                "img": "/images/standingasana/padangusthasana.jpg"
-            },
-            {
-                "id": "3.5",
-                "label": "Padahastasana",
-                "label_en": "Hand to Foot Pose",
-                "routing": "/hathayogaasana/padahastasana",
-                "img": "/images/standingasana/padahastasana.jpg"
-            },
-            {
-                "id": "3.6",
                 "label": "Vrikshasana",
                 "label_en": "Tree Pose",
                 "routing": "/hathayogaasana/vrikshasana",
-                "img": "/images/standingasana/vrikshasana.jpg"
+                "img": "/images/standingasana/vrikshasana.png"
             },
             {
-                "id": "3.7",
+                "id": "3.4",
                 "label": "Utkatasana",
                 "label_en": "Chair Pose",
                 "routing": "/hathayogaasana/utkatasana",
                 "img": "/images/standingasana/utkatasana.jpg"
             },
             {
-                "id": "3.8",
+                "id": "3.5",
                 "label": "Garudasana",
                 "label_en": "Eagle Pose",
                 "routing": "/hathayogaasana/garudasana",
                 "img": "/images/standingasana/garudasana.jpg"
             },
             {
-                "id": "3.9",
+                "id": "3.6",
                 "label": "Natrajasana",
                 "label_en": "Dancing Pose",
                 "routing": "/hathayogaasana/natrajasana",
                 "img": "/images/standingasana/natrajasana.jpg"
             },
             {
-                "id": "3.10",
+                "id": "3.7",
                 "label": "Utthita Hasta Padangusthasana",
                 "label_en": "Extended Hand Big Toe Pose",
                 "routing": "/hathayogaasana/utthitahastapadangusthasana",
                 "img": "/images/standingasana/utthitahastapadangusthasana.jpg"
             },
             {
-                "id": "3.11",
+                "id": "3.8",
                 "label": "Parsva Hasta Padangusthasana",
                 "label_en": "Side Hand Big Toe Pose",
                 "routing": "/hathayogaasana/parsvahastapadangusthasana",
                 "img": "/images/standingasana/parsvahastapadangusthasana.jpg"
             },
             {
-                "id": "3.12",
+                "id": "3.9",
                 "label": "Mukta Hasta",
                 "label_en": "Free Hand",
                 "routing": "/hathayogaasana/muktahasta",
                 "img": "/images/standingasana/muktahasta.jpg"
             },
             {
-                "id": "3.13",
+                "id": "3.10",
                 "label": "Ardha Baddha Padottansana",
                 "label_en": "Half Lotus Intense Stretch Pose",
                 "routing": "/hathayogaasana/ardhabaddhapadottanasana",
                 "img": "/images/standingasana/ardhabaddhapadottanasana.jpg"
+            },
+            {
+                "id": "3.11",
+                "label": "Uttanasana",
+                "label_en": "Supine Pose",
+                "routing": "/hathayogaasana/uttanasana",
+                "img": "/images/standingasana/uttanasana.jpg"
+            },
+            {
+                "id": "3.12",
+                "label": "Padangusthasana",
+                "label_en": "Hand to Big Toe Pose",
+                "routing": "/hathayogaasana/padangusthasana",
+                "img": "/images/standingasana/padangusthasana.jpg"
+            },
+            {
+                "id": "3.13",
+                "label": "Padahastasana",
+                "label_en": "Hand to Foot Pose",
+                "routing": "/hathayogaasana/padahastasana",
+                "img": "/images/standingasana/padahastasana.jpg"
             },
             {
                 "id": "3.14",
