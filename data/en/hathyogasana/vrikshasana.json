@@ -2,11 +2,6 @@
     "data": {
         "header": "Vrikshasana",
         "header_en": "Tree Pose",
-        "startingPosition": {
-            "header": "Starting Position",
-            "img": "/images/standingasana/tadasana.png",
-            "instruction": "Stand straight with the feet together, the heels and big toes touching each other, toes active and well spread, body weight evenly distributed on both the feet. Legs stretched up, hips and lower abdomen slightly pulled in with the pelvis tucked under. Place hands by the side of the body with open fingers. Back, head and neck should be aligned."
-        },
         "stage": [
             {
                 "id": "1",
@@ -14,18 +9,116 @@
                 "technique": [
                     {
                         "id": "1",
+                        "img": "/images/standingasana/tadasana.png",
+                        "instruction": "Stand in Tadasana."
+                    },
+                    {
+                        "id": "2",
                         "img": "",
-                        "instruction": "Join the palms, inhale and lift hands above the head such that arms are alongside the ears."
+                        "instruction": "Focus on an unmoving point."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the left foot."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Bend right knee, place the right heel at the root of the left thigh, square the hips, knee stretched out to the side and toes pointing downwards."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Join the palms in front of your chest."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Once stable, inhale and stretch the arms up."
+                    },
+                    {
+                        "id": "7",
+                        "img": "",
+                        "instruction": "Hold for 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "8",
+                        "img": "",
+                        "instruction": "Exhale and bring the joint palms in front of your chest."
+                    },
+                    {
+                        "id": "9",
+                        "img": "",
+                        "instruction": "Release hands & with hands support, release the right leg."
+                    },
+                    {
+                        "id": "10",
+                        "img": "/images/standingasana/tadasana.png",
+                        "instruction": "Back to Tadasana."
+                    },
+                    {
+                        "id": "11",
+                        "img": "",
+                        "instruction": "Keep focusing on an unmoving point."
+                    },
+                    {
+                        "id": "12",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the right foot."
+                    },
+                    {
+                        "id": "13",
+                        "img": "",
+                        "instruction": "Bend left knee, place the left heel at the root of the right thigh, square the hips, knee stretched out to the side and toes pointing downwards."
+                    },
+                    {
+                        "id": "14",
+                        "img": "",
+                        "instruction": "Join the palms in front of your chest."
+                    },
+                    {
+                        "id": "15",
+                        "img": "",
+                        "instruction": "Once stable, inhale and stretch the arms up."
+                    },
+                    {
+                        "id": "16",
+                        "img": "",
+                        "instruction": "Hold for 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "17",
+                        "img": "",
+                        "instruction": "Exhale and bring the joint palms in front of your chest."
+                    },
+                    {
+                        "id": "18",
+                        "img": "",
+                        "instruction": "Release hands & with hands support, release the right leg."
+                    },
+                    {
+                        "id": "19",
+                        "img": "/images/standingasana/tadasana.png",
+                        "instruction": "Back to Tadasana."
+                    },
+                    {
+                        "id": "20",
+                        "img": "",
+                        "instruction": "Relax."
                     }
                 ]
             }
         ],
+        "info": [
+            "Stay for the same length of time on both sides."
+        ],
         "benefits": [
-            "Quietens the maind and balances body and mind.",
+            "Quietens the mind and balances body and mind.",
             "Strengthens the legs, spine and nervous sytem.",
             "Relieves stiffness in ankels, knees and hips.",
             "Improves lungs capacity.",
-            "Helpful for migraine, tension, headache and vertigo"
+            "Helpful for migraine, tension and headache."
         ],
         "limitations": [
             "Avoid in ankle injury or surgery.",
