@@ -125,7 +125,7 @@ export function Asana(data: AsanaData): JSX.Element {
       {stages()}
       {listSection(data.info, 'generalInstructions')}
       {listSection(data.benefits, 'benefits')}
-      {listSection(data.contraIndication, 'contraindication')}
+      {listSection(data.limitations, 'limitations')}
     </Box>
   );
 }
