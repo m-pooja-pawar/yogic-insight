@@ -30,14 +30,14 @@
                 "label": "Utkatasana",
                 "label_en": "Chair Pose",
                 "routing": "/hathayogaasana/utkatasana",
-                "img": "/images/standingasana/utkatasana.jpg"
+                "img": "/images/standingasana/utkatasana.png"
             },
             {
                 "id": "3.5",
                 "label": "Garudasana",
                 "label_en": "Eagle Pose",
                 "routing": "/hathayogaasana/garudasana",
-                "img": "/images/standingasana/garudasana.jpg"
+                "img": "/images/standingasana/garudasana.png"
             },
             {
                 "id": "3.6",

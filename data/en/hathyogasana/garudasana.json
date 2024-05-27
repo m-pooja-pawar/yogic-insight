@@ -1,0 +1,80 @@
+{
+    "data": {
+        "header": "Garudasana",
+        "header_en": "Eagle Pose",
+        "description": "Garuda means an eagle. It is also the name of the king of birds. Garuda is represented as the vehicle of Vishnu and as having a white face, an acquiline beak, red wings and a golden body.",
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/standingasana/garudasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Stand in Tadasana."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Focus on an unmoving point & place hands on the waist."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the left foot."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Bend the left knee, cross the right foot over and hook the toes behind the left calf muscle."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Stretch the arms out in front, cross at the elbows with the left arm on the top, wrist at eye level and hands touching the forehead."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Hold for 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "7",
+                        "img": "",
+                        "instruction": "Release the arms and legs and come back to Tadasana."
+                    },
+                    {
+                        "id": "8",
+                        "img": "",
+                        "instruction": "Bend the right knee, cross the left foot over and hook the toes behind the right calf muscle."
+                    },
+                    {
+                        "id": "9",
+                        "img": "",
+                        "instruction": "Stretch the arms out in front, cross at the elbows with the right arm on the top, wrist at eye level and hands touching the forehead."
+                    },
+                    {
+                        "id": "12",
+                        "img": "",
+                        "instruction": "Hold for 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "13",
+                        "img": "",
+                        "instruction": "Release the arms and legs and come back to Tadasana."
+                    }
+                ]
+            }
+        ],
+        "benefits": [
+            "Removes stiffness in the shoulders.",
+            "Strengthens the legs.",
+            "Improves flexibility in ankles, knees, hips, elbows & shoulders."
+        ],
+        "limitations": [
+            "Avoid in ankle injury or surgery.",
+            "Avoid in knee injury or surgery.",
+            "Avoid in vertigo and eplilepsy."
+        ]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "data": {
+        "header": "Utkatasana",
+        "header_en": "Chair Pose",
+        "description": "Utkata means powerful, fierce. This asana is like sitting on an imaginary chair.",
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/standingasana/utkatasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Stand in Tadasana."
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Move to Parvatasana"
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Exhale, bend the knees and lower the trunk till the thighs are parallel to the floor."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Hold for 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Inhale and straighten the leg, bring the joint palms in front of your chest."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Back to Tadasana."
+                    }
+                ]
+            }
+        ],
+        "benefits": [
+            "Removes stiffness in the shoulders.",
+            "Strengthens ankle, calf, thigh, back and abdominal muscles.",
+            "Activates abdominal organs, especially kidneys.",
+            "The diaphragm is lifted up and this gives a gentle massage to the heart.",
+            "It is a beneficial for horsemen."
+        ],
+        "limitations": [
+            "Avoid in ankle injury or surgery.",
+            "Avoid in knee injury or surgery.",
+            "Avoid in heart problems.",
+            "Avoid in high BP."
+        ]
+    }
+}
