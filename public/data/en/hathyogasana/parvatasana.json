@@ -2,6 +2,7 @@
     "data": {
         "header": "Parvatasana",
         "header_en": "Mountain Peak Pose",
+        "description": "Parvata means a mountain.",
         "stage": [
             {
                 "id": "1",
@@ -9,13 +10,13 @@
                 "technique": [
                     {
                         "id": "1",
-                        "img": "/images/standingasana/tadasana.png",
+                        "img": "",
                         "instruction": "Stand in Tadasana."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Join the palms in front of your chest."
+                        "instruction": "Join the palms in front of your chest. Do not interlock fingers or thumb."
                     },
                     {
                         "id": "3",
@@ -34,7 +35,7 @@
                     },
                     {
                         "id": "6",
-                        "img": "/images/standingasana/tadasana.png",
+                        "img": "",
                         "instruction": "Back to Tadasana."
                     }
                 ]

@@ -2,6 +2,7 @@
     "data": {
         "header": "Vrikshasana",
         "header_en": "Tree Pose",
+        "description": "Vriksha means a tree.",
         "stage": [
             {
                 "id": "1",
@@ -9,13 +10,13 @@
                 "technique": [
                     {
                         "id": "1",
-                        "img": "/images/standingasana/tadasana.png",
+                        "img": "",
                         "instruction": "Stand in Tadasana."
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Focus on an unmoving point."
+                        "instruction": "Focus on an unmoving point & place hands on the waist."
                     },
                     {
                         "id": "3",
@@ -54,13 +55,13 @@
                     },
                     {
                         "id": "10",
-                        "img": "/images/standingasana/tadasana.png",
+                        "img": "",
                         "instruction": "Back to Tadasana."
                     },
                     {
                         "id": "11",
                         "img": "",
-                        "instruction": "Keep focusing on an unmoving point."
+                        "instruction": "Keep focusing on an unmoving point & place hands on the waist."
                     },
                     {
                         "id": "12",
@@ -99,13 +100,8 @@
                     },
                     {
                         "id": "19",
-                        "img": "/images/standingasana/tadasana.png",
-                        "instruction": "Back to Tadasana."
-                    },
-                    {
-                        "id": "20",
                         "img": "",
-                        "instruction": "Relax."
+                        "instruction": "Back to Tadasana."
                     }
                 ]
             }
