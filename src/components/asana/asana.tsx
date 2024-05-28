@@ -1,4 +1,5 @@
-import {Grid, Typography} from '@mui/material';
+import {Launch} from '@mui/icons-material';
+import {Grid, Link, Typography} from '@mui/material';
 import {Box} from '@mui/material';
 import {Fragment} from 'react';
 import {useTranslation} from 'react-i18next';
@@ -76,8 +77,18 @@ export function Asana(data: AsanaData): JSX.Element {
               <ul>
                 {stageData.technique.map((techniqueData, index) => {
                   return (
-                    <Typography component='li' key={techniqueData.instruction}>
-                      {t('step')} {index + 1}. {techniqueData.instruction}
+                    <Typography
+                      alignItems={'center'}
+                      component='li'
+                      display={'flex'}
+                      gap={1}
+                      key={techniqueData.instruction}>
+                      {t('step')} {index + 1}. {techniqueData.instruction}{' '}
+                      {techniqueData.link && (
+                        <Link href={techniqueData.link} sx={{display: 'flex', alignItems: 'center'}} target='_blank'>
+                          <Launch fontSize='small'></Launch>
+                        </Link>
+                      )}
                     </Typography>
                   );
                 })}

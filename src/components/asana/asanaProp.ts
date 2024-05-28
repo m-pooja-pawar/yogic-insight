@@ -3,6 +3,7 @@ export interface AsanaTechnique {
   readonly id: string;
   readonly img: string;
   readonly instruction: string;
+  readonly link?: string;
 }
 
 export interface AsanaStage {
