@@ -11,12 +11,14 @@
                     {
                         "id": "1",
                         "img": "",
-                        "instruction": "Stand in Tadasana."
+                        "instruction": "Stand in Tadasana.",
+                        "link": "/hathayogaasana/tadasana"
                     },
                     {
                         "id": "2",
                         "img": "",
-                        "instruction": "Move to Parvatasana"
+                        "instruction": "Move to Parvatasana.",
+                        "link": "/hathayogaasana/parvatasana"
                     },
                     {
                         "id": "3",
