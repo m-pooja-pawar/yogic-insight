@@ -85,7 +85,10 @@ export function Asana(data: AsanaData): JSX.Element {
                       key={techniqueData.instruction}>
                       {t('step')} {index + 1}. {techniqueData.instruction}{' '}
                       {techniqueData.link && (
-                        <Link href={techniqueData.link} sx={{display: 'flex', alignItems: 'center'}} target='_blank'>
+                        <Link
+                          href={`${import.meta.env.VITE_BASE_NAME}${techniqueData.link}`}
+                          sx={{display: 'flex', alignItems: 'center'}}
+                          target='_blank'>
                           <Launch fontSize='small'></Launch>
                         </Link>
                       )}
