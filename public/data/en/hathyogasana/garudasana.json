@@ -37,7 +37,7 @@
                     {
                         "id": "6",
                         "img": "",
-                        "instruction": "Hold for 60 seconds breathing deeply."
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
                     },
                     {
                         "id": "7",
@@ -47,20 +47,25 @@
                     {
                         "id": "8",
                         "img": "",
-                        "instruction": "Bend the right knee, cross the left foot over and hook the toes behind the right calf muscle."
+                        "instruction": "Keep focusing on an unmoving point & place hands on the waist."
                     },
                     {
                         "id": "9",
                         "img": "",
+                        "instruction": "Bend the right knee, cross the left foot over and hook the toes behind the right calf muscle."
+                    },
+                    {
+                        "id": "10",
+                        "img": "",
                         "instruction": "Stretch the arms out in front, cross at the elbows with the right arm on the top, wrist at eye level and hands touching the forehead."
                     },
                     {
-                        "id": "12",
+                        "id": "11",
                         "img": "",
-                        "instruction": "Hold for 60 seconds breathing deeply."
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
                     },
                     {
-                        "id": "13",
+                        "id": "12",
                         "img": "",
                         "instruction": "Release the arms and legs and come back to Tadasana."
                     }

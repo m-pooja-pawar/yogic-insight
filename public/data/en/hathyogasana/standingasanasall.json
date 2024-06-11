@@ -41,10 +41,10 @@
             },
             {
                 "id": "3.6",
-                "label": "Natrajasana",
-                "label_en": "Dancing Pose",
-                "routing": "/hathayogaasana/natrajasana",
-                "img": "/images/standingasana/natrajasana.jpg"
+                "label": "Natarajasana",
+                "label_en": "Lord of Dance Pose",
+                "routing": "/hathayogaasana/natarajasana",
+                "img": "/images/standingasana/natarajasana.png"
             },
             {
                 "id": "3.7",

@@ -1,0 +1,187 @@
+{
+    "data": {
+        "header": "Natarajasana",
+        "header_en": "Lord of Dance Pose",
+        "description": "Nata means a dancer. Raja means a lord or king. This vigorous and beautiful pose is dedicated to Shiva, Lord of the Dance.",
+        "stage": [
+            {
+                "id": "1",
+                "img": "/images/standingasana/natarajasana_1.jpg",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Stand in Tadasana.",
+                        "link": "/hathayogaasana/tadasana"
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Focus on an unmoving point."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the left foot."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Bend the right knee and hold the ankle with the right hand behind the body. Keep both the knees together and maintain the balance."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Slowly raise and stretch the right leg backward, as high as comfortable. Make sure the right hip does not twist and the leg is raised directly behind the body."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Stretch left arm upward and formard, bringing the tip of the index finger and thumb of the left hand together."
+                    },
+                    {
+                        "id": "7",
+                        "img": "",
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "8",
+                        "img": "",
+                        "instruction": "Lower the left arm."
+                    },
+                    {
+                        "id": "9",
+                        "img": "",
+                        "instruction": "Lower the right leg, bringing the knees together, release the right ankle, lower the right arm to the side, lower the foot to the floor and come back to Tadasana."
+                    },
+                    {
+                        "id": "10",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the right foot."
+                    },
+                    {
+                        "id": "11",
+                        "img": "",
+                        "instruction": "Bend the left knee and hold the ankle with the left hand behind the body. Keep both the knees together and maintain the balance."
+                    },
+                    {
+                        "id": "12",
+                        "img": "",
+                        "instruction": "Slowly raise and stretch the left leg backward, as high as comfortable. Make sure the left hip does not twist and the leg is raised directly behind the body."
+                    },
+                    {
+                        "id": "13",
+                        "img": "",
+                        "instruction": "Stretch right arm upward and formard, bringing the tip of the index finger and thumb of the left hand together."
+                    },
+                    {
+                        "id": "14",
+                        "img": "",
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "15",
+                        "img": "",
+                        "instruction": "Lower the right arm."
+                    },
+                    {
+                        "id": "16",
+                        "img": "",
+                        "instruction": "Lower the left leg, bringing the knees together, release the left ankle, lower the left arm to the side, lower the foot to the floor and come back to Tadasana."
+                    }
+                ]
+            },
+            {
+                "id": "1",
+                "img": "/images/standingasana/natarajasana.png",
+                "technique": [
+                    {
+                        "id": "1",
+                        "img": "",
+                        "instruction": "Stand in Tadasana.",
+                        "link": "/hathayogaasana/tadasana"
+                    },
+                    {
+                        "id": "2",
+                        "img": "",
+                        "instruction": "Focus on an unmoving point."
+                    },
+                    {
+                        "id": "3",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the left foot."
+                    },
+                    {
+                        "id": "4",
+                        "img": "",
+                        "instruction": "Bend the right knee and hold the right big toe between the thumb and the index and middle fingers of the right hand. Draw the leg up and back."
+                    },
+                    {
+                        "id": "5",
+                        "img": "",
+                        "instruction": "Roll the fingers and thumb of the right hand round the right big toe. Simultaneously rotate the right elbow and shoulder, and stretch the right arm up behind the head, without releasing the grip on the big toe. Pull the right arm and leg up so that they form a bow behind the back. The right thigh will be parallel to the floor and the right shin perpendicauler to it."
+                    },
+                    {
+                        "id": "6",
+                        "img": "",
+                        "instruction": "Stretch left arm straight in parallel with the floor."
+                    },
+                    {
+                        "id": "7",
+                        "img": "",
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "8",
+                        "img": "",
+                        "instruction": "Release the grip on the right foot, lower both the armes, lower the right leg and come back to Tadasana."
+                    },
+                    {
+                        "id": "9",
+                        "img": "",
+                        "instruction": "Shift the entire body weight onto the right foot."
+                    },
+                    {
+                        "id": "10",
+                        "img": "",
+                        "instruction": "Bend the left knee and hold the left big toe between the thumb and the index and middle fingers of the left hand. Draw the leg up and back."
+                    },
+                    {
+                        "id": "11",
+                        "img": "",
+                        "instruction": "Roll the fingers and thumb of the left hand round the left big toe. Simultaneously rotate the left elbow and shoulder, and stretch the left arm up behind the head, without releasing the grip on the big toe. Pull the left arm and leg up so that they form a bow behind the back. The left thigh will be parallel to the floor and the left shin perpendicauler to it."
+                    },
+                    {
+                        "id": "12",
+                        "img": "",
+                        "instruction": "Stretch right arm straight in parallel with the floor."
+                    },
+                    {
+                        "id": "13",
+                        "img": "",
+                        "instruction": "Hold for 10 to 60 seconds breathing deeply."
+                    },
+                    {
+                        "id": "14",
+                        "img": "",
+                        "instruction": "Release the grip on the left foot, lower both the armes, lower the left leg and come back to Tadasana."
+                    }
+                ]
+            }
+        ],
+        "info": [
+            "Stay for the same length of time on both sides."
+        ],
+        "benefits": [
+            "Strengthens the back, shoulders, arms, hips & legs.",
+            "Improves concentration."
+        ],
+        "limitations": [
+            "Avoid in ankle injury or surgery.",
+            "Avoid in knee injury or surgery.",
+            "Avoid in vertigo and eplilepsy.",
+            "Avoid in case of weak heart and high blood pressure.",
+            "Avoid in case of hernia, colitis and ulcers."
+        ]
+    }
+}
